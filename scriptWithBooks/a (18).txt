@@ -1,0 +1,1952 @@
+Sessizliğin Müziği
+
+
+
+
+
+Patrick Rothfuss
+
+
+
+
+
+İllüstrasyonlar: Nate Taylor
+
+
+
+
+
+Çeviren: Cihan Karamancı
+
+
+
+
+
+İthaki Yayınları
+
+
+
+
+
+Sessizliğin Müziği
+
+Patrick Rothfuss
+
+
+
+
+Özgün Adı: The Slow Regard of Silent Things
+
+
+
+
+İthaki Yayınları - 1005
+
+
+
+
+Yayına Hazırlayan: Alican Saygı Ortanca
+
+Kapak Uygulama: Şükrü Karakoç
+
+
+
+
+Kapak Görseli: Laura Brett
+
+İllüstrasyonlar: Nate Taylor
+
+İç Tasarım: Alissa Theodor
+
+
+
+
+1. Baskı, Nisan 2015, İstanbul
+
+
+
+
+E-kitap:
+
+1. Sürüm, Nisan 2015
+
+Nisan 2015 tarihli 1. baskısı esas alınarak hazırlanmıştır.
+
+
+
+
+Sertifika No: 11407
+
+
+
+
+
+Türkçe Çeviri © Cihan Karamancı, 2015
+
+© İthaki, 2015
+
+© Patrick Rothfuss, 2014
+
+İllüstrasyonlar © Nate Taylor, 2014
+
+Kapak Görseli © Laura Brett, 2014
+
+
+
+
+Yayıncının yazılı izni olmaksızın alıntı yapılamaz.
+
+
+
+
+
+İthaki™ Penguen Kitap-Kaset Bas. Yay. Paz. Tic. Ltd. Şti.’nin yan kuruluşudur.
+
+Bahariye Cad. Dr. İhsan Ünlüer Sok. Ersoy Apt. A Blok No: 16/15 Kadıköy/İstanbul
+
+Tel: (0 216) 348 36 97 - Faks: (0 216) 449 98 34
+
+ithaki@ithaki.com.tr - www.ithaki.com.tr - www.ilknokta.com
+
+
+
+
+
+Patrick Rothfuss, 1973’te Wisconsin’de doğdu. Çocukluk yıllarında, yaşadığı yerdeki hava koşullarının sertliği ve kablolu televizyonsuzluk yüzünden kendini kitaplara verdi. Washington Üniversitesi’ndeki yüksek lisans programının ardından, 1999 yılında mezun olduğu Wisconcin Üniversitesi - Stevens Point’e dönerek İngiliz Dili ve Edebiyatı Bölümü’nde ders vermeye başlayan yazar halen bu mesleğe devam etmektedir. Rothfuss, Kralkatili Güncesi serisinin ilk kitabı Rüzgârın Adı’nı yedi yılda tamamladı. Dünyada fırtınalar koparan bu ilk romanı tam otuz iki dile çevrildi ve 2007’de Quill Ödülü ile Publishers Weekly - Yılın En İyi Fantastik Kurgu Kitabı Ödülü’ne layık görüldü. Serinin ikinci romanı Sessizliğin Müziği da yayımlandığı ilk hafta Amerika’da çok satanlar listesine bir numaradan girdi.
+
+Sözcükleri, gülmeyi seven, dans etmekten hoşlanmayan ve hâlâ kablolu televizyonu olmayan Rothfuss boş zamanlarında sivil itaatsizlik ve simya ile uğraşmaktadır.
+
+
+
+
+
+Vi’ye, çünkü o olmasaydı hiçbir hikâye olmayabilirdi.
+
+Ve Tunnel Bob’a, çünkü o olmasaydı da Auri olmazdı.
+
+
+
+
+
+Yazarın Önsözü
+
+
+Bu kitabı satın almak istemeyebilirsiniz.
+
+Biliyorum, bu bir yazarın söyleyeceği türde bir söz değil. Satış departmanındakiler bundan hoşlanmayacaklar. Editörüm küplere binecek. Ama henüz yolun başındayken size karşı dürüst olmayı yeğlerim.
+
+Öncelikle, diğer kitaplarımı okumadıysanız işe buradan başlamak istemezsiniz.
+
+İlk iki kitabım Rüzgârın Adı ve Bilge Adamın Korkusu. Yazdıklarımı merak ediyorsanız onlarla başlayın. Yarattığım dünyaya en iyi giriş onlar. Bu kitap o serideki karakterlerden biri olan Auri’yi konu alıyor. O kitapların bağlamı olmadan büyük ihtimalle işin içinden çıkamazsınız.
+
+İkincisi, diğer kitaplarımı okuduysanız bile bunun biraz garip bir öykü olduğu konusunda sizi uyarmak boynumun borcu. İpucu vermek istemem ama bunun... farklı olduğunu söylesem sanırım yeter. Klasik bir öyküde olması gereken çoğu şey bunda yok. Ve eğer Kvothe’nin öyküsünün devamını arıyorsanız onu burada bulamayacaksınız.
+
+Öte yandan, Auri’yi daha yakından tanımak istiyorsanız bu kitabın size sunacağı çok şey var. Eğer sözcükleri, gizemleri ve sırları seviyorsanız; eğer Şeyaltı’nı ve simyayı merak ediyorsanız. Eğer dünyamın gizli köşeleri hakkında daha çok şey bilmek istiyorsanız...
+
+İşte o zaman bu kitap tam size göre demektir.
+
+
+
+
+
+Şeylerin Çok Aşağılardaki Dibi
+
+
+Auri uyandığında, yedi gününün kaldığını biliyordu.
+
+Evet. Bundan oldukça emindi. O, yedinci günde ziyaretine gelecekti.
+
+Uzun bir süreydi. Beklemek için uzun. Fakat yapılması gereken her şeyi yapmak için değil. Eğer dikkatli olursa. Eğer hazır olmak istiyorsa.
+
+Auri gözlerini açınca loş bir ışığın fısıltısıyla karşılaştı. Kabuk’ta, yani en mahrem yerinde saklandığı için bu nadir bir olaydı. Demek ki bu aydınlık bir gündü. Yoğun bir gün. Bir keşif günü. Göğsü heyecanla pırpır ederken gülümsedi.
+
+Parmakları yatak rafındaki damlalık şişesini bulduğunda, kolunun belli belirsiz şeklini görmesine yetecek kadar ışık vardı. Auri şişenin ağzını açtı ve Foxen’ın tabağına tek bir damla damlattı. Damla, tabağı kısa sürede güçsüz bir mavi ışıkla aydınlattı.
+
+
+
+
+Dikkatle hareket eden Auri, battaniyesini yere değmesin diye itti. Yataktan çıktığında ayaklarının altındaki taş zemin sıcaktı. Leğeni yatağının yakınındaki sehpada, en hoş kokulu sabunundan bir parçanın hemen yanında duruyordu. Geceleyin hiçbirinde bir değişiklik olmamıştı. İşte bu iyiydi.
+
+Auri, Foxen’ın tam üstüne bir damla daha sıktı. Tereddüt etti, ardından sırıtarak üçüncü damlanın düşmesine izin verdi. Bir keşif gününde yarım yamalak iş yapmak olmazdı. Ardından battaniyesini toparladı; çekip ona sarındı ve yere sürtmesin diye battaniyeyi dikkatle çenesinin altına sıkıştırdı.
+
+Foxen’ın ışığı dalgalanmaya devam etti. Işık önce belli belirsiz bir kıpırtıdan ibaretti: bir leke, uzak bir yıldız. Sonra daha fazlası, bir ateşböceği kadar aydınlandı. Ama parlaklığı sabit kalmayıp arttıkça arttı, ışığıyla birlikte tepeden tırnağa titreşir hale gelene dek. Artık ışık, tabağında gururla otururken bir sikkeden azıcık daha büyük, mavi yeşil bir kor parçasına benziyordu.
+
+Foxen’ın uykusu tamamen açılırken ve Kabuk’u en hakiki, en parlak mavi beyaz ışığıyla doldururken Auri ona gülümsedi.
+
+Genç kız bunun ardından etrafına bakındı. Kusursuz yatağını gördü. Tam boyuna göreydi. Santimi santimine. Sandalyesine göz attı. Sedir kutusuna. Minik gümüş kadehine.
+
+Şömine boştu. Ve onun üstünde şömine rafı duruyordu; raftaysa sarı yaprağı, taş kutusu, içinde hoş kokulu kurutulmuş lavanta bulunan gri cam kavanozu. Hiçbir şey başka bir şey değildi. Hiçbir şeyin olmaması gereken bir şey olmadığı gibi.
+
+Kabuk’tan çıkmanın üç yolu vardı. Bir koridor, bir kapı aralığı ve bir kapı. Bunlardan sonuncusu Auri için değildi.
+
+Genç kız kapı aralığından Uğrak’a çıktı. Foxen, tabağında beklediği için ışığı burada daha loştu ama yine de görülebilecek kadar parlaktı. Uğrak son zamanlarda pek işlek olmamıştı; Auri buna rağmen her şeyi teker teker gözden geçirdi. Şarap rafında, bir çiçeğin taçyaprağından daha kalın olmayan bir porselen tabağın kırık yarısı duruyordu. Onun altında deri ciltli bir oktavo kitap,[1] bir çift tıpa ve ufacık bir iplik yumağı mevcuttu. Bir yanda onun bembeyaz çay fincanı Auri’nin gıpta ettiği bir sabırla sahibini bekliyordu.
+
+Duvar rafındaki bir tabakta sarı renkli bir reçine damlası duruyordu. Siyah bir kaya. Gri bir taş. Düz, yassı bir tahta parçası. Tüm bunların yanında, bağlama teli ağzı aç bir kuşun gagası gibi açık duran ufacık bir şişe yer alıyordu.
+
+Ortadaki masaya beyaz renkli, temiz bir bezin üstüne bir avuç çobanpüskülü dutu bırakılmıştı. Auri dutları kısa bir süreliğine süzdü, sonra onları kitap rafına, yani daha uygun bir tüneğe götürdü. Odada etrafına bakınıp kendi kendine kafa salladı. Her şey tamamdı.
+
+Kabuk’a dönen genç kız yüzünü, elini ve ayağını yıkadı. Geceliğini çıkarıp katladı ve sedir kutusuna kaldırdı. Kollarını kaldırarak ve parmak uçlarında yükselerek mutlulukla gerindi.
+
+Daha sonra ondan aldığı, en gözde elbisesini üstüne geçirdi. Elbise teninde hoş bir his yaratıyordu. Auri’nin ismi, içinde bir ateş gibi yanıyordu. Bugün yoğun bir gün olacaktı.
+
+
+* * *
+
+Auri gidip Foxen’ı toparladı ve onu kapattığı avucunda taşıdı. Uğrak’tan geçerken duvardaki eğri bir çatlağı kullandı. Çatlak geniş olmasa da genç kız o kadar ince yapılıydı ki kırık taşlara sürtmemek için neredeyse omuzlarını çevirmesine bile gerek kalmayacaktı. Tam geçebileceği darlıkta olduğu söylenebilirdi.
+
+Gam karolarla kaplı düz, beyaz duvarlara sahip yüksek tavanlı bir odaydı. Genç kızın ayaklı aynası hariç yankıdan yoksun bir yerdi. Fakat bugün içeride bir şey daha, gün ışığının belli belirsiz esintisi vardı. Işık, kemerli bir kapı aralığının doruğundan sızıyordu. Aralık molozlarla –kırık kalaslar, düşmüş taş bloklar– dolu olsa da orada, en tepede ufacık bir ışık huzmesi mevcuttu.
+
+Auri aynanın önünde durarak kıl fırçayı aynanın tahta çerçevesinde asılı olduğu yerden aldı. Saçları bir bulut gibi başının etrafında asılı kalana dek, onlardaki uyku düğümlerini taradı.
+
+Bunun ardından elini Foxen’ın üstüne kapattı ve onun mavi yeşil parıltısı olmadan oda kapkaranlık kesildi. Gözleri kocaman açılan Auri, arkasında kule gibi yükselen moloz yığınındaki silik ışık lekesi haricinde hiçbir şey seçemedi. Altın sarısı rengindeki soluk ışık genç kızın yine aynı renkteki soluk saçlarına vurdu. Auri aynada kendi kendine sırıttı. Bu haliyle güneşe benziyordu.
+
+Elini kaldırarak Foxen’ı tekrar açığa çıkardı ve hızla sekerek Bellik’in geniş labirentine doğru yola koyuldu. Düzgün biçimde kumaşla kaplanmış bir bakır boru bulmak dakikalık işti. Fakat mükemmel yeri bulmak... Eh, asıl zor olan oydu, değil mi? Auri boruyu neredeyse bir kilometre boyunca kırmızı tuğlalı tünellerde takip ederken elinin kayıp da birbirine dolanmış diğer sayısız borudan birine atlamaması için dikkatli davrandı.
+
+Sonra boru hiçbir uyarıda bulunmaksızın keskin bir dönüş yaptı ve kavisli duvara doğrudan dalarak Auri’yi terk etti. Kaba şey, ne olacak. Elbette borudan bol bir şey yoktu; fakat ince tenekeden olanlar kaplamadan bütünüyle yoksundu. Cilalı çelikten yapılma buz gibi borular fazlasıyla yeniydi. Demir olanlar neredeyse mahcup edecek kadar hevesliydi ama hepsinin de kaplaması pamuktandı ve Auri’nin bugün böyle bir dertle uğraşacak hali yoktu.
+
+O nedenle genç kız kafasına göre bir seyir izleyen tombul seramik bir boruyu takip etti. Boru bir süre sonra toprağın derinliklerine gömülüp gidiyordu fakat kıvrıldığı noktadaki keten kaplaması bir yetimin gömleği kadar bol ve hırpani bir halde sarkmış duruyordu. Auri gülümsedi ve yırtmamaya özen göstererek kumaş parçasını nazik parmaklarla çözmeye koyuldu.
+
+Kumaş en sonunda çözüldü. Mükemmeldi. Auri’nin kolu uzunluğundaki tek parça incecik kumaşın rengi griye çalıyordu. Yorgun fakat istekliydi ve Auri onu ikiye katladıktan sonra dönüp yankılı Umbrel boyunca tabana kuvvet koşarak On İki’ye kadar indi de indi.
+
+On İki, Şeyaltı’ndaki eşine az rastlanır o değişken yerlerden biriydi. Kendini tanıyacak kadar akıllı, kendisi olacak kadar cesur ve her nasılsa hem benliğini koruyup hem de kendini değiştirecek kadar yabaniydi. Bu açıdan neredeyse eşsizdi; daima güvenli veya nazik olmamasına rağmen, Auri ondan hoşlanmaktan kendini alamıyordu.
+
+Kemerli yüksek boşluk bugün tam da genç kızın beklediği gibi parlak ve canlıydı. Gün ışığı çok yukarılardaki açık mazgallardan girerek değişken mekânın derin, dar vadisine vuruyordu. Işık borulardan, destek kirişlerinden ve de kadim bir ahşap yolun sağlam ve düzgün hattından geçip, ilerliyordu. Sokağın uzaklardan gelen sesi, şeylerin çok aşağılardaki dibine kadar ulaşıyordu.
+
+
+
+
+Auri parke taşlarının üzerinde tıkırdayan toynakların, bir parmak eklemi kadar keskin ve yuvarlak sesini duydu. Kulağına oradan geçen bir at arabasının uzak gümbürtüsü ve birbirine karışan konuşmaların boğuk uğultusu çalındı. Tüm bunların arasına belli ki meme isteyen ama bulamayan bir bebeğin tiz, öfkeli çığlıkları karışıyordu.
+
+Sarı On İki’nin dibinde cam kadar düzgün bir suyla dolu oldukça derin bir havuz vardı. Yukarıdan gelen gün ışığı, Auri’nin su altındaki boru keşmekeşlerinin ikincisini görmesine imkân tanıyacak kadar parlaktı.
+
+Genç kız burada hasır bulunduruyordu ve duvarların birinde boylu boyunca uzanan dar bir taş rafta, üç adet şişe bekliyordu. Fakat Auri onlara bakarken kaşlarını çattı. Şişelerden biri yeşil, diğeri kahverengiydi; sonuncusu ise şeffaftı. Birinin ağzı geniş bir tel yumağıyla, diğerininki gri renkli, döndürülerek açılan bir kapakla, sonuncusununkiyse yumruk kadar kalın bir tıpayla kapatılmıştı. Hepsi de farklı şekillerde ve ebatlarda olmasına rağmen hiçbiri dört dörtlük değildi.
+
+Canı burnuna gelen Auri ellerini öfkeyle havaya kaldırdı.
+
+Çıplak ayakları taşları tokatlarken, Kabuk’a kadar geri koştu. Oraya vardığı zaman da içinde lavanta bulunan gri cam şişeye baktı. Şişeyi aldı, dikkatle gözden geçirdi, uygun yerine bıraktıktan sonra yine koşarak oradan ayrıldı.
+
+Auri bu sefer duvardaki çatlak yerine eğri kapı aralığını kullanarak Uğrak’a ilerledi. Söğütlük’ün dolambaçlı yokuşlarını çıkarken Foxen, duvarlara oynak gölgeler düşürdü. Auri koştururken saçları bir sancak gibi peşi sıra dalgalanıyordu.
+
+Siyahev’deki spiral merdivenden döne döne indi. Nihayet akan suyun şırıltısı ve cam çınlamalarını duyduğunda Çınıltı’nın eşiğinden geçtiğini anladı. Az sonra Foxen’ın ışığı, spiral merdivenin dibini yutmuş karanlık sularla dolu çalkantılı göletten yansıdı.
+
+Buradaki sığ bir nişte iki adet şişe duruyordu. Biri mavi ve dar, diğeri ise yeşil ve bodurdu. Auri başını yana eğip bir gözünü kapadı, ardından iki parmağını uzatarak yeşil olana dokundu. Sırıtarak şişeyi kaptı ve merdiveni koşarak tırmandı.
+
+Geri giderken değişiklik olsun diye Tonozlar’dan geçti. Koridor boyunca koşarken çatlak zemindeki ilk derin yarığın üstünden bir dansçı kıvraklığıyla atladı, ikinci yarığı aşmak için bir kuş hafifliğiyle sıçradı. Üçüncüsüne gelince güneşe benzeyen hoş bir kız kadar çılgınca zıpladı.
+
+Sarı On İki’ye vardığında nefes nefeseydi. Soluklanırken Foxen’ı yeşil şişeye soktu, hasırı kullanarak onu dikkatle yastıkladı ve mandalı kauçuk contaya oturtarak şişenin ağzını sıkıca kapattı. Onu yüzüne doğru tuttu, sonra da sırıtarak öptüğü şişeyi dikkatle göletin kenarına koydu.
+
+Auri en sevdiği elbisesini çıkarıp parlak bir pirinç boruya astı. Sırıtırken karnında tedirgin bir balık yüzüyormuşçasına titredi. Ardından çırılçıplak dikilerek havada uçuşan saçlarını her iki elinde topladı, geriye tarayıp doladı ve gri renkli eski bir keten bez parçasıyla bağladı. İşi bittiğinde saçları upuzun bir kuyruk halinde beline kadar iniyordu.
+
+Genç kız kollarını göğsüne bastırarak iki ufak adım attı ve göletin yanında durdu. Önce ayak parmaklarından birini, sonra da tüm ayağını suya daldırdı. Nane şekeri kadar ferahlatıcı ve tatlı bir hisse kapıldı. Ardından eğilerek her iki bacağını da suyun içine sallandırdı. Kısa bir süreliğine dengede kalarak iki eliyle birden çıplak vücudunu göletin soğuk taş kenarından ayrı tuttu.
+
+Fakat bundan sonsuza kadar kaçınmazdı. O nedenle Auri kendini kasarak tamamen çöktü. Taşın soğuk kenarının nane şekerine benzer bir tarafı yoktu. Genç kızın hassas alt yarısını donuk, hissiz bir sızı sardı.
+
+Auri işte o zaman arkasına döndü ve suya girmeye koyuldu. Yavaş hareket etti ve küçük taş çıkıntıyı bulana dek etrafını ayaklarıyla yokladı. Ayak parmaklarını taşın üstüne kıvırarak kendini kalçalarına kadar gelen suda sabit tuttu. Sonra birkaç derin nefes aldı, gözlerini sımsıkı kapatıp dişlerini sıktı ve ayak parmaklarını gevşeterek kasıklarını yüzeyin altına batırdı. Hafifçe inledikten sonra bedenindeki tüm tüyler diken diken oldu.
+
+İşin en kötü tarafı geride kalınca gözlerini yumdu ve başını da suya soktu. Çıktığında nefes nefeseydi ve su kaçan gözlerini kırpıştırarak ovaladı. Sonra bir kolu göğüslerinin üstünü kapatmış haldeyken, baştan aşağı büyük bir ürpertiye kapıldı. Fakat ürperti geçtiğinde suratındaki buruşukluğun yerini bir sırıtış almıştı.
+
+Auri saçları başının üzerinde bir hale gibi kabarık olmadığında kendini küçük hissediyordu. Her gün olmak için çabaladığı türden bir küçüklük değildi hissettiği. Ağaçlar arasındaki bir ağacın küçüklüğü de değildi, yeraltındaki bir gölgenin küçüklüğü de. Üstelik küçük hissettiği tek şey bedeni değildi. Fazla etli butlu olmadığının farkındaydı. Ayaklı aynasına bakmayı akıl ettiği zamanlarda gördüğü kız, sokaklarda dilenen bir yetim kadar ufaktı. Gördüğü kız inceden de inceydi. Elmacık kemikleri çıkık ve narindi. Köprücük kemikleri ise teninden dışarı fırlayacak gibiydi.
+
+Fakat hayır. Saçları arkada toplandığında ve ıslanarak sarktığında Auri kendini daha... az hissediyordu. Bastırılmış gibi. Daha solgun. Soğuk. Soluk. Silik. Mükemmel keten bez parçası olmasaydı durum tümüyle tatsızlaşırdı. O olmasaydı Auri kendini yalnızca kısacık kalmış bir fitil gibi hissetmekle kalmaz, bir hiç olur çıkardı. İşleri doğru düzgün halletmek için buna değerdi.
+
+Titremeleri nihayet son buldu. Karnında hâlâ bir balık yüzse de gülümsemesi hevesliydi. Yukarıdan sızan altın sarısı gün ışığı bir mızrak kadar düz, parlak ve sabit bir şekilde gölete vuruyordu.
+
+Auri derin bir nefes aldı, sonra nefesini vererek ayak parmaklarını oynattı. Bir nefes daha alıp bu seferkini daha yavaş bıraktı.
+
+Sonra üçüncü bir tane. Genç kız Foxen’ın şişesinin boynunu bir eliyle kavradı, şişeyi göletin taş kenarına bıraktı ve suya daldı.
+
+
+* * *
+
+Işığın açısı mükemmeldi ve Auri ilk boru keşmekeşini apaçık gördü. Bir golyan balığının süratiyle döndü ve borulardan hiçbirinin kendisine dokunmasına izin vermeyerek aralarından rahatça süzüldü.
+
+Onun altında ikinci boru düğümü yer alıyordu. Auri daha fazla dalmamak için ayağıyla eski bir demir boruyu itti, sonra da yanında bulunan bir vanaya boştaki eliyle asılarak hızını değiştirdi ve bilek kalınlığındaki iki bakır borunun arasındaki dar boşluktan geçti.
+
+Genç kız derinlere daldıkça mızrağımsı ışık kayboldu ve geriye sadece Foxen’ın mavi yeşil parıltısı kaldı. Fakat etrafını saran hasırdan, sudan ve kalın yeşil camdan geçen ışığı burada daha boğuktu. Auri ağzını mükemmel bir yuvarlak yapıp çabucak iki hava kabarcığı bulutu püskürttü. O derinlere indikçe basınç artıyor, karanlıktaki loş suretler üstüne üstüne geliyordu. Bu suretler; eski bir yol, eğik bir kaya tabakası, yosun kaplı kadim bir tahta kirişten oluşuyordu.
+
+İleri uzanmış parmakları suyun dibini gözlerinden önce buldu ve Auri düzgün taş zeminin kısmen görebildiği yüzeyinde elini gezdirdi. Bir ileri bir geri. Bir ileri bir geri. Hızla ama dikkatlice. Bazen burada keskin şeyler olurdu.
+
+Sonra parmakları uzun ve düzgün bir şeyin üstüne kapandı. Bir değnek miydi? Auri onu kolunun altına sıkıştırdı ve kendini uzaktaki ışığa doğru yükselmeye bıraktı. Tanıdık boruları bulan boştaki eli borulara asılıp kendini yönlendirerek, genç kızı bulanık suretlerden oluşan labirentten geçirdi. Akciğerleri biraz sızlamaya başlayan Auri yükselirken yine bir hava kabarcığı bulutunu ağzından bıraktı.
+
+Yüzü gölet kenarının yakınında yüzeye çıktı ve o altın sarısı ışıkta aşağıdayken bulduğu şeyi nihayet gördü: beyaz renkli etsiz bir kemik. Uzundu, ama bir bacak değildi. Bir koldu. Bir prima aksiyal. Genç kız parmaklarını kemiğin üstünde boylu boyunca dolaştırdı ve bir halka gibi onu çepeçevre saran incecik bir kaynama noktasına rastladı. Demek ki çok önce kırılıp iyileşmişti. Kemik hoş gölgelerle doluydu.
+
+Gülümseyen Auri onu bir kenara koydu. Sonra üç kez yavaş ve derin nefes aldı, Foxen’ı sıkıca kavradı ve tekrar gölete daldı.
+
+Bu sefer ikinci düğümde ayağı iki borunun arasına sıkıştı. Şanssızlık işte. Kaşlarını çatan genç kız ayağına asıldı ve kısa süre sonra onu çekip kurtarmayı başardı. Ciğerlerindeki havanın yarısını bıraktı ve bacaklarını sertçe çırparak bir taş gibi aşağılardaki karanlığa kendini bıraktı.
+
+Kötü başlangıca rağmen bu seferki kolay bir keşif oldu. Parmakları daha dibe bile değmeden bir o-veya-bu yumağına rastladı. Bulduğu şeyin ne olabileceğine dair en ufak bir fikri yoktu. Birbirine dolanmış metal, kaygan ve sert bir şeydi. Auri onu göğsüne yasladı ve tekrar yükselmeye koyuldu.
+
+Bu sefer parçalarından birini kaybetmekten çekindiği için, bulduğu şeyi kolunun altına alamadı. Öyle yapmaktansa Foxen’ın şişesini koltuk altına sıkıştırdı ve sol eliyle kendini yukarı çekti. Yöntemi güzel ve dengeliydi. Auri hava kabarcıklarının geri kalanını salma gereği bile duymadan yüzeye vardı.
+
+Yumağı göletin kenarında açarak yaydı. Gördüğü şeyler, kömür kadar kararmış gümüş bir tokası olan eski bir kemer, şaşkına dönmüş bir salyangozun tutunduğu yapraklı bir dal ve son olarak dal parçasına dolanmış çürük bir sicime bağlı, genç kızın işaret parmağı uzunluğunda ince bir anahtardı.
+
+Auri salyangozu öpüp ondan özür diledikten sonra dalı ait olduğu yere, yani suya geri bıraktı. Kemerin derisi kendi içine kıvrılmıştı ama toka ufacık bir çekişle ayrıldı. Böylesi her iki parçanın da hayrınaydı.
+
+Göletin taş kenarına tutunan Auri artık omuzlarını ve göğsünü saran minicik dalgalar halinde titriyordu. Dudakları pembeliğini yitirip maviye çalan soluk bir pembe tonuna dönmüştü.
+
+Genç kız Foxen’ın şişesini aldı ve şişenin ağzının gevşemediğinden emin oldu. Başını eğerek suya baktığında karnındaki balık heyecanla yüzdü. Üçüncü dalış, şanslı olandı.
+
+Derin bir nefes alan Auri vücudunu düzgünce bükerek tekrar daldı. Sağ eli tüm dostane tutamakları buluyordu. Karanlığa indikçe indi. Taşlar... Tahtalar... Sonrasında ise, ileri uzanmış elini soluk mavi yeşil renge boyayan Foxen’ın loş ışığı hariç hiçbir şey... Eh bu haliyle bir su perisininkinin olması gerektiği gibi gözüküyordu.
+
+Parmak eklemleri dibe sürtünce yönünü ayarlamak için biraz döndü. Bacaklarını çırparak ve kolunu savurarak göletin siyah taş dibi boyunca süzüldü. Sonra gözüne bir parıltı ilişti. Parmakları keskin ve düzgün hatlara sahip, sert ve soğuk bir şeye çarptı. Bulduğu nesne sevgiyle ve cevaplarla doluydu; öyle ki Auri en ufak bir dokunuşta onların dışarı taştığını hissedebiliyordu.
+
+Genç kız on kalp atışlık bir süre boyunca bulduğu şeyin taşa yapışık olduğunu düşündü. Sonra nesne kaydı ve Auri gerçeği anladı. Bulduğu şey oldukça ağırdı. Uzun, kaygan bir anın ardından ufacık parmakları onu kaldırmanın bir yolunu buldu. Yekpare metal nesne bir kitap kadar kalındı. Tuhaf bir şekli vardı ve bir külçe saf iridyum kadar yoğundu.
+
+Auri onu göğsüne götürdüğünde kenarlarının tenine battığını hissetti. Sonra dizlerini büküp yüzeyin uzak parıltısına baktı ve iki ayağını birden dibe dayayıp kendini sertçe yukarı itti.
+
+Bacaklarını çırptı da çırptı; fakat sanki yerinden hiç kıpırdamadı. Metal şey ağırlık yaparak onu aşağı çekiyordu. Ayağı kalın bir demir boruya sertçe çarptı. Genç kız fırsattan yararlanarak oradan destek aldı ve kendini tekrar itti. Hissettiği ani ivme, ayağı demir borudan ayrılır ayrılmaz yavaşladı.
+
+Ciğerleri artık ona karşı koyuyordu. Yarısı dolu aptal şeyler daha çok hava istiyordu. Genç kız ağız dolusu hava kabarcığı salarak onları kandırmaya çalıştı. Aslında yitirdiği her kabarcığın kendisini daha da ağırlaştıracağının, hatta daha en alt boru keşmekeşinin yakınında bile olmadığının farkındaydı.
+
+Auri tutunarak kendini çekebilmek için metal şeyi koltuk altına kıstırmaya kalkıştı. Fakat bunu denediğinde pürüzsüz nesne parmakları arasında biraz kaydı. Auri o panikle çırpındı, bocaladı ve Foxen’ın şişesi görünmeyen bir surete çarptı. Foxen genç kızın elinden kurtuldu.
+
+Auri boştaki eliyle atıldı fakat parmakları Foxen’a vurarak onu daha da uzaklaştırmaktan başka işe yaramadı. Kız bir anlığına donakaldı. Metali bırakmak seçenek dışıydı. Fakat Foxen... Ezelden beri onunla beraber olagelmişti...
+
+
+
+
+Genç kız Foxen’ın şişesinin bir anafora yakalanıp savrulmasını ve yamuk bir bakır boru üçlüsünün arkasında erişim mesafesinden çıkmasını seyretti. Ciğerleri artık öfkeliydi. Auri dişlerini sıktı ve boşta kalan eliyle yakındaki taş bir çıkıntıya tutunarak kendini yukarı çekti.
+
+Ciğerleri artık içinde kabarıyordu; o yüzden Auri daha en alçaktaki keşmekeşi bile seçememesine rağmen kabarcıklarını yavaşça bıraktı. Foxen olmadan su karanlıktı ama en azından hareket halindeydi. Sarsakça yaptığı ani asılmalarla kendini yüzeye doğru çekiyor, ne kadar tuhaf olursa olsun bulabildiği her tutamağı kullanıyordu. Bacaklarını çırpmasına rağmen bu davranışı ona çok az şey kazandırıyordu. Sıkı sıkıya göğsüne bastırdığı keskin ve sert sevgi topağı ona ağırlık yapıyordu. Acaba nesneyi bu denli ağırlaştıran içinde barındırdığı cevaplar mıydı?
+
+Auri nihayet kendini en alçaktaki boru kümesine kadar çekebildi. Fakat ciğerleri artık boştu ve vücudu kurşun gibiydi. Normalde bir balık misali eğrilip bükülerek boru keşmekeşinin içinden rahatça sıyrılırdı. Ama şimdi ağır ve soluksuzdu. Tek eliyle boruları yoklayarak ve onlara asılarak boruların arasından geçti. O sırada dizini çarptı ve telaşa kapılarak sırtını pas tutmuş keskin bir şeye boylu boyunca sürttü. Bir kolunu uzattı fakat kendisine öyle ağırdı ki parmakları alışılageldik tutamağına değmedi bile.
+
+Bacaklarını çırparak birkaç santim daha kazandı. Sonra dikkatle bağlamış olmasına rağmen saçı bir şeye dolandı. Aniden sarsılarak duran genç kızın kafası geriye savruldu ve vücudu suda yan döndü.
+
+Neredeyse derhal batmaya başladığını hisseden Auri telaşla çırpındı. Kaval kemiği bir boruya çarparak tüm benliğinin acıyla sızlamasına sebep oldu. Fakat genç kız çarptığı yeri diğer ayağıyla çabucak buldu, oradan destek aldı ve kendini sertçe itti. Bir mantar tıpa gibi yükselirken saçlarının dolandığı kaba şeyden kurtulacak kadar hızlıydı. Yine de bu sert asılış kafasını geriye çekerek ağzını açılmaya zorladı.
+
+Auri işte o zaman boğulmaya başladı. Su dolu ağzıyla öksürdü ve tıkandı. Fakat su burnuna ve boğazına kaçarken bile genç kızın en çok korktuğu şey elinin açılıp, ağır metal nesnenin parmaklarından kayıp karanlığa düşme ihtimaliydi. Foxen’ı kaybetmek yeterince kötüydü. Bu durum Auri’yi karanlıkta kör ve yalnız bırakacaktı. Boruların altında kısılı kalmak ve boğularak canından olmak da berbattı. Fakat o şeylerin ikisine de yanlış denemezdi. Metalin karanlığa kayıp gitmesine göz yummak olacak iş değildi. Düşünülemezdi. Bu o kadar akıl almazdı ki kızı dehşete düşürüyordu.
+
+Artık açık olan saçları bir duman bulutu gibi başının etrafında dönüyordu. Eli bir borunun huzur verici, tanıdık kıvrımına tutundu. Auri kendini yukarı çekti, sonra da uzandı ve tutunacak başka bir yer buldu. Dişlerini sıktı, öksürdü, kendini yukarı itti ve tutundu.
+
+Yüzeye çıktığında ağzından su püskürterek soluklandı, sonra tekrar suyun altına kaydı.
+
+Bir saniye sonra elini pençe gibi kullanarak bir kez daha yükseldi. Boştaki eli bu sefer göletin taş kenarını yakaladı.
+
+Auri’nin sudan çıkardığı şey bir çanın sesiyle taş zemine çarptı. Tabak kadar büyük olan nesne parlak bir pirinç çarktı. Karşılaştırmak gerekirse, kalınlığının genç kızın başparmağından eksiği yok, fazlası vardı. Ortasında bir deliğe, dokuz adet dişe ve onuncunun uzun zaman önce koptuğu yerde çentikli bir boşluğa sahipti.
+
+
+
+
+Çark gerçek cevaplarla, sevgiyle ve ocak ışığıyla doluydu. Çok güzeldi.
+
+Auri gülümseyerek yarım mide dolusu suyu taşlara kustu. Sonra tekrar kustu ama bu kez, sular parlak pirinç çarka sıçramasın diye başını çevirdi. Bunun ardından öksürdü, ağzını suyla doldurdu ve gölete geri tükürdü. Pirinç çark Sarı On İki’nin soğuk taşlarında bir yürek kadar ağır duruyordu. Yukarıdan gelen ışık, çarkın yüzeyini parlak bir altın sarısına bürüyordu. Sanki Auri, güneşin bir parçasını derinlerden yüzeye çıkarmış.
+
+Tekrar öksüren Auri ürperdi. Elini uzatıp bir parmağını çarka değdirdi. Ona bakarken gülümsedi. Dudakları mosmordu. Titredi. Kalbi neşe doluydu.
+
+
+* * *
+
+Auri sudan çıktıktan sonra On İki’nin dibindeki gölete bakındı. Boş yere uğraştığını bilse de Foxen’ı yüzeyde tembel tembel yüzerken görmeyi umuyordu.
+
+Hiçbir şeyle karşılaşmadı.
+
+O zaman yüzü asıldı. Suya geri dönmeyi düşündü. Fakat hayır. Sadece üç defa. İşler böyle yürürdü. Yine de Foxen’ı karanlıkta bırakmanın düşüncesi, ta yüreğine kadar inen incecik bir çatlak açmak için yeterliydi. Bunca zaman sonra onu kaybetmek...
+
+Sonra Auri’nin gözüne yüzeyin çok altındaki bir şey takıldı. Bir ışıltı. Bir parıltı. Kız sırıttı. Foxen birbirine dolanmış borulara çarpa çarpa yavaşça yükselirken kocaman, tombul bir ateşböceğinden farksızdı.
+
+Auri beş uzun dakika bekleyerek Foxen’ın şişesinin sallana sallana yükselmesini, sonunda da bir ördek gibi yüzeye çıkmasını seyretti. Bunun ardından şişeyi kapıp öptü. Onu bağrına bastı. Evet, işte bu. İşleri usulüne uygun halletmek her şeye değerdi.
+
+
+* * *
+
+Her şey sırayla. Auri öncelikle Foxen’ı şişeden çıkardı ve şişeyi duvardaki diğerlerinin yanına bıraktı. Sonra Çınıltı’ya indi ve oradaki çalkantılı sularda durulandı. Cinnas meyvesi ve yaz kokan bir kalıp sabunun incecik kalıntısıyla kendini bir güzel yıkadı.
+
+Saçlarını sabunladıktan, fırçaladıktan ve temizledikten sonra son bir kez durulanmak için Çınıltı’nın uçsuz bucaksız karanlık sularına daldı. Yüzeyin altındayken bacağına bir şey sürtündü. Kaygan ve ağır bir şey hareketli ağırlığını genç kızın bacağına bastırdı. Bu durum Auri’yi rahatsız etmedi. Bacağına değen her ne ise, tıpkı Auri gibi kendine uygun yerdeydi. Her şey tam da olması gerektiği gibiydi.
+
+Tertemiz olan ve saçlarını sıkarak kurutan Auri oradan ayrılırken Onluklar’dan geçti. Bunun en hızlı yol olduğu söylenemezdi ama o pespembe haliyle Bozluklar’dan geçmek yakışık almazdı. Daha uzun yoldan gitmesine rağmen bir köşeyi dönüp Fırınlar’a çıkması uzun sürmedi. Islak ayakları taşları tokatlarken, genç kız Foxen’ı yakındaki çıkık bir tuğlanın üstüne bıraktı, zira dostu fazla ısıdan hoşlanmazdı.
+
+
+
+
+Tünel duvarı boyunca uzanan kalın çelik borular bugün yakınlarında durulmayacak kadar sıcaktı ve hem duvarlar hem de zemin, ısıdan çıtır çıtır edene kadar kavrulmuştu. Auri çıplaklığının herhangi bir parçası, borulardan fışkıran sessiz kızıl kükreme tarafından kızarmasın diye yavaşça kendi ekseninde döndü. Bulunduğu yerin tenini kurutması, incecik saçlarını havalandırması ve buz kesmiş kemiklerindeki ürpertileri pişirmesi yalnızca saniyeler sürdü.
+
+Bunun ardından Sarı On İki’den en gözde elbisesini aldı. Giysiyi başından aşağı geçirdi ve tüm hazinelerini Uğrak’a götürüp merkezi masanın üstünde sıraya dizdi.
+
+Deri kemere göze tuhaf gelen kıvrımlı desenler işlenmişti. Koca pirinç çark baştan aşağı pırıl pırıldı. Anahtar simsiyahtı. Kemer tokası ise siyah olmasına rağmen, altı parlaktı. Orada gizli bir şey vardı.
+
+Acaba kemer onun için olabilir miydi? İşte bu böyle bir güne başlamanın güzel bir yoluydu. Onun ziyaretine sadece birkaç gün kala hediyesini böyle erkenden hazır edip o işi aradan çıkarmak hoş olurdu.
+
+Auri kemer tokasını alıcı gözle süzdü. Bu ona uygun bir hediye miydi? Ne de olsa o sağı solu belli olmayan biriydi. Üstüne üstlük saklı çok şeyi vardı. Kafa sallayan genç kız koyu renkli soğuk metale dokunmak için uzandı.
+
+Fakat hayır. Toka ona yakışmazdı. Auri’nin bunu daha en başından bilmesi gerekirdi. O sabitlenmeye gelmezdi. Kapatılmaya da. Üstelik koyu da değildi. Ah, olamaz. O korumsuydu. Kıpkızıldı. Bakırla yaldızlanmış altın benzeri parlaklığının altı daha da parlaktı.
+
+Çarkın değerlendirilmesi lazımdı. Neredeyse ona uygun gibi gözüküyordu ama o işin acelesi yoktu. Acilen ilgilenilmesi gereken şey anahtardı. Aralarında en tez canlısı apaçık oydu. Üstelik bu zerre kadar bir şaşırtıcı değildi. Anahtarlar rehavetleriyle pek tanınmazdı ve bu seferki neredeyse bir kilit için uluyacaktı. Auri onu alıp ellerinde çevirdi. Bir kapı anahtarı. Anahtarın bu gerçeği itiraf etmekte hiçbir çekincesi yoktu.
+
+Siyah anahtar. Beyaz gün. Auri başını yana yatırdı. Şeylerin şekli doğruydu. Bu bir bulma günüydü ve hiç şüphe yok ki zavallı şey fena halde ilgiye muhtaçtı. Genç kız kendi kendine kafa salladı ve anahtarı elbisesinin cebine koydu.
+
+Yine de oradan ayrılmadan önce her şeyin uygun yerine geçmesine yardımcı oldu. Kemer tabii ki ortadaki masada kaldı. Toka reçine tabağının yanına taşındı. Kemik adeta edepsizce çobanpüskülü dutunun yanına sokuldu.
+
+Çark bu açıdan meşakkatliydi. Auri onu kitap rafına koydu, sonra köşedeki sehpaya taşıdı. Kayıp dişinin boşluğu dosdoğru yukarı bakan çark, duvara dayalı kaldı. Auri kaşlarını çattı. Uygun yer orası değildi.
+
+Genç kız anahtarı çıkarıp çarkın önünde tuttu. Siyah ve pirinç. İkisi de döndürülmek için. Toplamda on iki diş...
+
+Auri başını iki yana sallayıp iç geçirdi. Anahtarı tekrar cebine koyup koca pirinç çarkı kitap rafında bıraktı. Aslında ona uygun yer orası değildi ama Auri’nin elinden şimdilik bu kadarı geliyordu.
+
+
+* * *
+
+En yakın yer Bucak’tı; o yüzden Auri aceleyle o tarafa yöneldi ve kapılarından ilkine gelene kadar başını eğerek alçak taş kapı aralıklarından geçti. Geldiğinde de biraz soluklanıp Foxen’ı avucuna aldı ve üstüne hafifçe üfleyerek ışığını körükledi. Tahta kapı devasaydı ve zaman içinde rengi griye dönmüştü. Menteşeleri pul pul dökülen pas yığınlar topluluğuydu.
+
+Genç kız anahtarı cebinden çıkarıp önünde, kendisi ile dev gri kapının arasında tuttu. Bakışları ikisinin arasında gidip geldi, sonra arkasını dönüp, tez adımlarla oradan uzaklaştı. Üç kez sola döndükten ve kırık bir pencereden geçtikten sonra ikinci kapıya vardı. O da eski ve griydi ama ilkinden daha büyüktü. Auri’nin gerçeği anlamak için onlara şöyle bir göz atması yetti. Burada bir yanlışlık vardı. Bunlar uygun kapılar değildi. Peki neresi? Onluklar mı? Kara Kapı mı?
+
+Genç kızı bir ürperti aldı. Kara Kapı olamazdı. Beyaz bir günde değil. Öyleyse Yüklük. Ya da Onluk. Hatta Dipiçi. Bu Kara Kapı’ya göre bir anahtar değildi. Olamazdı.
+
+Auri aceleyle Bellik’ten geçerken iki kere sola, hatırı kalmasın diye de iki kere sağa döndü. Ayrıca kimseyi gücendirmemek için borulardan hiçbirini çok uzun süre takip etmedi. Onun ardından dolambaçlı yollarıyla ve kükürdü andıran kokusuyla Yamucak geldi. Auri oranın yıkık dökük duvarları arasında biraz yolunu kaybetse de sonunda Ufalanık’a, yani bir deliğe benzeyecek kadar dik olan dar bir toprak tünele çıkmayı başardı. Genç kız birbirine tutturulmuş çomaklardan oluşan uzun bir merdiveni kullanarak aşağı indi.
+
+Merdivenin dibi zımparalanmış taştan, ufak, derli toplu bir odada son buluyordu. İçerisi bir gömme dolaptan daha büyük olmayıp pirinç şeritli eski bir meşe kapının haricinde boştu. Auri ellerini silkeledi, kapıyı açtı ve hafif adımlarla Yüklük’e çıktı.
+
+Koridor bir at arabasının sığabileceği kadar genişti. Öylesine yüksek tavanlı ve uzundu ki Foxen’ın ışığı karşı ucu tıkayan moloz yığınına güçlükle ulaşıyordu. Mavi beyaz ışık yukarıda kristal bir avizeye çarpıp dağılıyordu.
+
+Duvarların alt kısımları koyu renkli ahşap panelliydi ama onların üstünde yer alan bölümlerde gösterişli alçı kaplamalar vardı. Tavan geniş fresklerle süslenmişti. Tüller içindeki kadınlar sağda solda aylaklık ediyorlar, fısıldaşarak birbirlerine yağ sürüyorlardı. Erkeklerse suda gülüp eğleniyorlar, çıplak halleriyle epey gülünç gözüküyorlardı.
+
+Auri her zaman yaptığı gibi hınzırca sırıtarak resimlere bakmaya biraz zaman ayırdı. Minicik ayaklarının altındaki cilalı mermer zemin soğuk olduğu için, ağırlığını bir bacağından diğerine aktarmayı ihmal etmedi.
+
+Yüklük’ün her iki ucu da devrilmiş kayalar ve toprakla tıkalı olsa da ortası bir pota kadar temizdi. Her şey alabildiğine kuru ve düzenliydi. Ne rutubet, ne küf, ne de toz getiren esintiler vardı. Çıplak adamlar olsun veya olmasın usturuplu bir mekândı; o yüzden Auri adaba tümüyle riayet etmeye özen gösterdi.
+
+Koridor boyunca on iki meşe kapı sıralıydı. Hepsi de şık, düzgün ve pirinç şeritliydi. Şeyaltı’nda geçirdiği uzun yıllarda Auri’nin, içlerinden sadece üçünü açmışlığı vardı.
+
+Genç kız havada tuttuğu elinde parlak bir ışık saçan Foxen’la beraber koridorda ilerledi. Bir düzine adımın ardından gözüne mermer zemindeki bir parıltı takıldı. Sekerek yaklaşınca avizeden düşmüş bir kristalin yerde sapasağlam durduğunu gördü. Belli ki şanslı ve cesur bir kristaldi. Auri onu eline aldı ve anahtarın bulunmadığı cebine soktu. İkisi bir araya gelirse yaygara çıkarmaktan başka bir şey yapmazlardı.
+
+Üçüncü kapı da uygun değildi, yedinci de. Auri dokuzuncu kapıyı gözüne kestirdiğinde daha şimdiden Dipiçi’ne inmekte kullanacağı güzergâhı planlıyordu. Kapı onu bekliyordu. Hevesle. Kapı kolu döndü ve kapı sessiz menteşeler üzerinde kolayca açıldı.
+
+İçeri giren Auri cebindeki anahtarı çıkarıp öptü, sonra da onu kapının hemen arkasındaki boş bir masaya dikkatle bıraktı. Anahtarın tahtaya değerken çıkardığı küçük tıkırtı genç kızın yüreğini ısıttı. Anahtarı orada, ona en uygun yerde rahatça otururken görmek Auri’yi gülümsetti.
+
+Bulunduğu yer bir oturma odasıydı. Pek güzeldi. Genç kız Foxen’ı bir duvar apliğinin içine koydu ve dikkatle etrafa bakındı. Yüksek bir kadife koltuk. Alçak bir tahta masa. Kabarık bir halının üstünde kabarık bir koltuk. Köşede birbirinden vakur bardaklarla ve şişelerle dolu ufacık bir servis arabası.
+
+
+
+
+Odada bir yanlışlık vardı. Göze batan bir şey değil. Otur Kalk veya Suratmaz’daki gibi hiç değil. Hayır. Burası iyi bir yerdi. Hemen hemen mükemmel bir yer. Her şey kusursuza yakındı. Bu her şeyin usulüne uygun yapıldığı beyaz bir gün olmasaydı Auri ortada bir hata olduğunu fark edemezdi. Ama öyleydi ve fark etmişti.
+
+Auri ellerini titizlikle arkasında kavuşturarak odada gezindi. Arabayı ve üzerindeki her renkten bir düzineden fazla şişeyi gözden geçirdi. Şişelerden bazıları tıpalı ve doluyken, bazıları ise sadece toz kaplıydı. Kanepenin yakınındaki masalardan birinin üstünde, perdahlı bir gümüş çark duruyordu. Yanında bir de yüzük vardı; muhtelif sikkeler de mevcuttu. Auri hepsini meraklı gözlerle süzmesine rağmen hiçbirine el sürmedi.
+
+Genç kız zarifçe ilerledi. Bir adım attı. Bir tane daha. Halının koyu renkli pelüşü tıpkı yosun gibi ayaklarının altında pek hoştu ve Auri parmaklarını onun tüyleri arasında gezdirmek için eğildiğinde gözleri kanepenin altında ufacık bir beyazlık seçer gibi oldu. Küçük beyaz ellerinden birini gölgelerin içine daldırdı ve parmakları onu yakalamadan önce biraz uzanması gerekti. Bulduğu şey pürüzsüz ve serindi.
+
+Bu solgun, yorgun bir taş parçasından oyulmuş minik bir heykelcikti. Sahip olduğu ustaca hatlarla zırhlı yeleği ve kalkanı vurgulanan küçük bir asker. Fakat asıl hazinesi, öpecek kadar şefkatli bakan suratının hoşluğuydu.
+
+Heykelcik buraya ait olmamasına rağmen yanlış durmuyordu. Daha doğrusu odadaki yanlışlık o değildi. Zavallıcık sadece yolunu kaybetmişti. Auri gülümseyerek bebeği kristalle aynı cebe koydu.
+
+O esnada ayağının altında minik bir yumru hissetti. Halının kenarını kaldırıp içe doğru katladı ve halının altında küçük bir düğmeye rastladı. Auri düğmeyi uzun uzun süzdükten sonra ona anlayışla gülümsedi. Sorunun kaynağı o da değildi. Düğme, olması gerektiği gibiydi. Genç kız dikkatle hareket ederek halıyı tıpatıp eski haline getirdi ve iki eliyle birden okşayarak yerli yerine oturttu.
+
+Tekrar odaya bakındı. Güzel bir yerdi ve neredeyse tamamen olması gerektiği gibiydi. Burada Auri’nin yapacağı bir şey yoktu. Bu sahiden şaşırtıcı bir durumdu, zira hiç kimsenin ilgilenmediği oda belli ki çok uzun zamandır yapayalnızdı.
+
+Yine de içeride sahiden bir terslik vardı. Bir eksiklik. Gece vakti delicesine öten yalnız bir cırcırböceği gibi mini minnacık bir şey.
+
+Odanın diğer tarafında açılmaya can atan ikinci bir kapı duruyordu. Auri kapı kolunu çevirdi, bir koridordan geçti ve kendini bir merdiven boşluğunun başında buldu. Orada biraz şaşkın gözlerle etrafına bakındı. Hâlâ Yüklük’te olduğunu sanmıştı ama belli ki değildi. Burası bambaşka bir yerdi.
+
+O anda genç kızın kalbi daha hızlı atmaya başladı. Yepyeni bir yere gelmeyeli çok uzun zaman geçmişti. Tamamen kendisi olmaya cüret eden bir yere.
+
+Auri yine de dikkati elden bırakmadı. Foxen’ın sabit ışığıyla duvarlara ve tavana daha yakından baktı. Birkaç çatlakla karşılaşsa da hiçbiri bir başparmaktan daha kalın değildi. Zaman içinde taşlardan bazıları yerinden çıkmıştı ve basamaklarda hem toprak hem de sıva döküntüleri vardı. Çıplak duvarlar bir nebze küçümseyiciydi. Hayır. Yüklük’ün geride kaldığı apaçık ortadaydı.
+
+Auri bir elini basamak taşlarında gezdirdi. İlk birkaçı sağlamdı ama dördüncüsü gevşemişti. Tıpkı altıncısı ve yedincisi gibi. Ve de onuncusu.
+
+Merdivenin kendi içine kıvrıldığı yarı yolda bir sahanlık bulunuyordu. Orada bir kapı vardı ama öyle utangaçtı ki Auri onu kibarca görmezden geldi. Genç kız ikinci merdiven boşluğunu da tırmandı ve oradaki basamaklardan yarısının da gevşek veya yerinden çıkmaya müsait olduğunu keşfetti.
+
+Sonra tüm oynak taşları bulduğundan emin olmak için merdivenleri gerisingeri indi. Bulamamıştı. Bu son derece heyecan vericiydi. Mekân sarhoş bir tenekeci kadar alengirli ve biraz da kurnazdı. Bir o kadar da asabiydi. Bir bahçe patikasından bu kadar farklı bir yer bulmak hiç kolay değildi.
+
+Bazı yerlerin adları olurdu. Bazı yerler değişirdi veya adını açıklamaktan çekinirdi. Bazı yerlerinse hiç adı olmazdı ve bu daima üzücüydü. Mahremiyete düşkünlük iyiydi hoştu ama ya hiç adının olmaması? Ne kadar korkunç. Ne kadar yalnız.
+
+Auri merdivenlerden ikinci kez çıkarken hayır gelmeyeceğini bildiği kısımlardan sakınarak her basamağı tek tek sınadı. Tırmanırken burasının nasıl bir yer olduğunu bir türlü çıkaramadı. Utangaç mıydı, yoksa esrarlı mı? Kayıp mı, yoksa yalnız mı? Kafa karıştırıcı bir yerdi. Bu durum genç kızın sırıtışını daha da genişletti.
+
+
+* * *
+
+Merdivenlerin tepesindeki tavan çökmüştü ama yıkık bir duvarın yarattığı bir boşluk vardı. Auri oradan geçerken kendini heyecanla sırıtırken buldu. Burası da yeni bir yerdi. Bir günde iki tane. Çıplak ayakları pütürlü taş zeminde ileri geri kıpırdarken coşkuyla dans eder gibiydi.
+
+Bu yer merdiven boşluğu kadar çekingen değildi. İsmi Kağnı’ydı. Dağınıktı, yarısı yıkık, yarı doluydu. Görecek çok şey vardı.
+
+Tavanın yarısı çökmüştü ve her şey tozla kaplıydı. Fakat yerinden çıkmış tüm taşlarına rağmen içerisi kuru ve düzenliydi. Rutubet yoktu, yalnızca toz ve durgun hava vardı. Odanın yarısından fazlası yoğun bir toprak, taş ve kereste yığınından ibaretti. Enkazın altında dört direkli bir yatağın kalıntıları ezilmiş halde yatıyordu. Çökmemiş bölümdeyse üç aynalı bir makyaj masası ile parmak uçlarında doğrulmuş uzun boylu bir kadından daha uzun olan koyu bir ahşap gardırop duruyordu.
+
+Auri gardırobun aralık kapılarından utangaçça baktı. Orada hepsi kadife ve nakışlı bir düzine elbise gördü. Ayakkabılar. İpek bir kaftan. Kadınların Yüklük’teki fresklerde giydikleri türden ufak tefek tül çamaşırlar.
+
+Makyaj masası pek havalıydı; boşboğaz ve yüzsüzdü. Üstüne pudra dolu kaplar, küçük fırçalar, far çubukları saçılmıştı. Bilezikler ve yüzükler. Boynuzdan, fildişinden ve tahtadan yapılmış taraklar. Bazıları irice, bazılarıysa birer taçyaprak kadar narin saç tokaları, kalemler ve bir düzine şişe de cabası.
+
+Tüm bunlar dudak uçuklatıcı bir karmaşa içerisindeydi. Makyaj masasının üstündeki her şey o veya bu şekilde çarpıktı; pudralar dökülmüş, şişeler devrilmiş, saç tokaları karman çorman olmuştu.
+
+Dağınık olsun veya olmasın Auri hırçın ve müstehcen şeyden hoşlanmadan edemedi. Genç kız, arkalığı düz olan sandalyenin ucuna titizlikle ilişti. Parmaklarını uçuşan saçlarının içinden geçirdi ve üçlü aynadaki yansımasını görünce gülümsedi.
+
+Yıkık duvarın karşısında bir de kapı vardı. Kırık bir kirişin ve parçalanmış taş blokların arasına kısmen gömülmüştü. Fakat saklı olmasına rağmen utangaç değildi.
+
+Auri kalkıp işe girişerek tüm bu şeylere elinden geldiğince çekidüzen verdi.
+
+Kapıyı tıkayan tahta kirişi kaydırdı. Uğraşıp didinerek onu her seferinde birkaç santim kaldırdı ve sonunda başka bir kırık kirişle destekledi. Ardından taşları temizledi, taşıyamadıklarını itti. İtemediklerini ise yuvarladı.
+
+Taşların altında küçük bir masanın enkazını, tahta kırıklarının arasında da beyaz renkli uzunca bir dantel örgü buldu. Bunu dikkatle katlayıp kristalin ve küçük taş askerin bulunduğu cebine koydu.
+
+Yol böylece temizlendikten sonra kapı çekilerek kolayca açıldı. Açılırken de paslı menteşeleri gıcırdadı. Kapının arkasından küçük bir dolap çıktı. Dolapta boş bir porselen lazımlık, tahta bir kova, bir geminin güvertesini temizlemekte kullanacağınız türden bir fırça ve huş ağacından bir süpürge vardı. Kapının arkasında iki adet boş keten çuval asılıydı. Bunların küçüğü işine gücüne bakma derdindeydi; o yüzden Auri gülümseyerek onu kendi haline bıraktı.
+
+Süpürge onca zaman kapalı kaldıktan sonra serbest bırakılmaya pek hevesliydi. Auri onu dışarı çıkarıp işe koştu ve yerdeki kadim tozu toprağı muntazam bir yığın haline gelene kadar süpürdü. Süpürgenin huzursuzluğu iş bittikten sonra bile geçmeyince Auri adsız merdiven boşluğunu da süpürmeye gitti.
+
+
+
+
+Tabii Foxen’ı da yanında götürdü. Böyle bir yerin karanlıkta uslu durmasına güvenecek hali yoktu. Fakat mekânı doğru düzgün süpürmek iki el birden gerektirdiği için genç kız Foxen’ı saçlarındaki uzun bir tutama bağladı. Bu davranışı Foxen’ın haysiyetini bir nebze zedeleyince de yaptığı hakarete istinaden ona içten bir özür öpücüğü kondurdu. Fakat onun çılgınca sallanmaktan, gölgeleri fıldır fıldır döndürmekten haz duyduğunu her ikisi de biliyordu.
+
+Böylece Foxen bir müddet asılı kaldı ve sallandı. Auri adsız merdivenleri baştan aşağı süpürürken ondan gelebilecek aşırı coşkuyu fark etmemeye özen gösterdi. Huş süpürge bir aşağı bir yukarı gidip gelerek taş basamakları dökülmüş kayalardan, kumlardan ve tozlardan temizledi. Basamaklar mahcupluklarını korusalar da bu ilgiden gururlandıkları belliydi.
+
+Auri süpürgeyi dolaba geri götürdükten sonra lazımlığı çıkardı ve gardırobun yakınına bıraktı. Onu biraz çevirdi ki uygun tarafa baksın.
+
+Tüm albenisine rağmen makyaj masası da bezdiriciydi. Baştan aşağı dağınık gözükse bile hiçbir şey çekidüzen verilmesi için can atmıyordu. Tek istisna saç fırçasıydı ve Auri onu kurnaz bir yakut yüzüğe yaklaştırdı.
+
+Genç kız kollarını kavuşturup uzunca bir süre makyaj masasını süzdü. Sonra elleri ve dizleri üstüne çöküp masanın altına baktı. Çekmecelerini açtı ve mendilleri sağ taraftaki çekmeceden soldakine aktardı. Sonra kaşlarını çattı ve hepsini eski yerine koydu.
+
+Sonunda tüm makyaj masasını iki karış kadar sola ve duvarın biraz daha yakınına itti. Bunu yaparken de hiçbir şeyin yere düşmemesine özen gösterdi. Masanın yüksek arkalıklı sandalyesini de aynı miktarda kaydırdı ki aynaların karşısında durmaya devam etsin. Bu iş de bitince sandalyeyi kaldırdı, omzunu hafifçe silkip tekrar yerine bırakmadan önce ayaklarının altını inceledi.
+
+Gardırobun yanındaki zeminde gevşek bir taş vardı. Auri onu parmaklarıyla kanırtarak yerinden çıkardı, altındaki kösele çaput ile yün topağından yapılmış dolguyu düzeltti, taşı yerine yerleştirdi ve süpürgenin sapıyla bastırarak sıkıca sabitledi. Taşı bir ayağıyla sınadı ve ağırlığı altında kıpırdamayınca gülümsedi.
+
+Son olarak gardırobu açtı. Şarap rengi kadife elbiseyi soluk mavi renkli ipek olandan ayırdı. Yüksek bir şapka kutusunun çıkmış kapağını yerine taktı. Gardırobun altındaki çekmeyeceği açtı.
+
+O anda nefesi kesildi. Çekmecenin dibinde kusursuzca katlanmış çok sayıda solgun ve dümdüz çarşaf diziliydi. Auri birine dokunmak için elini uzattığında dokumanın sıklığı onu hayrete düşürdü. Kumaş o denli kaliteliydi ki iplikleri hissedemedi. Çarşaf tıpkı soğuk bir geceden yeni gelmiş bir sevgilinin öpücüğü gibi genç kızın teninde serin ve hoş bir his bıraktı.
+
+Auri elini yüzeyde gezdirdi. Böyle bir çarşafın üstünde uyumak, ona uzanıp yumuşaklığını çıplak teninde boylu boyunca hissetmek kim bilir ne harika olurdu.
+
+Ürperen genç kızın parmakları katlı çarşafın kenarını kavradı. Auri ne yaptığını bile fark etmeden onu uygun yerinden çekip aldı ve göğsüne bastırdı. Dudaklarını çarşafın pürüzsüz yüzeyinde gezdirdi. Altından başka çarşaflar da çıktı. Bu resmen bir defineydi. Muhakkak Kağnı gibi bir yere yeter de artardı bile. Hem zaten Auri’nin düzeltecek daha başka o kadar çok şeyi vardı ki. Muhakkak...
+
+Genç kız uzunca bir süre çarşafı süzdü. Gözleri yumuşak ve istekli bakmasına rağmen ağzı sert ve öfkeli bir biçim aldı. Olmaz, işler böyle yürümezdi. Auri bunun bilincindeydi. Çarşafın nereye ait olduğundan pekâlâ haberdardı.
+
+İçini bir utanç kaplayan Auri gözlerini yumdu ve çarşafı çekmeceye geri koydu. Bazen açgözlülük edebiliyordu. Bencilce isteklere kapılıyordu. Dünyayı çarpıtarak uygun şeklinden çıkarıyordu. Arzusunun ağırlığıyla her şeyi yerinden ediyordu.
+
+Auri çekmeceyi kapatıp ayağa kalktı. Etrafına bakınarak kendi kendine kafa salladı. Burada iyi bir başlangıç yapmıştı. Makyaj masasının biraz ilgi gerektirdiği belliydi ama genç kız henüz onun tabiatını sezememişti. Yine de bu yerin bir adı vardı ve içerisinde bulunan tüm şeylerin de bir adı olması muhtemeldi.
+
+
+
+
+Genç kız Foxen’ı alıp adsız merdivenden indi. Yüklük’ten ve Ufalanık’tan geçip Kabuk’a geri döndü. Temiz su çekip yüzünü, elini ve ayağını yıkadı.
+
+Bunun ardından kendini çok daha iyi hissetti. Gülümsedi ve kapıldığı bir hevesle Derinler’e koştu. Orayı ne zamandan beri ziyaret etmemişti. Ve mekânın sıcak toprak kokusunu, duvarlarının sıkışıklığını özlemişti.
+
+Parmak uçlarında seke seke koşan Auri borulara çarpmamak için başını eğerek Bellik’i dans edercesine aştı. Koru’dan geçerken sarkık çatıyı yerinde tutan yıpranmış kirişlerde sallandı. Nihayet iyice kabarmış tahta bir kapıya ulaştı.
+
+Kapıdan geçerken Foxen’ı yukarı kaldırdı. Burnuna havanın kokusu çalındı. Auri sırıttı. Nerede olduğunu tamı tamına biliyordu. Her şey durması gerektiği yerdeydi.
+
+
+
+
+
+Bir Bakışın Yol Açtıkları
+
+
+İkinci gün Auri mükemmel karanlıktaki sessizliğe uyandı.
+
+Bu bir dönüş günü demek oluyordu. Bir faaliyet günü. Güzel. O çıkagelmeden önce yapacak çok şey vardı. Auri hiç hazır değildi.
+
+Genç kız Foxen’ı uyandırdı ve köşelerini yere değdirmemeye özen göstererek battaniyesini katladı. Odada etrafına bakındı. Kutusu, yaprağı ve lavantası iyi durumdaydı. Yatağı da öyle. Her şey tam olması gerektiği gibiydi.
+
+Kabuk’tan çıkmanın üç yolu vardı. Koridor sonrası içindi. Kapı aralığıysa şu an için. Kapı, demir şeritli meşe ağacındandı. Auri ona bakmadı.
+
+Taş heykelcik ile dantel örgü Uğrak’ı ev bellemişlerdi. Cesur kristal, şarap rafında durmaktan hoşnuttu. Kol kemiği ile keten çuval o kadar rahattı ki görseniz yüzlerce yıldır orada bulunduklarını sanırdınız. Eski siyah toka, komşusu reçineyi biraz sıkıştırsa da bu sorun çabucak giderildi. Auri kimsenin huzuru kaçmasın diye onu kenara itti.
+
+Genç kız etrafa bakınıp iç geçirdi. Koca pirinç çark hariç her şey yerli yerindeydi. Çark onu canından bezdirmekteydi.
+
+Auri kristali alıp çarkın yanına koydu. Fakat bunun hiçbir faydası dokunmadı ve kristali huzursuz etmekten başka bir işe yaramadı. Kristalin cesareti on kişininkine bedeldi ama köşe masasına uygun değildi. Auri özür dileme mahiyetinde onu çabucak öptü ve şarap rafına geri götürdü.
+
+Genç kız ağır çarkı iki eliyle birden kaldırıp Kabuk’a kadar taşıdı. Aslında yaptığı duyulmuş şey değildi ama Auri bu noktada işin içinden çıkabilecek halde değildi. Çarkı, yatağının karşısındaki duvarda bulunan dar taş çıkıntıya bıraktı. Biraz da eğdi ki eksik dişinin boşluğu dümdüz tavana baksın. Fazlasıyla kısa kalmış güdük kollarıyla yukarı uzanıyormuş gibi.
+
+Geri çekilen genç kız çarka tekrar bakıp iç geçirdi. Böylesi daha iyiydi. Yine de uygun yer orası değildi.
+
+Auri yüzünü, elini ve ayağını yıkadı. İncecik sabun parçası gün ışığı kokuyordu ve bu durum genç kızı gülümsetti. Auri daha sonra en gözde ikinci elbisesini giydi, zira onun cepleri daha iyiydi. Ne de olsa bu bir dönüş günüydü.
+
+Uğrak’ta keten toplaçuvalının içine birkaç parça şey atıp onu omuzladı. Ardından ceplerini ağzına kadar doldurdu. Oradan ayrılmadan önce Kabuk’taki pirinç çarka tekrar göz attı. Fakat hayır. Çark eğer gelmek isteseydi Uğrak’ta kalmakla yetinmesi gerekirdi. Mağrur şey, ne olacak.
+
+Gam’a gittiğinde, aynayı huzursuz hatta tedirgin bulmak Auri’yi şaşırttı. Güne tekin bir başlangıç yapıldığı söylenemezdi. Yine de sadece bir ahmak böyle bir şeyi bilerek görmezden gelirdi. Ve Auri ahmak falan değildi.
+
+Hem zaten ayna uzun zamandır buralarda olduğu için Auri onun huyunu suyunu iyi biliyordu. Ayna yer değiştirmek istiyordu ama önce sakinleştirilmesi lazımdı. Teselli edilmesi. Gönlünün alınması. Üstü örtülmeliydi. Bu nedenle henüz saçları taranmamış olmasına rağmen genç kız Foxen’ı aldı ve uzun yoldan Yüklük’e indi. Gözlerini tepesindeki fresklere dikerek yeni açılmış kapısına doğru yavaşça yürüdü.
+
+Oturma odasında kısa bir mola verip etrafa bakındı. Minicik hata tıpkı dişlerinin arasına sıkışmış bir kırıntı gibi hâlâ oradaydı. İçerideki diğer her şey neredeyse bir daire kadar mükemmel olmasaydı Auri’nin keyfi bu denli kaçmazdı.
+
+Fakat bazı şeyler aceleye gelmezdi. Auri bunu adı gibi iyi bilirdi. Zaten her şeyden önce aynayı adam etmesi lazımdı. Bu da onu örtmek demekti. O yüzden tehlikeli taşlardan sakınmak için ayakları ileri geri sekerek adsız merdivenleri tırmandı. Sonra da yıkık duvardan Kağnı’ya geçti.
+
+Auri orada gardırobun çekmecesini açtı. Çarşaflara dokunmayıp ellerini ceplerine götürdü. Cesur kristalin düzgün façetalarını yokladı. Hayır. Şefkatli taş heykelciğin kıvrık hatlarını elledi. Hayır. Yassı siyah taş? Hayır.
+
+Sonra parmakları kemer tokasına değdi ve gülümsedi. Onu cebinden çıkarıp nazikçe çekmeceye koydu. Ardından en üstte bulunan katlı çarşafı aldı. Çarşaf ellerinin arasında pürüzsüz ve yumuşacıktı. Fildişi kadar da beyazdı.
+
+Auri o anda durup çekmecedeki tokanın siyahlığına baktı. Karnına bir taş oturdu. Toka oraya ait değildi. Ah, orada durmasının akla yatkın göründüğü kesindi. Ah evet. Kesinlikle. Ama genç kız görüntünün sonuçta ne kadar değeri olduğunu iyi bilirdi, değil mi?
+
+Auri çarşafı gönülsüzce çekmeceye geri koyup parmaklarını dümdüz, tertemiz ve yepyeni kumaşın mükemmel beyazlığında gezdirdi. Çarşafta kıştan kalma bir iz gizliydi.
+
+Fakat hayır. Doğruluk ile doğru olmasını dilediğimiz şey arasında bir fark vardır. Auri iç geçirerek kemer tokasını tekrar eline aldı ve cebine soktu.
+
+Çarşafı orada bırakan genç kız gerisingeri Kabuk’a dönmek için yola çıktı. Artık sekmeden, daha yavaş yürüyordu. Adsız merdivenden inerken yaptığı yolculuk onu bir nebze neşelendirdi. Bir güvenli kısımdan diğerine geçtikçe, güzergâhı sarhoş olmuşçasına zikzaklı bir seyir izledi.
+
+Ayağının altındaki bir taşın kaymasıyla Auri düşmemek için kollarını salladı. Tek ayağı üstünde dengesini sağlayarak başını yana yatırdı. Yoksa burası Tumba mıydı? Hayır. Mekân öyle bir ad için fazla kurnazdı.
+
+Gam’daki ayna huzursuzluğunu koruyordu. Elinde daha iyi bir seçenek bulunmayan Auri gidip yatağındaki battaniyeyi almak zorunda kaldı. Yere değmemesine dikkat ederek battaniyeyi aynanın üstüne örttü, sonra onun yönünü duvara çevirdi. Ayna ancak bunun ardından durmayı tüm kalbiyle istediği tuğlalarla örülmüş pencerenin önüne kadar taşınabildi.
+
+Battaniyesini Kabuk’a geri götüren genç kız yüzünü, elini ve ayağını yıkadı. Gam’a döndüğünde vaktini iyi değerlendirmiş olduğunu anladı. Aynasını hiç bu kadar halinden hoşnut görmemişti. Kendi kendine sırıtan Auri saçlarındaki peri düğümlerini tarayarak saç tellerini altın sarısı bir bulut misali başının etrafında asılı bıraktı.
+
+Fakat tam işini bitirirken, saç bulutunu arkasına atmak için kollarını kaldırdığında ansızın başı döndü ve biraz sendeledi. Baş dönmesi geçince ağır adımlarla Cırcıriye’ye gitti ve uzun, derin bir yudum su içti. Serin suyun hiçbir engelle karşılaşmadan bedeninin içinde gezindiğini hissetti. Kendini oyuk hissetmekteydi. Karnı boş bir yumruk gibiydi.
+
+Ayakları Elmahane’ye gitmek istese de genç kız orada hiç elma kalmadığını biliyordu. Zaten o Auri’yi orada beklemezdi. Yedinci güne kadar öyle bir işe kalkışmazdı. Hem böylesi daha iyiydi. Auri’nin paylaşacak uygun bir şeyi yoktu. Verecek yeterince uygun bir hediye bulduğu da söylenemezdi.
+
+Auri bunun üzerine Ağaç’a gitti. Tavaları uygun yerlerinde asılı duruyordu. İspirto feneri de öyle. Çatlak kil fincan sessiz sedasız oturuyordu. Her şey olması gerektiği gibiydi.
+
+Bununla beraber, genç kız Ağaç’ta yiyecekten çok alet edevata sahipti. Raflarda onun verdiği tuz heybesi vardı. Katlı bir kâğıt yaprağına alçakgönüllülükle sarınmış dört tombul incir vardı. Tek, yalnız, kurumuş bir elma vardı. Şeffaf bir cam kavanozun dibinde bir avuç kuru bezelye ise mahzun mahzun oturmaktaydı.
+
+
+
+
+Taş tezgâha bir soğutma kuyusu açılmıştı. Kuyudan yavaş fakat sürekli olarak buz gibi bir su akmaktaydı. Ancak suyun bir parça sarı tereyağından başka soğuk tuttuğu bir şey yoktu ve bıçaklarla dolu tereyağı yenmeye pek de elverişli değildi.
+
+Tezgâhın üstünde narin ve harikulade bir şey duruyordu. Ağzına kadar muskat yemişleriyle dolu gümüş bir kâse. Yuvarlak, kahverengi ve nehir taşları kadar pürüzsüz yemişler çok uzak diyarlardan ziyarete gelmişlerdi. Havayı adeta hasretlerinin türküsüyle dolduruyorlardı. Auri onları özlemle süzdü ve parmak uçlarını gümüş kâsenin kenarında gezdirdi. Kâse birbirine dolanmış yaprak motifleriyle süslüydü...
+
+Fakat hayır. Nadir ve birbirinden hoş olmalarına rağmen Auri muskatların yenebileceği görüşünde değildi. En azından şimdilik. Bu bakımdan tereyağına benziyorlardı; tam anlamıyla yiyecek sayılmazlardı. Ağaç’ta vakit geçirmeyi isteyen gizemlerdi, o kadar.
+
+Auri yüksek rafında bekleyen elmaya erişebilmek için tezgâha çıktı. Sonra soğutma kuyusunun yanına bağdaş kurup belini doğrulttu ve elmayı yemeden önce yedi eşit parçaya ayırdı. Köselemsi parçaların her biri güz doluydu.
+
+Elma açlığını gidermedi. Auri bunun üzerine kâğıdı da aşağı indirdi ve önüne koyup dikkatle açtı. Kendi kendine bir şarkı mırıldanarak incirlerden üçünü ufak lokmalarla yedi. Yemeyi bitirdiğinde elleri titremez olmuştu. Genç kız sona kalan inciri yine kâğıda sarıp rafa kaldırdı, sonra da yere indi. Avuçlarıyla kuyudan biraz su alıp içti. Sırıttı. Su midesinde ürpertiler yaratmıştı.
+
+
+* * *
+
+Auri yemeğin ardından pirinç çarka uygun bir yer bulma vaktinin gelip de geçtiğini biliyordu.
+
+Önce çarkı pohpohlamayı denedi. İki elini birden kullanarak onu dikkatle taş kutunun yanındaki şömine kaşının üstüne koydu. Çark övgüleri duymazdan geldi ve orada öylece oturarak öncekinden zerre fazla ilgi göstermedi.
+
+İç geçiren Auri tekrar iki eliyle birden çarkı aldı ve Umbuk’a kadar götürdü. Fakat çark oradaki kadim fıçıların arasında mutlu olmadı. Cırcıriye’deki derenin yanında da kalmak istemedi. Auri onu Siyahev boyunca oradan oraya taşıyarak tüm pencere pervazlarına tek tek koydu. Fakat hiçbiri çarka azıcık bile uygun düşmedi.
+
+Çarkın ağırlığıyla kolları sızlamaya başlayan genç kız kızmayı denediyse de öfkesini koruyamadı. Çark, kızın aşağıda geçirdiği onca yıl boyunca gördüğü hiçbir şeye benzemiyordu. Sadece ona bakmak bile Auri’yi mutlu etmeye yetiyordu. Ve tüm ağırlığına rağmen ona dokunmak keyif veriyordu. Bu çark ne tatlı şeydi. Sevgiyle çınlayan sessiz bir çan gibiydi. Auri tarafından taşındığı süre boyunca içinde barındırdığı gizli cevapların şarkısını söyledi durdu.
+
+Hayır. Genç kız öfkelenemiyordu. Çark elinden geleni yapıyordu. Onun nereye ait olduğunu bilmemek Auri’nin suçuydu. Cevaplar daima önemli olsa da nadiren kolay olurdu. Auri’nin acele etmeyip işleri doğru düzgün halletmekten başka çaresi yoktu.
+
+Auri sırf emin olmak için çarkı ilk bulduğu yere geri götürdü. Ondan ayrılmak üzüntü verecekti ama bazen elden bir şey gelmezdi. Bazı şeyler geldikleri yerde kalamayacak kadar doğru olurdu. Bazıları yalnızca bir süreliğine ziyaret edip giderdi.
+
+Auri Gri On İki’nin kubbeli karanlığına girerken Foxen’ın ışığı görünmeyen tavana doğru yükseldi. Sakin yeşil parıltısı duvarlarda birbirine dolanan boruların arasına kadar uzandı. Burası bugün farklı bir yerdi. Bu da tabiatının bir gereğiydi. Yine de Auri burada hoş karşılandığının veya hoş karşılanmasa bile en azından kayıtsızca görmezden gelindiğinin farkındaydı.
+
+Auri odanın içine, göletin derin siyah sularının cam gibi dümdüz yayıldığı yere kadar ilerledi. Kırık dişi eğimli bir açıyla yukarı dönük olarak, parlak çarkı dikkatle göletin taş kenarına koydu. Ardından bir adım geri çekilip tek eliyle Foxen’ın üstünü örttü. Odanın içerisinde yukarıdaki mazgaldan sızan loş gri ışık haricinde hiçbir şey olmayınca, çark eskisi kadar parlak gözükmüyordu. Auri nefesini tutup, başını yana yatırarak onu bir müddet yakından gözledi.
+
+Sonra sırıttı. Çark ayrılmak istemiyordu. En azından bu kadarı belliydi. Auri onu alıp bir de göletin üstündeki dar çıkıntıda, şişelerinin yanında denedi. Fakat çark cevaplarla dolup taşarak orada ilgisizce durmakla ve genç kızla alay etmekle yetindi.
+
+Auri yere bağdaş kurdu ve pirinç çarkın daha başka nereye uyabileceğini düşünmeye çalıştı. Mandril? Mumayı? Genç kız havada bir tüy hışırtısı duydu. Kanatlar sertçe çırptı, sonra durdu. Başını kaldıran Auri çok yukarılardaki mazgaldan giren ışığın donuk gri halkasında bir çobanaldatanın dış hatlarını gördü.
+
+Kuş bir şeyi boruya sertçe çarpıp yedi. Auri o şeyin bir salyangoz olduğunu tahmin etti. Lakin borunun tipini tahmin etmeye gerek yoktu. Çınlama Auri’ye onun demir, siyah ve başparmağından iki kat daha kalın olduğunu söylemişti. Çobanaldatan boruya tekrar vurdu, ardından su içmek amacıyla gölete indi.
+
+Kuş suyunu içtikten sonra çabucak önceki tüneğine, demir boruya uçup tekrar o donuk gri ışık halkasının ortasında durdu. Boruya üçüncü ve son kez vurdu.
+
+Auri’nin içi buz kesti. Dimdik oturdu ve kuşu dikkatle süzdü. Hayvan onun bakışlarına uzunca bir süre karşılık verdi, sonra da yapmak için geldiği şeyi yapmanın bilinciyle uçup gitti.
+
+Kuşun arkasından donmuşçasına bakakalan Auri’nin karnı yavaşça düğümlendi. Durumun bundan daha belirgin olmasını isteyemezdi. O anda nabzı hızlandı ve avuçlarını birdenbire ter bastı.
+
+Hızla koşmaya başlayan genç kız bir düzine adım atmıştı ki aklı başına geldi ve alelacele geri gitti. Kabalığından utanarak pirinç çarkı öptü ki onu terk etmediğini bilsin. Geri gelecekti. Bunun ardından döndü ve koşarak oradan uzaklaştı.
+
+Öncelikle Kabuk’a uğrayıp yüzünü, elini ve ayağını yıkadı. Sedir kutusundan bir mendil kaptıktan sonra Bellik’ten ve Aşağısı’ndan geçip Bucak’a vardı. Sonunda nefes nefese kalmış bir halde Sakiniye’ye açılan mütevazı tahta kapının önünde durdu.
+
+Auri duyduğu korkunun burukluğu ve ürpertisiyle kapının kenarlarına baktı. Oralarda az da olsa örümcek ağları görünce gevşedi. Hâlâ vakit vardı. Belki. Kulağını tahtaya dayayıp uzunca bir süre dinledi. Hiçbir şey duymadı. Kapıyı yavaşça çekerek açtı.
+
+Genç kız kapı aralığında tedirgince dikilerek tozlu odaya baktı. Tavandan sarkan örümcek ağlarını, üzerlerine tozlu aletlerin saçılmış olduğu masaları süzdü. Şişelerle, kutularla, teneke kaplarla dolu rafları süzdü. Odanın karşı tarafındaki diğer kapıyı süzdü. Kapının kenarlarından ışık sızdığına dair bir iz yoktu.
+
+Auri buradan hoşlanmazdı. Bulunduğu yer Şeyaltı’nın dışındaydı. Burası bir ara yerdi. Auri’ye uygun değildi. Lakin ne kadar hoşlanmasa da diğer seçenekler hep daha beterdi.
+
+Auri ince bir toz tabakasıyla kaplı zemini inceledi. Gri tabakada büyük bir çizme çiftinin izleri, yere sürtmüş ayakların siyah lekeleri mevcuttu. Çizme izleri bir öykü anlatıyordu. Diğer kapıdan giriyorlar, bir masaya ve oradan yakındaki bir rafa kadar gidiyorlar, sonra da genç kızın durduğu kapı aralığına kadar dümdüz uzanıyorlardı.
+
+Auri izlerin eşikten geçtiği noktaya sert gözlerle baktı, izler Sakiniye’nin tozlu zemininden ayrılırken görünmez hale geliyordu. Uzun zaman öncesinden kalmışlardı. Fakat görüntüleri şimdi bile Auri’de kalp çarpıntısına sebep oluyordu. Baştan aşağı karıncalanan tenini sıcak basarken genç kız onların düşüncesi karşısında öfkeye kapılıyordu. İkinci bir çizme izi dizisi aynı öyküyü tersten anlatıyordu. İzler Şeyaltı’ndan Sakiniye’ye geri dönüyordu. Masaların ve rafların yanından geçiyorlar, sonra da diğer kapıdan çıkıp gidiyorlardı. İçeride bir nevi daire çiziyorlardı. Tur atıyorlardı.
+
+Yeni çizme izleri yoktu. Yine de var olanlar Auri’nin sevmediği ve tekrarlanmasını istemediği bir öykü anlatmaya yetiyordu.
+
+Auri sakinleşmek için bir nefes aldı. Buna zaman yoktu. Onlar sert çizmeleriyle ve kibirleriyle bu yere dair en ufak bir bilgileri bile olmadan geleceklerdi. Soğuk bir ter Auri’nin karıncalanan tenindeki tüm ısıyı götürdü. Genç kız sakinleşmek için biraz bekleyip dikkatini topladı.
+
+Auri hışımlı bir yüz ifadesiyle derin bir nefes aldı ve eşiği aşarak Sakiniye’ye geçti. Ufak, beyaz ayağını siyah çizme izinin üstüne koydu. Ayağı böyle bir şey yaparken zorlanmayacak kadar ufaktı. Genç kız buna rağmen kasıtlı bir yavaşlıkla hareket etti. İkinci adımında parmakları hariç ayağının çok daha azı zemine dokundu. Ayakları çizme izlerinin içine kolayca giriyor, kendilerine ait bir iz bırakmıyordu.
+
+Auri işte böyle kibar kibar adımlar atarak ilerledi. Önce bir rafa kadar gidip oradaki kapları inceledi ve buzlucamdan bir tıkaca sahip ağır bir şişeyi eline aldı. Daha sonra bir fırça seçip kıllarını parmaklarıyla yokladı. Ardından bir karacanınkiler kadar yavaş ve zarif adımlarla kapıya geri gitti.
+
+Kapıyı arkasından kapattı. Huzurla derin bir soluk vererek Bellik’e koştu.
+
+Elini çabuk tutmasına rağmen uygun yeri bulması bir saat sürdü. Bellik’in yuvarlak tuğla tünelleri Şeyaltı’nı enine boyuna katediyor, ileri geri kıvrılıp bükülen ve gerisingeri dönen geçitler, boruları gitmeleri gereken yerlere götürerek kilometrelerce uzanıyordu.
+
+Auri tam orayı asla bulamayabileceğinden, oranın Bellik’te olmayabileceğinden korkmaya başladığı sırada kızgın yılanları ve yağmuru akla getiren bir ses duydu. Duymasaydı çabaları bütün gün sürebilirdi. Sesi bir müddet takip ettikten sonra havada rutubet kokusu almaya başladı.
+
+Nihayet bir köşeyi döndüğünde çatlak bir demir borudan bir fıskiye gibi fışkıran suları gördü. Suyun püskürmesi altı metreye kadar her iki yöndeki tuğlaları ıslatmıştı ve diğer borulardan da su damlamaktaydı. Basınçlı hava taşıyan ince pirinç borular bu durumdan zerre rahatsız değillerdi. Siyah renkli tombul lağım borusuna göre tüm bu durum epey gülünçtü. Fakat buhar borusu halinden hoşnut sayılmazdı. Kalın kaplaması sırılsıklam olmuştu ve homurdanıp buharlar çıkaran boru tüm tüneli köhne bir hamamın nemiyle dolduruyordu.
+
+Auri bulunduğu yerden çatlamış siyah demir borunun koyu renkli hattını süzerek diğerlerinin arasında izlediği güzergâhı dikkatle inceledi. Sonra Foxen’ı havaya kaldırdı ve koyu renkli boruyu geriye doğru takip ederek sızıntıdan uzaklaştı.
+
+
+
+
+Genç kız on dakikanın ve yolunu kısaltmak için Onluklar’a yaptığı kısa bir ziyaretin ardından vanayı buldu. Ufacık çark ancak iki eli kadar büyüktü. Fırçasını ve şişesini yere bırakan Auri vanayı tutup yüklendi. Hiçbir şey olmadı. O da cebindeki mendili çıkardı, çarkın etrafına sardı ve harcadığı çabayla dişlerini sıkarak tekrar denedi. Uzunca bir sürenin ardından ne zamandır yağlanmamış vana boyun eğdi ve döndürülmeye gönülsüzce müsaade etti.
+
+Auri aletlerini toplayıp geldiği yere geri döndü. Artık yılanların sesi duyulmuyordu. Suyun püskürmesi durmuştu ama tünelin tamamı hâlâ sırılsıklamdı. Nemli ve ağır hava genç kızın saçlarını suratına yapıştırıyordu.
+
+Auri iç çekti. Her şey Mandrag Hoca’nın uzun yıllar önce söylediği gibiydi. Genç kız tünel zemininin kuru olduğu yere kadar yürüdü ve boruların arasında tuğlalara bağdaş kurup oturdu.
+
+Sonra işin en zor kısmı geldi. Beklemek Auri’yi canından bezdirirdi. Yapacak öyle çok işi vardı ki. Bu yaptığı elbette ki önemliydi. Ama o yedinci günde çıkagelecekti ve Auri henüz hiç hazır değildi...
+
+Genç kız uzaktan gelen bir ses duydu. Daha doğrusu bir sesin yankısını. Bir ayak sürüme mi? Bir adım mı? Çizme hışırtıları mı? İrkilen Auri hiç kıpırdamadı. Elini Foxen’ın üstüne kapattı ve ani karanlıkta çıt çıkarmadan oturarak kulak kesildi...
+
+Fakat hayır. Kimsecikler yoktu. Şeyaltı binlerce hareketli şeye ev sahipliği yapardı. Borulardan akan su, Dalgacı’da esen rüzgâr, parke taşlarından geçip aşağıya kadar gelen at arabası gümbürtüleri, mazgallardan bölük pörçük akseden konuşmalar. Lakin çizme falan yoktu. Şimdilik. Henüz değil.
+
+Genç kız Foxen’ı açığa çıkardı ve tekrar sızıntıya bakmaya gitti. Hava hâlâ sıcak, rutubetli ve boğucu olduğu için, kıpırdanıp kaygılanmaktan başka yapacak bir şey olmadığı oturma yerine geri döndü. Gerisingeri koşup pirinç çarkı almayı düşündü. Öyle yaparsa en azından yanında bir arkadaş olurdu. Fakat hayır. Burada kalması gerekiyordu.
+
+Bir sızıntı kötüydü. Fakat uzun bir süre fark edilmeyebilirdi. Artık bu borunun suyu tamamıyla kesildiğinden, yukarıdaki yaşamsal bir şeyin sapıtması pekâlâ mümkündü. Üstelik o şeyin ne olacağını tahmin etmenin bir yolu yoktu. Boru, Fakülte’nin kullanılmayan bir kısmına çıkıyor olabilirdi. Orada yıllarca kuru kalsa bile kimsenin ruhu duymazdı.
+
+Ama belki de Hocalar Salonu’na çıkıyordu ve şu anda içlerinden biri banyo yapıyordu. Ya Kröze’ye çıkıyorsa ve sakin sakin oksitlenmeye bırakılmış bir deney kasıtsız bir ekzotermik değişimden geçiyorsa?
+
+Her ikisinde de sonuç aynıydı. Kargaşa. Anahtarlar bulup çıkaran, kapıları açan insanlar. Auri’nin Şeyaltı’nda gezinen, münasebetsiz ışıklarını oraya buraya tutan yabancılar. Yanlarında getirdikleri dumanları salan yabancılar. Anırırcasına sesler çıkaran. Her yere inip kalkan sert, umursamaz çizmeleri. Bir bakışın nelere yol açtığını hiç düşünmeden her yere atılan bakışlar. Neyin uygun olup neyin olmadığını zerre kadar bilmeden onu bunu kurcalamalar.
+
+Auri parmak eklemleri bembeyaz kesilecek kadar yumruklarını sıktığını fark etti. Şöyle bir silkinip ayağa kalktı. Saçları başının etrafında ıslakça sarkmaktaydı.
+
+Hava artık daha açıktı. Nemli ve buharlı değildi. Aletlerini toplayan genç kız buhar borusunun nihayet hem kendini hem de etrafındaki her şeyi ısıtarak kurutmuş olduğunu görüp sevindi. Daha da iyisi, sessiz şeylerin aheste ilgisi havadaki rutubeti geçirmişti.
+
+Genç kız Foxen’ı siyah demir boruya yaklaştırdı ve sorunun, saç teli inceliğindeki bir çatlaktan daha büyük olmadığını görünce rahatladı. Boru kuru gözükmesine rağmen Auri onu mendiliyle sildi. Bir kez daha sildi. Sonra şişenin ağzını açtı, fırçasını içine batırdı ve berrak sıvıyı ince çatlağa yaydı.
+
+Keskin koku karşısında burnunu kıvıran Auri fırçayı şişeye tekrar batırarak borunun etrafını bir güzel sıvadı. Sırıtarak şişeyi süzdü. Ne kadar güzeldi. Tenakulum alengirli bir maddeydi ama bu mükemmeldi. Ne reçel kadar koyu, ne de su kadar seyrekti. Sürüldüğü yere yapışır ve yayılırdı. İçi yeşil çimlerle, sıçramalarla ve... sülfonyumla mı doluydu? Yoksa naftayla mı? Auri aslında böyle bir şey kullanmaya yanaşmazdı ama sonuçları görmezden gelinemezdi. Yapımındaki maharet reddedilemezdi.
+
+Fazla geçmeden çatlağın etrafını ışıltılı sıvıyla çepeçevre kaplamıştı. Auri dudaklarını yaladı, başını kaldırdı, sonra da ağzını oynatıp ıslaklığın uzak kenarına özenle tükürdü. Tenakulumun yüzeyi dalgalandı ve genç kızın sırıtışı daha da genişledi. Auri bir parmağını uzatıp dokunduğunda, maddenin sert ve cam kadar pürüzsüz olduğunu keşfederek memnun oldu. İşte bu. Bunu karıştıran ve etkinleştiren her kimse simyanın bir sanat olduğunun canlı kanıtıydı. Zanaat üzerinde katıksız bir ustalığın göstergesiydi.
+
+Auri maddeden iki kat daha sürerek incecik çatlağın bir karışlık mesafesine kadar borunun etrafını tamamen sıvadı. Onu sabitlemek ve sırlamak için iki kere daha tükürdü. Sonra ağzını tıkadığı şişeyi öptü, gülümsedi ve suyu açmak için geldiği yere koştu.
+
+İşi biten genç kız fırçanın bakımını yaptı ve Sakiniye’ye döndü. Orada kulağını kapıya dayadı. Dinledi. Hafif bir... hayır. Hiçbir şey duymadı. Nefesini tutup kulak kesildi. Hiç.
+
+Buna rağmen kapıyı yavaşça açtı. İçeri baktığında diğer kapının etrafından sızan bir ışıkla karşılaşmadı. Yerde yeni çizme izleri gördüğünü sanınca kalbi bir anlığına tekledi. Fakat hayır. Sadece gölge. Sadece kendi nefes kesen korkusu.
+
+
+
+
+Auri şişeyi dikkatle rafına, onu almış olduğu kendi koyu renkli tozsuz halkasının üstüne geri koydu. Sonra fırçayı da. Çizmelerin kocaman, siyah, hoyratça izlerine dikkatle basarak ilerledi. O ortalığı karıştıracak türde biri değildi. Suyun yumuşak bir dalga ile birlikte akmasına benzer hafiflikte yürürdü. Hareketi ne olursa olsun su asla değişmezdi. Bir işi yapmanın uygun yolu buydu.
+
+
+
+
+Genç kız kalın kapıyı yavaşça arkasından kapattı. Kesinlikle emin olmak için kapı kolunu kontrol etti. Şeyaltı’na tekrar adım attığı zaman ayaklarının altındaki taşlar hoş bir etki yaratmalıydı. Ama yaratmıyorlardı. Onlar altı üstü birer taştı. Hava sanki gergin ve tuhaftı. Bir terslik vardı.
+
+Auri durdu ve kapıyı tekrar dinledi. Daha dikkatli kulak kabarttı, sonra da içeri bakmak için onu azıcık araladı. Hiç. Kapıyı örtüp kapı kolunu kontrol etti. Ağırlığını tahtaya verip iç geçirmeye çalıştı ama göğsünde bunu yapacak kadar nefes bulamadı. Bir terslik vardı. Bir şey unutmuştu.
+
+Kalbi gümbür gümbür atan genç kız Bellik’e geri koşarken yanlış yola saptı. Sonra tekrar. Fakat sonunda vanayı yeniden buldu. Onu kapatmayıp açtığından kesinlikle emin olmak için dizleri üstüne çöktü. İki elini birden boruya dayayarak içinde akan suyun titreşimini hissetti.
+
+Öyleyse unuttuğu şey bu da değildi. Acaba yeterince dikkatli hareket etmiş miydi? Zeminde bir leke bırakmış mıydı? Sakiniye’ye kadar hızla koşup kulağını kapıya dayadı. Ses yoktu. Kapıyı açıp Foxen’ı havaya kaldırdı ki ışığı tozlara vursun. Her şey aynıydı.
+
+Artık cildi terden ışıl ışıldı. Genç kız ağır kapıyı örttü. Kapı kolunu kontrol ettikten sonra varlığıyla yokluğu bir olan ağırlığını ona dayayarak ellerini ve alnını tahtaya bastırdı. Daha derin solumaya çalıştı ama kalbi göğsünde sıkışıp kalmıştı. Havada bir terslik vardı. Kapı, çerçevesine dört dörtlük oturmayı reddediyordu. Auri iki avucuyla birden ona tekrar bastırdı. Kapı kolunu kontrol etti. Foxen’ın ışığı ansızın çok yetersiz göründü gözüne. Auri yeterince dikkatli hareket etmiş miydi? Hayır. Farkındaydı. Dinledi, sonra kapıyı açıp yeniden baktı. Bir şey görmedi. Fakat görmemenin faydası olmadı. Auri görünüşün her şey demek olmadığını biliyordu. Bir terslik vardı. Genç kız uğraştıysa da gevşeyemedi. Bir türlü soluklanamadı. Ayaklarının altındaki taşlar hiç de kendi taşları gibi değildi. Güvenli bir yere gitmesi lazımdı.
+
+Auri taşlara ve havadaki tuhaflığa rağmen Kabuk’a doğru yola çıktı. En güvenli yolu seçse bile adımları yavaştı. Buna rağmen nefes alıp vermenin pek yardımı dokunmadı. Havanın kendisinde bir terslik varken nasıl yardımı dokunabilirdi ki?
+
+Aldıcık’taki açılar baştan sona hatalıydı ama Auri çevresine bakınana ve kendini İlintilik’te bulana kadar yolunu ne denli kaybettiğini fark etmedi. Yönünü nasıl böylesine şaşırdığını bilmiyordu ama nereye geldiği inkâr edilemezdi. Etraf rutubetliydi. Çürük kokusu. Ayaklarının altındaki iri kum taneleri. Duvarların adeta üstüne üstüne gelmesi. Genç kız döndü de döndü; fakat yerini bir türlü bulamadı.
+
+Auri yola devam etmeyi denedi. Yürürse, dönerse ve tekrar yürürse eninde sonunda kasvetli ve tozlu İlintilik’ten çıkacağını biliyordu. Dostane veya en azından etrafında fıldır fıldır dolanan, onu sıkıştıran ve üstüne üstüne gelmeyen bir yere ulaşırdı.
+
+O yüzden tanıdık bir şey görme hevesiyle yürüdü, döndü, çevresine bakındı. Umudu, taşların yavaş yavaş tabanlarına ait olmaya başlamasıydı. Fakat hayır. Kalbindeki çarpıntı ona koşmasını söylüyordu. Genç kızın güvenli yerine ihtiyacı vardı. Kabuk’a geri dönmeliydi. İyi de oraya çıkan yol neredeydi? Zaten yolu bilse dahi etrafındaki hava, boğucu ve baş döndürücü bir hal almaktaydı. Auri her ne kadar ona değmeyi hiç istemese de başını uzatıp duvarın keskin şefkatsizliğine dayadı.
+
+Ağır adımlar. Bir dönemeç. Yolun ileride genişlediğini fark edip gülümsedi. Nihayet, İlintilik’in ileride son bulduğunu görünce göğsündeki sıkışıklık geçmeye başladı. Fakat iki adım attıktan sonra o yolun nereye çıktığını anladı. Durdu. Hayır. Hayır, hayır. Nahoş tünelin karmaşası ileride açılmasına açılıyordu lakin açıldığı yer Kara Kapı’nın engin ve boş sessizliğiydi.
+
+Auri arkasına dönmedi bile. Yavaş ve kaçamak adımlarla geldiği gibi geri gitti. İşi zordu. Duvar elini kaparak parmak eklemlerinin derisini soydu, İlintilik’in rutubetli boğumu onu tekrar içine almak istemiyordu. Fakat Kara Kapı pekâlâ istiyordu. Kara Kapı’ya çıkan geniş ve hevesli yol sonuna kadar açılmış kapkara bir ağız misali önünde uzanıp gidiyordu.
+
+Geri geri yürüyen Auri zorla da olsa tekrar İlintilik’e girdi. Kara Kapı’yı gözünün önünden ayırmaya, onu arkasına almaya cesaret edemiyordu. Öyle bir hareket tehlikeli olurdu. Temkinsizdi. Tekinsizdi.
+
+Nihayet bir köşeyi döndü ve tir tir titreyerek yere çöktü. Çevresindeki her şeyin darmadağın olması hiç işine gelmezdi. Kabuk’a geri dönmeliydi. En kusursuz yerine ihtiyacı vardı. Oradayken ayaklarının altındaki taşlar güvenilirdi. Orada her şey tatlı ve doğru düzgündü.
+
+Auri şaşırmış, afallamış ve çarpılmış bir haldeydi. Şöyle bir silkindiyse de bir türlü ayağa kalkamadı. Bunun üzerine vücudunu katladı ve yerde bağdaş kurdu.
+
+Orada uzun bir süre, sessizce bekledi. Gözlerini kapadı. Ağzını da. Eliyle Foxen’ı örttü. Otururken çok küçük bir yer kaplıyordu. Kıpırdamadan, İlintilik’in pis rutubeti saçlarına yapışarak onları ağırlaştırdı. Genç kız buklelerinin bir perde gibi başının etrafından sarkmasına izin verdi. Perdenin içinde ufacık bir boşluk yarattı. Sadece kendine ait bir boşluktu bu.
+
+Auri gözlerini açtı ve bu kendine özel yere baktı. Orada cesur Foxen’ın cesurca, ellerinin sığınağında parıldadığını gördü. Elini üstünden çekti. Işığı incecik ve kesik kesik olmasına rağmen onu bu küçük boşlukta görmek Auri’yi gülümsetti. Genç kız gerçek mükemmel adını bulmak amacıyla benliğinin içini yokladı. Bu iş uzun ve yalnız bir zaman alsa da nihayet onun varlığını hissetti. Titrek ve kısıtlıydı. Ürkekti. Dermansızdı. Fakat kenarları hâlâ ışıltılıydı. Hâlâ onundu. Parlıyordu.
+
+Auri yavaşça ayağa kalktı ve ağır ağır İlintilik’in çıkışına ilerledi. Hava yoğun ve ürperticiydi. Duvarlar hınçla doluydu. Taşlar attığı her adımı ona çok görüyordu. Tüm her şey ayrılıkla hırıldıyordu. Buna rağmen genç kız Aldıcık’a çıkmayı becerdi. Orada duvarlar yalnızca somurtkandı. Ardından Kıtırak’a geçti.
+
+Auri nihayet ayaklarının altında Kabuk’un taşlarını hissetti. Hafif adımlarla en mükemmel yerinin içine girdi. Yüzünü, elini ve ayağını yıkadı. Bunun yardımı dokundu. Mükemmel sandalyesinde uzun bir süre oturdu. Mükemmel yaprağının keyfini çıkardı. Harikulade sıradan havayı soludu. Teni artık gerilmiş gibi gelmiyordu. Kalbi yumuşacık ve sımsıcak oldu. Foxen bir kez daha parlak, hatta göz kamaştırıcıydı.
+
+Auri oradan Gam’a gitti. Tamamen kuruyana ve açılana kadar saçlarını taradı. Derin bir nefes aldı ve iç geçirerek nefesini verdi. Adı göğsünün içinde tatlı mı tatlıydı. Her şey yeniden uygun yerindeydi. Genç kız sırıttı.
+
+
+
+
+
+Güzel ve Kırgın
+
+
+Auri keyif için biraz mola vermesinin ardından Tane’deki göletten su içti ve pirinç çarkı almak üzere tekrar aşağı indi. Çark üç taş kadar sabırlı olsa da uygun yerine kavuşmak, herkes kadar onun da hakkıydı.
+
+Daha iyi bir fikir düşünemeyen Auri onu Yüklük’e kadar taşıdı. Çark belki oraya aitti. Hatta belki şımarık şey oturma odasını bir çan kadar hoş bir sesle çınlamaktan alıkoyan ufacık gizli tersliğin ne olduğuna dair bir ipucu verirdi.
+
+Veya belki Auri oradayken çarka farklı bir gözle bakabilirdi. Özellikle de Yüklük bu kadar yeni ve neredeyse kusursuzken. Genç kız oradan daha iyi bir yeri kolay kolay bulamayacağını düşünüyordu.
+
+İşte bu yüzden uygun, şaşaalı, tahta panelli Yüklük’e gitti. Oradan da yeni oturma odasına geçti. Pirinç çarkı kanepenin üstüne koydu ve ayaklarını altına alarak onun yanına kıvrılıp yattı.
+
+Çark burada eskisinden daha hoşnut değildi. İç çeken Auri başını ona doğru eğdi. Zavallı şey. Böylesine hoş ve böylesine kayıp olmak. Tüm o bilgiler içinde kısılı kalmışken bu denli cevapkâr olmak. Güzel ve kırgın olmak. Auri başını salladı ve onu avutmak için elini nazikçe çarkın pürüzsüz yüzeyine koydu.
+
+Belki Dipiçi? Bunu niye daha önce düşünememişti ki? Doğru, sevgiye ve cevaplara kafa yorarken o mağaradaki kadim enkaz nadiren kendini anımsatırdı. Fakat belki de asıl mevzu buydu. Belki uzun zaman önce can veren bir makine terk edilmiş yüreğinde dokuz parlak dişe ve sevgiye hasretti, değil mi ya!
+
+Auri parmağını çarkın yüzeyinde gezdirdi. Teni onuncu dişin koptuğu sivri kenara biraz takıldı.
+
+İşte o zaman gerçek kafasına dank etti. Tersliğin nerede olduğunu anlayıverdi. Tabii ya. Heyecanla sırıtarak ayağa fırladı. Halının köşesini kaldırdı ve halinden hoşnut olarak yerde yatan düğmeyi görene kadar onu kıvırdı.
+
+Elleri ceplerine gidip oraları yokladı... Evet.
+
+Auri kararmış kemer tokasını düğmenin yanına bıraktı. Tokayı biraz iterek yaklaştırdı. Çevirdi. İşte. Halıyı yerine koyarken hafifçe titredi. İki eliyle birden bastırarak onu düzeltti.
+
+Ayağa kalktığı zaman bir kilitte dönen bir anahtar misali içinde bir şey tıkırdadı. Oda artık bir daire kadar mükemmeldi. Bir çan kadar. Dolunay zamanındaki ayın kusursuzluğu kadar.
+
+Auri sevinçle güldü. Gülüşünün her tınısında sanki ufacık bir kuş ağzından dışarı çıkıp odanın içinde dört döndü.
+
+Genç kız odanın merkezinde durdu ve her şeyi görmek amacıyla kendi ekseninde döndü. Bakışları masadaki yüzüğün üstünden geçerken onun artık buraya ait olmadığını gördü. Yüzük istediği yere gitmekte serbestti. Kendi halinde altın sarısı bir şarkı söylüyordu ve kehribar rengi ışığı güz mevsimindeki bir akşamüstü kadar yumuşaktı.
+
+Neşeyle dolup taşan Auri dans etti. Çıplak ayakları yosun yumuşaklığındaki halının karanlığında bembeyazdı.
+
+
+* * *
+
+Kalbi mutlulukla çarpan genç kız gülümseyerek pirinç çarkı tekrar eline aldı. Kabuk’a olan yolu yarılamışken müzik tınıları işitti.
+
+Auri taş gibi hareketsiz, bir yürekteki durgunluk kadar sessiz kaldı. Bu olamazdı. Henüz değil. Önünde günler vardı. Daha hazır falan...
+
+Tekrar işitti. Silikti. Ses, birbirine çarpan camların çınlaması veya bir kuşun ötüşü olabilirdi. Fakat gergin bir telin uzak tınısı da olabilirdi.
+
+O buradaydı! Günlerce erken gelmişti. Üstelik Auri’nin üstü başı kirliydi ve her iki eli de boştu. Yine de onu tekrar görmenin düşüncesiyle genç kızın kalbi göğsünde parende atıyordu.
+
+Auri bir kurdun kovaladığı bir tavşandan daha büyük bir süratle Kabuk’a doğru hızla koştu. Rutubetiyle, korkusuyla ve sıcak çiçeklerin havada asılı duran iğrenç kokusuyla Suratmaz’dan geçmesine rağmen en kısa güzergâhı kullandı.
+
+Kabuk’a vardığında pirinç çarkı şöminenin üstüne koydu. Sonra da yüzünü, elini ve ayağını yıkadı. Soyunup en sevdiği elbisesini giydi.
+
+Bu iş de bittikten sonra tedirgin bir heyecanla titreyerek çabucak Uğrak’a gitti ve rafları gözden geçirdi. Kemik elbette olmazdı. Kitap da. Henüz değil, iki parmağını kristale koydu ve onu tutup ters çevirdi. Nefes alarak havanın tadına baktı. Sonra kristali yeniden yerine bıraktı.
+
+Ağırlığını bir ayağından diğerine vererek Kabuk’ta göz gezdirdi. Mükemmel sarı yaprağı neredeyse uygundu. Pirinç çark artık somurtkandı ve fazlasıyla mağrurdu. Belli ki canına tak etmişti.
+
+Genç kızın güz altınından yeni yüzüğü de oradaydı. Yüzüğün yeterince güzel olduğu kesindi. Üstelik çifte parlaklığıyla onun için birebirdi. Fakat bir hediye olarak... kötülük alametiydi. Auri ona iblisleri hatırlatmak istemiyordu.
+
+Sonra genç kız ağzı açık duran küçük kavanozu fark etti. Bakışları, kumaşın üstünde kan kadar parlak gözüken bir avuç çobanpüskülü dutunun bulunduğu diğer rafta gezindi. Göğsü heyecanla dolan Auri gülümsedi.
+
+Dutları kaptığı gibi küçük şişeye doldurdu. Oraya kusursuz bir biçimde sığdılar. Elbette. Sorumluluk sahibi ve açıkyürekliydiler. Çobanpüskülü şişesi. Onu güvende tutmak için. Erken bir ziyaret. Müzik.
+
+
+
+
+Hediye Auri’nin istediğinden daha uyduruktu. Ucu ucuna uygundu. Fakat doğruyu söylemek gerekirse o vaktinden önce çıkagelmişti. Bu kadarı erken bir ziyaret için yeterliydi. Kapıdan dışarı fırlayan Auri’nin ayakları önce Amancak, sonra Kürekler, en son olarak da Alttan Geçen boyunca sekerek ilerledi.
+
+Auri orada, ağır tahliye mazgalının altında mola verdi. Kalbi göğsünde gümbür gümbür atmasına rağmen dinlemeye çalıştı. Hiç. Sesi gerçekten duymuş muydu? O bekliyor muydu? Yoksa Auri fazla oyalandığı için canı sıkılıp gitmiş miydi?
+
+Genç kız Foxen’ı minicik kutusuna koydu, sonra gizli mandalı çevirip titreyen kollarıyla ağır demir parmaklıklara yüklendi. Mazgal savrularak açıldı ve Elmahane’ye tırmanan Auri oradaki çalı çitlerin kuytusuna sığındı. Hareketsiz kaldı. Dinledi. Hiç konuşma yoktu. Güzel. Pencerelerde ışık da yoktu. Güzel.
+
+Ay Elmahane’ye bakıyordu. Güzel bir ay değildi. Auri çitin verdiği güvenle gökyüzünü inceledi. Bulut yoktu. Genç kız gözlerini yumup tekrar kulak kesildi. Hiç.
+
+Derin bir nefes aldı, yerinden fırladı ve açık çimlerden geçip Leydi Larbor’un korunaklı dallarının altına girdi. Orada soluklanmak için duraklayarak kıpırdamadan bekledi. Tekrar etrafına bakınmasının ardından çabucak eğri büğrü dallara tırmandı. Bir elinde çobanpüskülü şişesi varken bu kolay değildi. Ayağı biraz kayınca sert ağaç kabuğu tabanlarını çizdi.
+
+Nihayet kendini Şeylerin Üstü’nde buldu. Artık her şeyi ve ebediyeti görebiliyordu. Temerant’ın tamamı ayaklarının altında sonu gelmeksizin uzanıp gidiyordu. Manzara öyle hoştu ki Auri neredeyse ayı umursamayacaktı.
+
+Kröze’nin sivri bacacıklarını, kırpışıklarla dolu Koğuş’un kanatlarını görebiliyordu. Doğuya bakıp; ormanı kesen, Taşköprü’den geçen, nehri aşan ve uzaklaşıp giden Eski Taş Yol’un gümüşi hattı gördü.
+
+Fakat o burada değildi. Genç kızın ayakları altında sıcak katrandan başka hiçbir şey yoktu. Ve bacacıklar. Bir de ayın keskinliği.
+
+Auri çobanpüskülü şişesini elinde sıkıca tuttu. Etrafına bakındı ve ay onu seyredemesin diye bir tuğlaağacı bacacığının gölgesine saklandı.
+
+Nefesini tutarak kulak kesildi. O yoktu. Ama belki... Beklerse belki gelirdi.
+
+Çevresine bakındı. Oflayarak yanından geçen rüzgâr, kızın saçlarını yüzüne savurdu. Genç kız kaşlarını çatarak onları geriye taradı. O yoktu. Tabii ki olmayacaktı. Yedinci güne kadar gelmeyecekti. Auri bunu biliyordu. İşlerin nasıl yürüdüğünü biliyordu.
+
+Genç kız ellerini göğsüne götürerek hareketsiz bekledi. Çobanpüskülü şişesi elindeydi. Bakışları mehtabın yıkadığı damlarda gezindi.
+
+Bacacığın gölgesindeki tenekede bağdaş kurup oturdu.
+
+Çevresine bakındı. Bekledi.
+
+
+
+
+
+Epeyce Sıradışı ve Hoş Bir Yer
+
+
+Sonunda bir bulut gökteki ayı gizledi. Bencil şey, ne olacak! Auri fırsattan yararlanarak kendini Şeyaltı’na attı.
+
+Onluklar’dan geçerken yüreği külçe gibiydi. Fakat Umbuk’tayken unutulmuş bir fırtınanın mazgallardan aşağı sürüklediği büyük bir çalı çırpı yığınına rastladı. Dişbudak, karaağaç ve akdiken. O kadar çok tahta vardı ki hepsini Kabuk’a ancak altı seferde taşıyabildi. Büyük bir keşifti ve işin sonuna doğru genç kız neredeyse keyifle ıslık çalacaktı.
+
+Auri yüzünü, elini ve ayağını yıkadı. Daha da incelmiş sabun parçasının kokusu karşısında gülümseyerek yeniden en gözde ikinci elbisesini giydi. Bu hâlâ bir faaliyet günüydü.
+
+Ceplerini doldurduktan ve toplaçuvalını aldıktan sonra Mandril’e gitti. Ayaklarını ıslatması bile gerekmedi, zira kim bilir ne zamandır sağanak yağmur yağdığı yoktu. Auri dolambaçlı yolun en uzak kuyruğunda son köşeyi dönmeden önce durakladı. İleride mehtaba dair bir iz vardı; o yüzden genç kız Foxen’ı çabucak öpüp onu minicik tahta kutusuna kaldırdı.
+
+Mandril’in son kısmını gözlerinden ziyade hafızasıyla katetti. Dikkatli adımlarla bir obruğun dibine benzeyen dik yağmur mazgalının arkasına kadar ilerledi. Kalın parmaklıkların yanında durdu. Oradan baktığında Yurt’un kütlesini yıldızlı gökyüzünün önünde yükselen kocaman bir gölge olarak görüyordu. Pencerelerde kimi kırmızı kimi sarı birkaç ışık yanıyordu ve en üst katların birinde parlak olduğu kadar ürpertici bir mavilik göze çarpıyordu.
+
+Auri o anda nefesini tuttu. Konuşmalar yoktu. Toynak sesleri yoktu. Uluma yoktu. Başını kaldırınca yıldızlara, aya ve birkaç ince bulut parçasına rastladı. Bulut yığınının gökyüzünde yavaşça ilerlemesini seyretti. Yığın, ince ayı saklayana kadar bekledi.
+
+
+
+
+Auri ancak o zaman mazgalın içindeki gizli mandalı çevirdi ve mazgal bir kapı gibi savrularak açıldı. Genç kız obruğu hızla tırmandı, bakımlı bir çimenlikten geçti ve geniş bir meşenin altındaki gölgelere sığındı.
+
+Kalp çarpıntısı geçene, görülmediğinden kesinlikle emin olana dek orada hareketsizce dikildi.
+
+Sonra ağacın etrafından dolanarak kendini binadan gizledi. Ve döndüğü gibi koruluğun içinde kayboldu.
+
+
+* * *
+
+Auri çam kozalakları toplarken o yeri buldu. Burası küçük, unutulmuş bir mezarlıktı ve sarmaşıklar mezar taşlarını kaplamıştı. Yabani güller kadim bir dökme demir çitten artakalanlara tırmanmıştı.
+
+Genç kız kollarını vücuduna yapıştırıp ellerini çenesinin altında tutarak mezarlığa girdi. Mezar taşlarının arasında yürürken minik ayakları sessizdi.
+
+Ay tekrar açığa çıkmıştı; fakat daha alçaktaydı ve mahcuptu. Artık Şeylerin Üstü’nde olmadığı ve Yurt çok gerilerde kaldığı için onun arkadaşlığına sevinen Auri gülümsedi. Burada, açıklığın kenarında ay yerlere saçılmış meşe palamutlarını gözler önüne seriyordu. Genç kız birkaç dakikasını mükemmel şapkaya sahip palamutları seçmeye ve onları toplaçuvalına doldurmaya harcadı.
+
+Mezar taşlarının arasında gezinirken kırık bir tanesinin yanında durdu. Taşa yazılı harfler yağmurun ve zamanın etkisiyle silinmişti. Auri ona iki parmağıyla dokunup yoluna devam etti. Bir heykeldeki sarmaşıkları kaldırdı, sonra dönüp baktığında mezarlığın karşı köşesinde yükselen defne ağacını gördü. Ağaç mezar taşlarının arasına kök salmış, dalları yukarıda dört bir yana yayılmıştı. Yalnız bir şey olduğu belliydi. Tuhaf ve yersizdi.
+
+Küçük ayakları köklerin arasına rahatça sığan Auri ona yaklaştı ve elini ağacın koyu renkli gövdesine bastırdı. Yapraklarının sıcak kokusunu bir güzel içine çekti. Yavaşça onun etrafında dönerken köklerin arasında karanlık bir gedik fark etti.
+
+
+
+
+Kafa sallayan Auri elini toplaçuvalına soktu ve evvelsi geçen gün bulmuş olduğu kemiği çıkardı. Eğilerek kemiği ağacın altındaki karanlık ve kof boşluğa sıkıştırdı. Memnuniyetle gülümsedi.
+
+Ayağa kalkıp dizlerini silkeledi ve gerindi. Ardından mavi renkli küçük defne meyvelerini toplamaya ve onları da toplaçuvalına doldurmaya başladı.
+
+
+* * *
+
+O iş de bitince ormanı keşfe çıktı. Bir mantar bulup yedi. Bir yaprak bulup kokladı. Başını kaldırıp yıldızlara baktı.
+
+Sonrasında daha önce hiç görmediği bir dereyi geçti ve ağaçların arasına sıkışıp kalmış minik bir çiftlik eviyle karşılaşıp şaşırdı.
+
+Daha doğrusu hem şaşırdı hem sevindi. Usturuplu bir yerdi. Tümüyle taştandı ve çatısı arduvaz kaplıydı. Arka sundurmada, kapının yakınında küçük bir masa vardı. Orada ters çevrilmiş tahta bir kâsenin üstünü kapattığı tahta bir tabak duruyordu. Kâsenin yanında sırlı bir kil tabakla üstü kapatılmış yine bir kil kâse mevcuttu.
+
+Auri tahta kâseyi kaldırdığı zaman altında bir parça taze buğday ekmeği buldu. Ekmek sağlıklı, canlı ve samimiydi. Güzelim şey davet doluydu. Auri onu cebine koydu.
+
+Genç kız diğer kâsede süt olduğunu biliyordu ama üstünü kapatan tabağın yüzü yukarı bakıyordu. Auri için değildi. Genç kız onu perilere bıraktı.
+
+Auri gölgelerde kalarak bahçenin etrafından dolandı ve ambara yaklaştı. Orada iri, garip bir köpek vardı. Hayvan Auri’nin bir buçuk katı olup, omuzları onun neredeyse göğsüne kadar geliyordu. Genç kız ambara yaklaşırken köpek gölgelerin arasından çıktı.
+
+Siyah renkli yaratığın kalın bir ensesi vardı ve yüzü baştan aşağı yara izleriyle kaplıydı. Kulaklarından biri, unutulmuş bir kavgada çiğnenerek yırtılmıştı. Devasa kafasını alçakta tutan köpek, kuşkuyla zikzak çizerek ve gözünü kızdan ayırmayarak yaklaştı.
+
+Sırıtan Auri ona elini uzattı. Köpek o eli kokladı, sonra kızın parmaklarını yaladı. Ağzını kocaman açarak esnedi ve uyumak için yere çöktü.
+
+Altı taş üstü boyanmış tahtadan olan ambar çok büyüktü. Kapı kanatları kapalıydı ve büyük bir demir asma kilitle kilitlenmişti. Fakat çok yukarılardaki samanlığın penceresi geceyi selamlarcasına ardına kadar açıktı. Auri bir sincabın süratiyle sarmaşık kaplı taşlara tırmandı. Ambarın kalasları parmaklarına ve ayaklarına bir tuhaf geldiği için yolun ikinci yarısında yavaşladı.
+
+Ambar misk ve uyku doluydu. Tahta duvarlardan sızan birkaç mehtap huzmesi hariç karanlıktı da. Genç kız Foxen’ın ufacık kutusunu açtı ve yaratığın mavi yeşil ışığı dışarı taşarak açık alanı doldurdu.
+
+Yaşlı bir at, bölmesinin önünden geçerken burnunu Auri’nin boynuna sürttü. Genç kız ona gülümsedi ve hem kuyruğunu hem de yelesini kaşağılamaya vakit ayırdı. Hamile bir dişi keçi meleyerek selam verdi. Auri hayvanın yemliğine biraz yem attı. İçeride bir de kedi vardı ve Auri’yle birbirlerini görmezden geldiler.
+
+Auri orada biraz vakit harcayarak her şeyi gözden geçirdi. Bileğitaşı. El değirmeni. Ufak ama yerine iyi oturtulmuş yayık. Tabaklanması için çerçeveye gerilmiş bir ayı postu. Epeyce sıradışı ve hoş bir yerdi. Her şey ilgi ve sevgi görmüştü. Auri’nin karşılaştıklarından hiçbiri lüzumsuz, kayıp veya hatalı değildi.
+
+Yani neredeyse hiçbiri. En sağlam gemi bile biraz su sızdırır. Tek bir turp durduğu sepetten yere düşmüş ve orada unutulup kalmıştı. Auri onu toplaçuvalına koydu.
+
+Ambarda ayrıca büyük bir taş kulübe vardı. İçine bir çimento tuğladan daha kalın ve iki kat daha uzun buz tabakaları yığılmıştı. Auri kulübede, kesilmiş et ve tatlı tereyağı kreması buldu. Bir kâsenin içine bir topak içyağı koyulmuştu, bir tepsinin içinde ise bir petek bal duruyordu.
+
+İçyağı küplere binmişti. Sinirinden yerinde duramıyordu. Kendi yoluna gitmekten başka hiçbir şey istemiyordu. Auri onu çuvalının derinliklerine soktu.
+
+Ah. Ama o petek. Çok hoştu. Azıcık bile çalıntı değildi. Çiftçi arıları çok seviyordu ve işini uygun biçimde görüyordu. Petek sessiz çanlarla ve uyuşuk yaz ikindisiyle doluydu.
+
+Auri ceplerinin içini yokladı. Parmakları kristalin ve küçük taş heykelciğin üstünden geçti. Taş da buraya uygun değildi. Sonra elini toplaçuvalına daldırdı ve biriktirdiği meşe palamutlarını yokladı.
+
+Uzunca bir süre yanında getirdiği hiçbir şey mekâna doğru düzgün uymayacakmış gibi gözüktü. Fakat sonra parmakları onu buldu ve genç kızın kafasında bir şimşek çaktı. Beyaz dantel örgüyü dikkatle dışarı çıkardı. Onu katlayıp yayığın yakınına bıraktı. Örgü pek çok uzun ve uyuşuk güz gününün özenle hazırlanmış bir ürünüydü. Böyle bir yerde kendine bir amaç bulurdu.
+
+Auri daha önceden çobanpüskülü dutlarını tutan temiz, beyaz bezi aldı ve ona biraz tereyağı sürdü. Ardından yapış yapış bal peteğinden karış büyüklüğünde bir parça kopardı ve elinden geldiği kadar düzgünce sarmaladı.
+
+Kendisininki bıçaklarla dolu olduğu için biraz tereyağı da almayı çok isterdi. Kulübenin rafına dikdörtgen şeklinde kesilmiş on bir kalıp dizilmişti. Kalıplar yonca, kuş cıvıltısı ve ne gariptir ki kasvetli kil izleriyle doluydu. Buna rağmen hepsi de birbirinden hoştu. Auri toplaçuvalını eşeleyip ceplerine ikişer kez baktı. Fakat sonunda elleri boş kaldı.
+
+Kulübeyi sıkıca kapattı. Sonra merdiveni tırmanarak tavan arasının açık penceresine çıktı. Foxen’ı kaldırıp çuvalını sıkıca sırtına astı ve ambarın yanından yavaşça inmeye koyuldu.
+
+Yere ayak bastığında uçuşan saçlarını yüzünün önünden çekti ve uyuyan dev köpeği kafasından öptü. Sekerek ambarın köşesini döndü ve bir düzine adımın ardından ensesindeki karıncalanmadan dolayı gözetlendiğini hissetti.
+
+Ayağı havada donakalan genç kız adeta taş kesildi. Rüzgârın dokunduğu saçları kendiliğinden hareket ederek bir duman bulutu gibi hafif bir biçimde başının etrafında uçuştu.
+
+Gözlerinden başka hiçbir yerini kıpırdatmayan Auri aradığını buldu. İkinci katta, açık bir pencerenin karanlığında kendisininkinden bile daha küçük olan solgun bir surat gördü. Gözleri kocaman açılmış, minik elini ağzına götürmüş küçük bir kız onu seyrediyordu.
+
+Acaba küçük kız ne görmüştü? Foxen’ın kalasların arasından sızan yeşil ışığını mı? Auri’nin devedikeni tomurcuklarına benzer saçlarının örttüğü ufak tefek suretini mi?
+
+
+
+
+Auri’nin ani tebessümü saç perdesiyle gizlendi. O anda yanlamasına takla attı attı. Uzun zamandan beri ilkti. İncecik saç telleri bir kuyrukluyıldızın kuyruğu gibi onu takip etti. Bakışlarını etrafta gezdirdiği zaman gövdesinde karanlık bir deliğin bulunduğu bir ağaç fark etti. Auri fırıl fini dönerek ve hoplayıp zıplayarak ona doğru dans etti. Ağacın yanına vardığında da eğilip deliğin içine baktı.
+
+Sırtı çiftlik evine dönük olan genç kız Foxen’ın kutusunu açtı ve arkasındaki sessiz geceden ufacık bir nidanın yükseldiğini duydu. Gülmemek için bir elini ağzına bastırdı. Delik kusursuzdu. Tam da küçük kızın kolunu uzatabileceği ve içini yoklayabileceği kadar derindi. Tabii meraklıysa. Kolunu neredeyse omzuna kadar deliğe daldırabilecek cesareti varsa.
+
+Auri cebinden kristali çıkardı. O cesur ve bir o kadar da şanslı kâşifi öptü. Burası mükemmel yerdi. O da mükemmel şey. Doğru, Auri artık Şeyaltı’nda değildi. Yine de bu yaptığı o kadar doğruydu ki reddedilemezdi.
+
+Kristali bir yaprağa sarıp deliğin dibine bıraktı.
+
+Sonra dans ederek, sıçrayarak, coşkuyla gülüp oynayarak ağaçların arasına koştu.
+
+
+* * *
+
+Oradan tekrar mezarlığa gitti ve büyük, yassı bir lahdin üstüne çıktı. Gülümseyen Auri dimdik oturdu ve azıcık bal katılmış yumuşak buğday ekmeğiyle kendine şöyle güzel bir yemek hazırladı. Sonrasında kabuklarından yeni çıkarılmış çamfıstıklarını mideye indirdi. Her biri ufacık ama mükemmel bir tatlı gibiydi.
+
+Yemek boyunca kalbi coşkuyla attı. Sırıtışı ayın ince hilalinden daha parlaktı. Yemeğin ardından hınzır ve münasebetsiz biriymişçesine parmaklarını da yaladı.
+
+
+
+
+
+Oyuk
+
+
+Üçüncü gün Auri ağladı.
+
+
+
+
+
+Kızgın Karanlık
+
+
+Auri dördüncü gün uyandığında vaziyet değişmişti.
+
+Gerinerek kendine gelmeden, gözlerini yekpare karanlığa açmadan önce bile bunu anladı. Foxen korkmuş ve daralmıştı. Demek ki bugün bir azalma günüydü. Bir yanma günü.
+
+Genç kız Foxen’ı suçlamıyordu. Bunun nasıl bir şey olabileceğini biliyordu. Bazı günler kurşun gibi üstünüze çöküverirdi. Bazıları kediler kadar vefasız olurdu ve teselliye ihtiyaç duyduğunuzda kaçıp giderdi. Daha sonra onları istemediğinizde de geri gelip başınıza musallat olurlar ve soluğunuzu çalarlardı.
+
+Hayır. Foxen’ı suçlamıyordu. Fakat yarım dakika boyunca keşke bu daha farklı türde bir gün olsaydı diye içinden geçirdi; hem de dünyaya karşı açgözlü davranmanın hiçbir fayda sağlamayacağını, bunun hınzırca bir davranış olduğunu bile bile.
+
+Yine de yanma günleri hercaiydi. Sağları solları belli olmazdı. Bunlar faaliyet için değil, oturduğun yerde oturma ve ayaklarını yerden ayırmama için iyi günlerdi.
+
+Fakat Auri’nin sadece üç günü kalmıştı. Daha halledecek o kadar çok işi vardı ki.
+
+Karanlıkta usulca hareket eden genç kız Foxen’ı tabağından aldı. Foxen korkudan söndü sönecekti. Bu haldeyken onu ikna etmek mümkün değildi. Öyle somurtkandı ki neredeyse kavgacı olduğu söylenebilirdi. Bu yüzden Auri onu öptü ve uygun yere geri koydu. Sonra zifiri ve ağır karanlığın kasvetli örtüsü altında yatağından çıktı. Gözlerinin açık olup olmaması fark etmezdi; bu nedenle elleri sedir kutuyu ararken onları kapalı bıraktı. Kutudan kibrit ve bir mum çıkarırken de açmadı.
+
+Yere sürttüğü kibrit kıvılcımlar çıkardı, parladı, sonra da kırıldı. Auri’nin kalbine bir ağırlık çöktü. Kötü bir güne kötü bir başlangıç yapmıştı. İkinci kibrit neredeyse hiç kıvılcım çıkarmadan hışırdamakla yetindi. Üçüncü ikiye bölündü. Dördüncünün yanmasıyla sönmesi bir oldu. Beşinci sürte sürte tükenip gitti. Başka kibrit kalmadı.
+
+Auri bir süre karanlıkta oturdu. Daha önce de böyle şeyler olmuştu. Geçen seferki uzun zaman önceydi ama Auri onu hâlâ hatırlıyordu. Tıpkı şimdiki gibi bir yumurta kabuğu kadar boş bir vaziyette oturup kalmıştı. Kızgın karanlıkta oyuk ve kurşun gibi bir göğüsle beklerken onu ilk kez müzik yaparken duymuştu. O, genç kıza tatlı, yeni ve mükemmel adını vermeden önce. O ad ki içini asla terk etmeyen güneşten bir parçaydı. Bir lokma ekmekti. Yüreğindeki bir çiçekti.
+
+Bunları düşünmek Auri’nin ayağa kalkmasını kolaylaştırdı. Genç kız komodinine kadarki yolu biliyordu. Leğende temiz su vardı. Yüzünü, ellerini ve...
+
+Ama sabun kalmamıştı. Auri sabunu geçen sefer bitirmişti. Diğer kalıplarıysa ait oldukları yerde, yani Fırınlar’daydı.
+
+Genç kız tekrar yere, yatağının yanına oturdu. Gözlerini yumdu. Telleri kopmuş, karışık saçları ve bir düğme kadar yapayalnız haliyle neredeyse orada kalacaktı.
+
+Fakat o geliyordu. Yakında tüm tatlılığı, cesareti, parçalanmışlığı ve şefkatiyle burada olacaktı. Taşıdıklarıyla, hünerli parmaklarıyla ve pek çok şeyin farkında bile olmayarak gelecekti. O dünyaya karşı nasır tutmuştu ama bütün bunlara karşın...
+
+Üç gün. Üç kısa gün sonra ziyarete gelecekti. Ve Auri tüm çabalarına ve gezinmelerine rağmen ona uygun bir hediye bulmuş değildi. İşlerin gidişatı hakkındaki tüm bilgeliği bile getirebileceği bir şeyin boş bir yankısını yakalayamamıştı.
+
+Ne uygun bir armağanı ne de henüz paylaşacak bir şeyi vardı. Bu böyle olmazdı. O nedenle Auri kendini toparladı ve yavaşça ayağa kalktı.
+
+Kabuk’tan çıkmanın üç yolu vardı. Koridor karanlıktı. Kapı aralığı karanlıktı. Kapı karanlık, kapalı, boş ve hiçlikle doluydu.
+
+O yüzden Auri dostları ya da kendisine rehberlik edecek bir ışığı olmaksızın yavaşça ve dikkatle koridordan geçerek Ağaç’a doğru yol aldı.
+
+Mumayı’nı katederken yönünü bulabilmek için parmaklarını hafifçe duvara sürttü. Tonozlar ışıksız çok tehlikeli olduğu için uzun yoldan gitti. Sonra Aldıcık’ı yarılamışken ileride Siyah On İki’yi bulma korkusuyla durdu ve gerisingeri döndü. Tıpkı aşağıdaki gölet gibi yukarıdaki hava da karanlık, durgun ve soğuktu. Genç kız bugün oranın düşüncesine bile katlanamıyordu.
+
+Bu da rutubetli ve küflü İlintilik’ten başka hiçbir seçeneğinin kalmadığı anlamına geliyordu. Üstelik tüm bunlar yetmezmiş gibi Kıtırak’tan geçen tek uygun yol lüzumsuz derecede dardı ve örümcek ağlarıyla kaplıydı. Ağlar genç kızın saçlarına takılarak onları yapış yapış ve karmakarışık yaptı.
+
+Fakat Auri sonunda Ağaç’a ulaştı. Soğuk kuyuda akan suyun belli belirsiz şırıltısı onu selamlamaya geldi ve genç kız ne kadar aç olduğunu ancak o zaman fark etti. Rafta geriye kalan birkaç kibritini buldu ve gaz lambasını yaktı. Ani parlaklık gözlerini acıttı, düzeldikten sonra bile sarı renkli titrek alev her şeye hem tuhaf hem de tedirgin bir görünüm katıyordu.
+
+
+
+
+Auri kalan beş kibriti cebine koydu ve soğuk su içti. Raflar o garip, ürkek ışıkta her zamankinden daha boş gözüküyordu. Genç kız buz gibi suda yüzünü, elini ve ayağını yıkadı. Sonra yere oturdu ve küçük ısırıklarla turpunu yedi. O bitince kalan son incirini mideye indirdi. Ufacık olan yüzü asıktı. Havaya muskat kokusu karışıyordu.
+
+
+* * *
+
+Auri o titreyik ve yapış yapış haliyle Fırınlar’a ilerledi. Bugün içerisi fırın gibi değildi. Unutulmuş bir ocak misali içine kapanık ve somurtkandı.
+
+Olgun boruların yanından geçen Auri epey dönüp dolaştıktan sonra sabun zulasının beklemesi için dört dörtlük olan küçük tuğla nişe gitti. Niş sıcak olmasa da kuruydu. Ve de...
+
+Sabun falan yoktu. Sabunlarının yerinde yeller esiyordu.
+
+Fakat hayır. Gaz lambasının titrek ışığı onu yanıltıyordu. Zaten hep böyle tuhaf ve sarı olurdu. Her yere gölgeler düşürürdü. Şeyaltı’nı değiştirirdi. Ona güven olmazdı. Bu belli ki farklı ve bomboş bir tuğla nişti.
+
+Auri arkasına dönüp geldiği yoldan Kordüştü’ye kadar gitti. Sonra da dönüşleri sayarak geri döndü. Sol ve sağ. Sol, sol, sonra sağ.
+
+Hayır. Burası Fırınlar’dı. Burası onun nişiydi. Fakat içi boştu. Bez çuval yoktu. Dikkatle hazırlanmış kalıp kalıp mükemmel yaz sabunları yoktu. Auri mekânın loş kızıl parıltısında bile içinin buz kestiğini hissetti. Yoksa genç kızın Şeyaltı’nda biri mi vardı? Biri eşyaların yerini mi değiştiriyordu? Auri’nin yıllar sürmüş uzun ve zorlu çalışmalarını heba mı ediyordu?
+
+Yüreğine kor düşen genç kız etrafı tarayarak köşe bucak bakındı ve lambasını gölgelere tuttu. Topu topu üç metre uzakta bez çuvalı lime lime edilmiş halde buldu. Cinnas sabunlarının iç açıcı kokusuna misk ve sidik kokuları da karışıyordu. Tırmanmaya meraklı küçük bir hayvanın çıkıntı yapmış bir tuğlaya sürtündüğü yere bir tutam kürk yapışmıştı.
+
+Auri birbirine dolanmış, yapış yapış saçlarıyla doğruldu. İlk başta donakalan minik yüzü o titreyik sarı ışıkta adeta uyuşmuştu. Sonra ağzı öfkeli bir hal aldı. Gözlerine sert bir bakış oturdu. Bir şey mükemmel sabunlarının tamamını yiyip bitirmişti.
+
+Elini uzatıp kürk tutamını parmakları arasına aldı. Hareketi öyle hiddet doluydu ki dünyayı kırıp ikiye bölebileceğinden korktu. Sekiz kalıp. Bütün bir kış yetecek kadar sabun. Hazırladığı tüm mükemmel sabunlar bir şey tarafından yenmişti. Yaratık buraya, sabuna en uygun yere gelip hepsini birden yemeye cüret etmişti.
+
+Genç kız ayağını yere vurdu. Açgözlü şeyin bir hafta boyunca sıçmasını umdu. Berbat benliğini dışarı sıçıp tekrar içine almasını, sonra da bir yarığa düşüp adını kaybetmesini, öfkeli karanlıkta yapayalnız ve bomboş ölmesini umdu.
+
+Kürk tutamını yere attı. Elini saçlarında gezdirmeyi denedi ama parmakları birbirine girmiş tellere takılıp kaldı. Sert bakışlı gözleri bir anlığına dolu dolu oldu ama onları kırpıştırarak gözyaşlarını bastırdı.
+
+Hiddetle ve başına gelenlerin doğrusuzluğuyla terden sırılsıklam olan Auri öfkeli adımlarla sıcak Fırınlar’dan çekip gitti.
+
+
+* * *
+
+Kabuk’a dönerken daha kısa yolu kullandı. O pasaklı ve kirlenmiş haliyle Gümüş On İki’nin dibindeki gölette yıkanmaya zaman ayırdı, sonrasında kendini biraz daha iyi hissetti. Usulüne uygun banyo yapmamıştı. Bir dalıp çıkmaydı. Bir durulanmaydı. Soğuktu da. Ama bu hali bile hiç yoktan iyiydi. Ay, göz ucuyla tepedeki mazgaldan içeriye bakıyordu. Fakat nazik ve mesafeli olduğu için Auri bunu dert etmedi.
+
+Sudan çıktığında silkindi ve ıslak tenini elleriyle ovaladı. Kurumak için Fırınlar’a dönmeyi düşünemiyordu. Bu böyle bir günde olacak iş değildi. Genç kız yukarıdaki mazgaldan içeriye bakan mehtaba göz attı. Tam ıslak saçlarını sıkmaya başlamıştı ki bir ses duydu. Ufacık bir şıpırtı. Yakarırcasına minicik bir cıyaklama. Başı dertte birinin sesi.
+
+Uzun bir panik anı boyunca Auri’nin eli ayağı tutmaz oldu. Bazen yolunu kaybeden bir şey On İki’nin dibine kadar gelir ve su içerken gölete düşerdi.
+
+Onu bulmak soluksuz bir zaman aldı. Genç kızın beş para etmez kırpışığı yok ettiğinden daha çok gölge yaratır gibiydi. Üstelik boruların ve Gümüş On İki’deki suyun dağıttığı yankılar her taraftan geldiği için kulaklarının faydası dokunmuyordu.
+
+Genç kız onu nihayet buldu. Cıyaklayan ve güçsüzce çırpınan ufacık bir şey. Bebeklikten yeni çıkmış yaratık neredeyse kendi başına yaşamını sürdüremeyecek kadar küçüktü. Auri bir payandaya tutunarak suya doğru eğildi. Dengesini korumak için bir bacağını kaldırdı ve boştaki kolunu başının üstünden ileriye uzatarak bir dansçı misali esnedi. Eli havada zarif bir yay çizdi ve gölete dalarak sefil yaratığı sudan aldı...
+
+Ve yaratık onu ısırdı. Dişlerini genç kızın baş ve işaret parmakları arasındaki etli kısma batırdı.
+
+Gözlerini kırpıştıran Auri ufak kokarcayı avucuna alarak kendini göletin kenarına geri çekti. Yaratık debelendiği için onu istediğinden daha sıkı tutmak zorunda kaldı. Tekrar gölete düşerse Auri onu bulup çıkarmadan önce, hayvan boğulabilirdi.
+
+Auri her iki ayağını da taşlara bastıktan sonra ellerini göğsüne dayayarak minik kokarcaya bir kafes yaptı. Fenerini tutacak eli kalmadığından mehtaba güvenerek Eski Demirpatikalar’ı tırmandı. Kurtulmak için mücadele eden kokarca çırpınıp tırmaladı ve Auri’nin parmak ucunu sertçe ısırdı.
+
+Fakat artık en yakındaki mazgala varmışlardı. Genç kız elini kaldırdı ve yolunu kaybetmiş zavallı şeyi dışarı itekledi. Onu Şeyaltı’ndan çıkarıp ait olduğu geceye; annelerin, çöp tenekelerinin ve parke taşlarının diyarına yolcu etti.
+
+Auri tekrar Gümüş On İki’nin dibine indi ve zonklayan başını gölete daldırdı. Başı epeyce zonkladı ama doğrusunu söylemek gerekirse asıl incinen duygularıydı. Bir şey ona bu kadar kabalık etmeyeli fani bir ömre bedel bir zaman geçmişti.
+
+Adı tüm koyuluğu ve ağırlığıyla göğsünde asılı duran Auri elbisesini çekip çıkardı. Elbise bugün üstüne doğru düzgün oturmuyordu. Lambanın sarı ışığında sanki her şey ona pis pis bakıyordu. Saçları berbattı.
+
+Genç kız aynadaki yansımasını görmemek için Gam’dan kaçındı ve uzun yoldan Kabuk’a yürüdü. Uğrak’a girdiğinde neredeyse her şeyde bir terslik olduğunu gördü. Elbette. Ne de olsa bu öyle bir gündü.
+
+Feneri gereğinden daha sert şekilde masaya bırakarak alevi bir anlığına parlattı. Sonra da mekâna çekidüzen vermek için elinden geleni yaptı. Çobanpüskülü şişesi, sayfa kenarları ayrılmamış oktavo kitabın tüm o katlı sırlarına yakın mı duracaktı? Hayır. İkinci rafın uzak ucunda tek başına bekleyecekti. Reçine kendine ait bir alan istemekteydi. Ağzına kadar koyu, mavi renkli defne meyveleriyle dolu kavanoz köşe masasına geri gitti. Minik taş heykelcikse diğer hepsinden daha üstünmüşçesine yüksekteki şarap rafına tünedi.
+
+
+
+
+Yerinde kalan tek şey genç kızın daha yeni elde ettiği mükemmel pal peteği oldu. Auri sırf neşesi yerine gelsin diye ondan bir ısırık almayı düşündü. Böyle bir davranışın tüm bencilliğine rağmen neredeyse alacaktı da. Fakat o anki haliyle peteğe dokunmaya cesaret edemedi.
+
+Genç kız ortalığı elinden geldiğince çekip çevirdikten sonra feneri eline alıp Kabuk’a geçti. Sedir kutusu bir nebze dağılmıştı ve etrafa kırık kibritler saçılmıştı. Lakin her iki sorun da çabucak çözüldü. Pirinç çarkın durumu iyiydi. Mükemmel yaprağı. Taş kutusu. Güz altınından yüzüğü. Lavantayla dolu gri cam şişesi. Hepsi de iyiydi. Auri biraz gevşediğini hissetti.
+
+Sonra battaniyesi gözüne ilişti. Kendi elleriyle en uygun biçimde topladığı mükemmel battaniyesi buruşmuştu ve köşesi yere değiyordu.
+
+Auri uzun bir süre öylece kalakaldı. Ağlayabileceğim düşündü ama içini yokladığında hiç gözyaşının kalmadığını keşfetti. Sanki içi kırık cam parçalarıyla çapaklarla doluydu. Bitkindi ve her şeyden ümidini kesmişti. Ve eli ağrıyordu.
+
+Fakat içinde hiç gözyaşı yoktu. O yüzden battaniyesini toplayıp Dalgacı’ya götürdü. Temiz bir pirinç boru bulduktan sonra daimi rüzgârda havalansın diye battaniyeyi bir perde gibi tünelin ortasına astı ve battaniyenin hafifçe ileri geri sallanmasını seyretti. Battaniye biraz şişip dalgalandı ama daha fazlası olmadı.
+
+Genç kız kaşlarını çattı ve battaniyeyi indirmeye çalıştı. Fakat özensiz davrandı ve ani bir esinti fenerini söndürdü. Onu tekrar yakmak başka bir kıymetli kibritine mal oldu.
+
+Dalgacı yeniden kırpışıkla dolduğunda Auri asılarak battaniyeyi aşağı indirdi, ters çevirdi ve tekrar boruya astı. Fakat hayır. İster ters ister düz assın en ufak bir değişiklik olmuyordu.
+
+Bunun ardından Eski Demirpatikalar’ı tırmandı ve ayı en çok seven mazgalı buldu. Soluk mehtap kardelenler gibi, gümüş bir mızrak gibi aşağı düşüyordu. Auri mehtabı yakalasın, onu soğursun diye battaniyeyi açtı.
+
+Çabası boşunaydı.
+
+Battaniyeyi Harmaniye boyunca geri geri taşıdı. Onu Havari’nin tepesine çıkardı, aşağı attı ve onun tel labirentine düşmesini seyretti. Sonunda battaniye dibe yakın bir tele takıldı ve orada asılı kalarak hafif hafif aşağı yukarı oynadı. Genç kız daha sonra onu Kabuk’a geri götürdü ve de orada öylece durup nispet yapan, titreyik ışıkta altın sarısı parıldayan adi, sinir bozucu, inatçı çarka sardı.
+
+
+
+
+Bunun da en ufak bir yardımı dokunmadı.
+
+Yapılan kabahati hafifletecek başka bir şey akıl edemeyen Auri battaniyeyi ta Yüklük’e ve yeni olduğu kadar kusursuz olan oturma odasına kadar götürdü. Orada battaniyeyi kanepenin arkalığına serdi. Onu katlayıp sandalyenin üstüne koydu.
+
+Sonunda gerçek bir çaresizlikle dişlerini sıktı ve battaniyesini odanın ortasındaki kırmızı gür halının üstüne serdi. Battaniyeyi iki eliyle birden düzeltirken zemindeki taşlara değmemesine özen gösterdi. Battaniye ile halı neredeyse kusursuz bir uyum içindeydi. Ve bir anlığına Auri’nin içini bir umut kaplayıp...
+
+Fakat hayır. Çabaları işe yaramadı. Bunu biliyordu. Aslında başından beri gerçeğin farkındaydı. Hiçbir şey battaniyeyi tekrardan adam etmeye yetmeyecekti.
+
+Kaşlarını çatan Auri battaniyeyi kaptığı gibi nankör şeyi bir top haline getirdi ve adsız merdivenden yukarı çıktı. Kendini eski püskü bir hayvan postu kadar basık ve hırpalanmış hissediyordu. Her iki tarafı da yazılarla dolu bir kâğıt kadar kuruydu. Yeni taş merdivenin şaka yollu sataşmaları bile içinde neşe uyandırmıyordu.
+
+Molozu tırmandı, yıkık duvardan geçti ve Kağnı’ya girdi. Sarı titreyikte oda bir başka gözüküyordu. Sanki insanın üstüne üstüne gelen bir korku ve hüsranla doluydu.
+
+
+
+
+Ve genç kızın bakışları makyaj masasından geçerken onu daha farklı gördü. Masa artık havalı falan değildi. Auri oynak ışıkta onun uğursuz bir eğriliği olduğunu fark etti ve onu aslından çıkaran şey gözüne ilişti. Masanın düzensizliğinin paramparça kenarlarını hissedebilmekteydi.
+
+Fakat birbirine dolanmış, yapış yapış saçlarıyla, o pasaklı ve oyuk haliyle yanlışı düzeltmek için uygun bir durumda olduğu söylenemezdi. Nankör şeyle ilgilenecek havada değildi.
+
+Auri öyle yapmaktansa gardırobun önünde diz çöktü ve gaz lambasını yanına bıraktı. Dizleri taş zeminden soğuk kaparken çekmeceyi açtı ve içindeki yumuşacık, katlı çarşaflara baktı.
+
+Auri gözlerini kapadı. Uzun, zoraki bir nefes aldı ve onu tekrar vererek hafifçe inledi.
+
+Gözlerini açmadan battaniyeyi sertçe çekmeceye tıkıştırdı. Ardından elini en üstteki çarşafa koydu. Evet. Bu yaptığı adildi. Gözleri görmüyorken bile çarşafın hoşluğunu sezebilmekteydi. Parmakları yumuşacık yüzeyde gezinmeye devam etti...
+
+Auri belli belirsiz bir çıtırtı işitti ve burnuna yanık saç kokusu geldi.
+
+Kendini geriye atan genç kız elleri ve ayakları üstünde çılgınca geri geri giderek habis sarı alevden kaçtı. Saçlarını yokladığında sadece birkaç asi telin kömürleştiğini öğrenmek tek tesellisi oldu. Hışımla tekrar gardırobun önüne kadar gitti, battaniyesini kaptı ve öfkeden gerekli nezaketi gösterip göstermediğine bile aldırış etmeden çekmeceyi çarparak kapattı.
+
+Daha sonra yıkık duvardan geçerken ayak parmaklarını çıkık bir taş bloka çarptı. Lambasını neredeyse düşürecekti. Onun yerine acıyla haykırdı ve tökezleyerek dengesini sağlamaya çalıştı.
+
+Genç kız yere çöktü. Battaniyesini düşürdüğünü ancak o zaman fark etti. Battaniye yanındaki çıplak taşlarda yatıyordu. Auri dişlerini öyle sert sıktı ki kırılacaklarından korktu.
+
+Uzunca bir sürenin ardından eşyalarını topladı, ayak sürüyerek Uğrak’a gitti ve battaniyeyi öfkeyle şarap rafına tıktı. Ne de olsa battaniye artık oraya aitti. Durum bunu gerektirmekteydi.
+
+
+* * *
+
+Auri düşünme sandalyesinde oturup pirinç çarka dik dik bakarak epey zaman geçirdi. Parıltısıyla sıcak balı andıran çark o sarı ışıkta pek usluydu. Yine de genç kız ona dik dik bakmaktan vazgeçmedi. Sanki suç ondaymış, her şeyi berbat eden oymuş gibi.
+
+Sonunda küskünlüğü geçti. Gerçeği anlayacak kadar sakinleşti.
+
+Akıntıya karşı yüzemez veya rüzgârın yönünü değiştiremezdin. Peki ya bir fırtına çıkarsa? Eh, o zaman yelken açmayıp gemiyi hazırlar ve sintine basardın. Auri bu haldeyken her şeyi allak bullak etmekten başka ne yapabilirdi ki?
+
+Auri dünyanın gerçek düzenine sırt çevirmişti. Önce kendini toparlardın. Sonra evini. Sonra gökyüzünün sana ait olan köşesini. Ondan sonra...
+
+Doğrusu genç kız o zaman ne olacağını bilmiyordu. Fakat ondan sonra dünyanın iyi imal edilmiş ve yağlanmış bir çarklı saat gibi biraz kendiliğinden işlemeye başlayacağını umuyordu. Olmasını umduğu şey buydu. Çünkü açıkçası bazı günler kendini bitip tükenmiş hissediyordu. Sırf kendisi olmak, dünyanın doğru düzgün dönmesi için yalnız başına çalışıp didinmek onu çok yormuştu.
+
+Yine de ya surat asacak ya da yelken açacaktı. O yüzden Auri ayağa kalkıp yüzünü, elini ve ayağını duruladı. Tabii ki hiç sabunu yoktu. Yaptığı doğru düzgün bir yıkanma değildi. Kendini azıcık bile iyi hissetmedi. Ama elden ne gelirdi?
+
+Genç kız lambayı dudaklarına götürdü ve üfleyerek sarı renkli alevden dili söndürdü. Karanlık derhal hücum ederek odayı doldurdu ve Auri dar, çıplak yatağına uzandı.
+
+
+* * *
+
+Auri uzun süre karanlıkta yattı. Yorgun, allak bullak, aç ve hissiyatsızdı. Hem yüreği hem de başı bitkin durumdaydı. Buna rağmen bir türlü uykuya dalamadı.
+
+İlk başta sebebin yalnızlık olduğunu sandı. Veya onu mahmur gözlü ve değişken ruhlu tutan soğuk olduğunu. Belki de iki defa ısırılmış elinin donuk sızısı yüzündendi...
+
+Fakat hayır. Onları fazlasıyla hak etmişti. Başına gelenler gece boyunca gözüne uyku girmemesi için yeterli değildi. Auri bundan daha kötüsüyle de uyumayı öğrenmişti: o çıkagelmeden önceki zamanlarda; şirin, yeni ve kusursuz adına kavuşmadan önceki yıllarda.
+
+Hayır. Asıl sorunun ne olduğunu biliyordu. Auri yatağından kalktı ve az sayıdaki kibritlerinden birini çıkardı. Kibrit ilk denemede yanınca genç kız onun kükürtlü tutuşmasının kızıl ışığında bembeyaz gülümsedi.
+
+Gaz lambasını yakıp Uğrak’a kadar taşıdı. Tıkıştırdığı şarap rafından battaniyesini vicdan azabıyla çekip çıkardı. Bir özür mırıldanarak onu nazikçe masaya yaydı. Özründe samimiydi. Yaptığının yanlış olduğunun bilincindeydi. Gaddarlık dünyanın dönüşüne asla fayda getirmezdi.
+
+Genç kız nazik ellerle battaniyeyi dikkatlice katladı. Köşeleri birbirine denk getirdi ve kenarların düzgün olmasına özen gösterdi. Sonra battaniyeye kitap rafındaki uygun yerini buldu ve yalnız kalmasın diye yassı gri taşı onun yanına koydu. Geceleyin hava soğuk olacaktı ve Auri battaniyesini özleyecekti. Fakat o burada mutluydu. Battaniye mutlu olmaya layık değil miydi? Her şey kendine uygun bir yeri hak etmiyor muydu?
+
+Yine de battaniyeyi rafa yerleştirdiği sırada biraz ağlamadan edemedi.
+
+Auri Kabuk’a gidip yatağına oturdu. Sonra ağlayarak işi yüzüne gözüne bulaştırmadığından emin olmak için Uğrak’a geri döndü. Fakat hayır. Battaniyeyi okşayarak teselli etti. Her şey olması gerektiği gibiydi. Battaniye mutluydu.
+
+Kabuk’a dönen genç kız çıplak kalan odada gezinerek her şeyin gerektiği gibi olup olmadığına baktı. Düşünme sandalyesi yerli yerindeydi. Sedir kutusu duvara yaslıydı. Foxen’ın tabağı ve şişesi yatak rafındaydı. Nişinde oturan pirinç çark dünyaya kayıtsızdı.
+
+Boş şömine temiz ve bakımlıydı. Ufacık gümüş kadeh komodindeydi. Şöminenin üstündeki kaşta mükemmel sarı yaprağı duruyordu. Küçük taş kutusu. Müşfik kurutulmuş lavantayı barındıran gri cam kavanozu. Sevimli, sıcak güz altınından yapılma yüzüğü.
+
+Auri bunların her birine dokunarak onlardan emin oldu. Hiçbiri olması gerekenden farklı değildi. Hepsi oldukça iyiydi.
+
+Tüm bunlara rağmen Auri kendini huzursuz hissediyordu. Hem de burada, en kusursuz yerinde.
+
+Genç kız çabucak Bucak’a indi, bir süpürge alıp getirdi ve Kabuk’un zeminini süpürmeye başladı.
+
+İşi bir saat sürdü. Ortalık kirli olduğu için değil. Auri yavaşça ve dikkatlice süpürdü. Üstelik epeyce zemin vardı. Kabuk artık nadiren ilgi gerektirdiği için Auri ona kafa yormazdı. Ama yine de içerisi sahiden büyüktü.
+
+Burası onundu ve onu severdi. Auri de oraya kendi mükemmel kabuğundaki bir bezelye gibi cuk otururdu. Ama yine de boş alan çoktu.
+
+Yer tertemiz olunca Auri süpürgeyi geri götürdü. Dönüşte battaniyeyi kontrol etmek için Uğrak’tan geçti. Battaniyenin durumu iyi gibiydi ama ne olur ne olmaz Auri ona ahbaplık etsin diye çobanpüskülü şişesini yanında getirdi. Yalnız kalmak korkunç bir şeydi.
+
+Genç kız yeniden Kabuk’a geçti ve gaz lambasını masasının üstüne bıraktı. Kalan üç kibritini cebinden çıkarıp onları da masaya koydu.
+
+Auri yatağının kenarına otururken neyin yersiz olduğunu fark etti. Düzensizlik en başta kendisindeydi. Kağnı’da bir şey görmüş ama onunla ilgilenmemişti. Üç aynalı makyaj masasını düşününce vicdan azabı sinir bozucu bir parmak gibi yüreğinin kenarında gezindi.
+
+Lakin artık iliklerine kadar bitkindi. Bitap düşmüştü ve canı yanıyordu. Belki sadece bu seferlik...
+
+Kaşlarını çatan Auri başını hışımla iki yana salladı. Bazen çok hayırsız olabiliyordu. Kendini arzularına kaptırabiliyordu. Sanki dünyanın şekli onun mizacına bağlıydı. Sanki kendisi o kadar önemliydi.
+
+O nedenle ayağa kalktı ve yavaş adımlarla Kağnı’ya doğru yola çıktı, Ufalanık’tan aşağı indi. Yüklük’ten geçti. Bir daire kadar mükemmel Halkalık’tan geçip adsız merdiveni tırmandı.
+
+Auri yıkık duvarı da aştıktan sonra o titrek ışıkta makyaj masasını sert bakışlarla süzdü. Öyle yaparken kalbinin, göğsünde hafifçe hızlandığını hissetti. Üç aynaya vuran oynak ışık oradaki şişelerde sayısız gölgeyi dans ettirmekteydi.
+
+Yaklaşmaya başlayan Auri gördüklerini dikkatle seyretti. Sarı ışığın oynak tabiatı olmadan bunu asla doğru düzgün göremezdi. Önce sola, sonra sağa geçip eşyalara her iki taraftan da baktı. Başını yana yatırdı. Gözleri makyaj masasının yüzeyiyle aynı hizada olsun diye dizleri üstüne çöktü. Aniden yüzüne neşe dolu bir tebessüm yayıldı.
+
+Auri sırtını dimdik tutarak makyaj masasının önündeki sandalyenin ucuna ilişti. Nasıl göründüğünü tahmin ederek aynalara bakmamaya çalıştı. Pasaklı, gözleri kan çanağına dönmüş, saçları birbirine dolanmış rezil bir kız. Çok cılız. Çok solgun. Kısacası hanımefendilikten çok uzak. Öyle yapmaktansa iki çekmeceyi de açtı. Sarı ışığın ve gölgelerin çekmecelerde kaynaşmasına izin vererek bir süre gözünü içlerine dikti.
+
+Birkaç dakikanın ardından kendi kendine kafa salladı. Sağ çekmeceden bir çift eldiven çıkardı ve aynanın yakınındaki allığın yanına bıraktı. Sonra sağ çekmeceyi yerinden tamamıyla çıkardı ve soldaki eşiyle değiştirdi. Orada uzun bir süre oturarak yüzünde yoğun bir dikkat ifadesiyle iki çekmeceyi yeni raylarında ileri geri oynattı.
+
+Makyaj masasının üstündeki her şey karmakarışıktı. Şişeler ve incik boncuklar etrafa saçılmıştı. Buna rağmen neredeyse her şey tam da olması gerektiği gibiydi. Tek istisna saç fırçası ve havalanmış iki kuşu resmeden küçük bir altın broştu. Auri saç fırçasını sol çekmecedeki mendillerin yanına koydu ve broşu katlı bir yelpazenin altına sakladı.
+
+Bunun ardından yersiz tek şeyin, burgulu bir gümüş tıpaya sahip mavi renkli narin bir şişe olduğu görülüyordu. Diğer pek çok şişe gibi o da yan duruyordu. Auri şişeyi doğrulttu ama bu doğru bir hareket değildi. Genç kız onu bir çekmeceye koymayı denedi ama şişe oraya da uymadı.
+
+
+
+
+Auri şişeyi eline alıp içinde ışıldayan sıvıyı dinledi. Kararsızca odaya bakındı. Makyaj masasının çekmecelerini tekrar açtı, sonra kaydırarak kapattı. Şişeye uygun bir yer yoktu.
+
+Auri dalgın bir edayla şişeyi salladı ve tırnağını ona birkaç kez vurdu. Soluk mavi cam bir yumurta kabuğu kadar narin olmasına rağmen tozluydu. Genç kız ağzından laf alabilme umuduyla onu bir güzel parlattı.
+
+Şişe temizlenince unutulmuş, buz kaplı bir tanrının yüreği gibi ışıl ışıldı. Auri onu ellerinde çevirirken dibine ufacık harfler kazınmış olduğunu fark etti. Şöyle yazıyordu: Baş Döndürücü Esther’ım için.
+
+Auri eliyle ağzını kapatsa da ağzından boğuk bir kıkırdamanın kaçmasına engel olamadı. Ağırdan alarak kuşku dolu bir yüz ifadesiyle tıpayı açtı ve kokladı. İşte o zaman karnının derinliklerinden gelen kocaman bir kahkaha attı. O kadar çok güldü ki tıpayı çevirerek yerine takmakta zorlandı. Bir dakika sonra şişeyi cebine atarken hâlâ kıkırdıyordu.
+
+Gülümsemeyi sürdürerek adsız merdivenden dikkatle indi ve aynı dikkatle şişeyi Uğrak’a kaldırdı. Şişe en çok kitap rafını sevmişti ve bu olabilecek her şeyden daha iyiydi, zira orada hem çobanpüskülüne hem de battaniyeye arkadaşlık edebilirdi.
+
+Auri ufak ama kusursuz yatağına uzanırken hâlâ gülümsüyordu. Ve evet, yatağı soğuk ve yalnızdı. Fakat elden bir şey gelmezdi. Genç kız işleri usulüne göre yapmanın tüm bunlara değdiğini herkesten daha iyi bilirdi.
+
+
+
+
+
+Kül ve Kehribar
+
+
+Beşinci gün Auri uyandığında Foxen’ın morali oldukça düzelmişti.
+
+İşte bu iyiydi. Genç kızın yapacak bir sürü işi vardı.
+
+Karanlıkta yatan Auri o günün neler getireceğini merak etti. Bazı günler trompet kadar gururlu olur, geldiğini gök gürültüsü misali duyururdu. Bazılarında ise kibar olur, gümüş bir tepsideki bir kartvizit kadar dikkatle çıkagelirdi.
+
+Fakat bazı günler utangaç olurdu. Kendine ad koymazdı. Dikkatli bir kız tarafından bulunmayı beklerdi.
+
+İşte bu öyle bir gündü. Auri’nin kapısını çalmayacak kadar utangaç bir gün. Bu bir çağrı günü müydü? Bir gönderme günü mü? Bir faaliyet günü mü? Bir onarma günü mü?
+
+Auri cevabı bilmiyordu. Foxen uykusunu yeteri kadar üzerinden atar atmaz genç kız Musluklar’a gitti ve leğeni için temiz su aldı. Sonra Kabuk’ta yüzünü, elini ve ayağını duruladı.
+
+Tabii ki hiç sabunu yoktu. Bugün yoluna koyacağı ilk şey oydu. İsteğini dünyaya diretecek kadar kibirli değildi. Fakat dünyanın ona verdiği şeyleri kullanabilirdi. Sabuna yetecek kadarını. Buna izni vardı. Bu kadarı Auri’nin hakkıydı.
+
+Öncelikle gaz lambasını yaktı. Foxen’ın onu yumuşatan mavi parıltısı sayesinde sarı alev titreşip kırpışarak duvarları pençeleyen hummalı gölgeler düşürmeden odayı ısıtmaya yardım etti.
+
+Auri bacayı açtı ve yeni bulduğu çalı çırpıyı kullanarak dikkatle bir ateş yaktı. Odunları güzel ve kuruydu. Hepsi de dişbudak, karaağaç ve alıç fidesiydi. Fazla geçmeden ateş çıtır çıtır yanmaya başladı.
+
+Genç kız onu bir süre süzdü, sonra arkasına döndü. Ateş epeyce yanacaktı. Durum tıpkı Mandrag Hoca’nın dediği gibiydi: kimyanın onda dokuzu beklemekti.
+
+Fakat Auri’nin tüm vaktini doldurmaya yetecek kadar işi vardı. İlk önce Ağaç’a indi. Oradan küçük bakır güğümü ve çatlak kil fincanını aldı. Boş keten çuvalı cebine koydu. Kuyudaki tereyağını süzdü, sonra da içindeki bıçakların sorun çıkaracağı bilinciyle kaşlarını çattı ve başını iki yana salladı.
+
+Onun yerine beyaz renkli sert içyağı topağını kaldırdı, onu merakla kokladı ve sırıttı. Ardından üç ayaklı küçük demir sehpayı ve tuz heybesini aldı.
+
+
+
+
+Tam gidecekken durakladı ve muskat yemişlerinin olduğu gümüş kâseyi süzdü. Yemişler garip olmasının yanı sıra zor bulunan cinstendi. İçleri uzaklarla öylesine doluydu ki. Genç kız birini alıp parmaklarını yemişin sert yüzeyinde gezdirdi. Yüzüne doğru yaklaştırıp kokusunu derin derin içine çekti. Misk ve kenger. Randevuevindeki bir perde gibi koyu, kırmızı ve gizemlerle dolu bir koku.
+
+Hâlâ kararsız olan Auri gözlerini yumup başını eğdi. Dilinin pembe ucu utangaçça dışarı çıktı ve garip kahverengi yemişe dokundu. Yemiş kılını kıpırdatmadan durdu. Sonra gözlerini açmadan yemişin düzgün tarafını dudaklarında yumuşakça gezdirdi. Yaptığı hassas, düşünceli bir hareketti. Bir öpücükle ise alakası yoktu.
+
+Uzun bir sürenin ardından Auri’nin ağzı geniş, neşe dolu bir tebessümle genişledi. Gözleri birer fener gibi kocaman açıldı. Evet. Evet evet. Aradığı şey buydu.
+
+
+* * *
+
+Yaprak desenli gümüş kâse ağırdı. O yüzden Auri özel bir sefer düzenleyerek onu Kabuk’a kadar iki eliyle birden taşıdı. Ardından büyük taş havanı Siyahev’de kös kös oturduğu yerden aldı. Çınıltı’dan iki şişe getirdi. Bir avuç kuru çam iğnesi bulana kadar Onluklar’ın zeminini taradı. Çam iğnelerini de Kabuk’a götürdü ve çatlak kil fincanın dibine yerleştirdi.
+
+Ateş o zamana dek sönmüş, yerini küllere bırakmıştı. Auri külleri süpürdü ve çatlak kil fincana doldurup sıkıca bastırdı.
+
+Genç kız isli ellerini yıkamaya gitti. Yüzünü ve ayaklarını da duruladı.
+
+Auri bir ateş daha yaktı. İçyağını güğüme koydu ve erisin diye güğümü ateşin üstüne astı. İçine tuz ekledi. Sırıttı.
+
+Yeniden Ağaç’a indi ve önceden topladığı meşe palamutlarının yanında geniş, düz bir tava da getirdi. Muskadan soydu ve tavanın içine atıp oynattı. Üzerlerine tuz ektikten sonra onları tek tek yedi. Bazıları acıydı. Bazıları tatlı. Bazıları dişinin kovuğunu bile doldurmadı. Ama zaten işler böyle yürürdü.
+
+Muskatları bitirince içyağını süzdü ve henüz hazır olmadığını gördü. Hem de hiç hazır değildi. O yüzden muskat çekirdeklerini tek tek kırdı ve eski taş havanda ezdi. Onları toz haline getirdikten sonra bir kavanozun içine döktü. Kır ve öğüt. Kır ve öğüt. Şu havan ne amansız şeydi; hoyrat ve dediği dedikti. Fakat iki gündür doğru düzgün yıkanamayan Auri, onun mizacıyla dört dörtlük uyuştuğunu keşfetti.
+
+Öğütme işi de bitince genç kız erimiş donyağıyla dolu, bakır güğümü ateşten aldı. İçyağını karıştırdı. Geriye sıcak ve keskin içyağı kalana dek artığı süzdü. Güğümü soğusun diye kenara koydu. Aldıcık’taki uygun bakır borudan temiz su almaya gitti. Gaz lambasını Bucak’ın bir köşesinde uslu uslu duran parlak bir çelik musluktan doldurdu.
+
+Geri geldiğinde ateş tekrar sönmüştü. Auri külleri süpürdü ve çatlak kil fincana sıkıca doldurdu.
+
+İsli ellerini duruladı. Yüzünü ve ayaklarını da.
+
+Ateşi üçüncü ve son kez yaktı, sonra da Uğrak’a gidip rafları gözden geçirdi. Esther’ın şişesini alıp aletleriyle beraber şöminenin yakınına koydu. Çobanpüskülü bezini de almayı ihmal etmedi.
+
+Bunun ardından koyu mavi defne meyveleriyle dolu kavanozu taşıdı. Fakat kavanozun yerine uymadığını üzülerek gördü. Nasıl denerse denesin defne kavanozu bir türlü aletleriyle yan yana gelmeye yanaşmıyordu. Auri ona şömine kaşını teklif ettiğinde bile.
+
+Auri kendini haksızlığa uğramış gibi hissetti. Defne orası için idealdi. Genç kız uyanır uyanmaz bir sabunu bir de onu aklına getirmişti. Elin ele oturması gibi oturması gerekirdi. Auri onları kaynaştırmayı planlamıştı...
+
+Fakat hayır. Ona göre bir yer yoktu. O kadarı belliydi. İnatçı şeyi ikna etmek mümkün değildi.
+
+Bu durum Auri’yi canından bezdiriyordu. Fakat genç kız dünyayı kendi arzularına boyun eğmeye zorlamaması gerektiğinin farkındaydı. Adı sanki içindeki bir sızının yankısıydı. Kendisi pasaklıydı ve saçları da birbirine dolanmıştı. Öyle bir şey ahmaklıktan başka bir şey olmazdı. Auri iç geçirdi ve koyu mavi meyvelerle dolu kavanozu Uğrak’taki rafına geri götürdü. Bencil kavanoz orada halinden hoşnuttu.
+
+Genç kız bunun ardından Kabuk’un sıcak ve düzgün taşlarına oturdu. Şöminenin karşısına geçip eğreti aletlerini etrafına dizdi.
+
+Çatlak kil fincandaki küller tıpkı olması gerektiği gibiydi. Tane tane ve yumuşak. Meşe tahtası onları fazlasıyla yola getirilemez bir hale sokardı. Huş buruktu. Fakat bu... Bu mükemmel bir karışımdı. Dişbudak, karaağaç ve alıç. Kızışmadan veya kırışmadan karışıyorlardı. Dişbudak gururlu olsa da dikbaşlı değildi. Karaağaç zarifti ama yapraksız kalmak gibi bir densizlik yapmazdı, özellikle de Auri için.
+
+Ve alıç... Bunu düşününce Auri’nin biraz yüzü kızardı. Yapraksız olsun veya olmasın o hâlâ genç, sağlıklı bir bayandı ve edebin de fazlası zarardı.
+
+Auri daha sonra Esther’ın şişesini çıkardı. Çalıntı anlarla ve selas çiçeğinin kokusuyla dolu şişe pek nazlıydı. Mükemmel. Auri’nin burada ihtiyaç duyduğu şey tam olarak hırsızlıktı.
+
+Muskat dışarıdan gelmişti ve bir bakıma yabancıydı. Ağzına kadar denizköpüğüyle doluydu. Çok hoş bir ilave. Hayati. Yemişler hem bir şifre hem de bir gizemdi. Fakat Auri’nin bu durumu dert ettiği yoktu. Bazı sırların saklanması gerektiğini biliyordu.
+
+Genç kız soğutma güğümünün içine göz attığında içyağının donmaya başladığını gördü. Yağ güğümün kenarlarına yapışarak aya benzer ince bir hilal yaratıyordu. Auri sırıttı. Elbette. Onu ayın altında bulmuştu. Şişerek dolunaya dönüşen ayın izinden gitmesi doğaldı.
+
+Fakat daha yakından bakınca Auri’nin tebessümü kayboldu. İçyağı temiz ve güçlüydü ama artık içinde hiç elma yoktu. Şimdi ağzına kadar gençliği ve öfkesiyle dolup taşıyordu. Hiddet yüklü bir fırtınadan farksızdı.
+
+İşte bu olacak iş değildi. Auri günbegün hiddete maruz kalamazdı. Üstelik onu uzak tutacak defne de yoktu... Genç kız öfkeyi açığa çıkarmaya mecburdu. Yoksa sabunu mahvolmaktan da beter olurdu.
+
+Auri hemen Uğrak’a geri gidip etrafa bakındı. Yapacağı seçim oldukça basitti. Bal peteğini kaldırıp tek bir ısırık aldı. Gözlerini yumdu ve balın tatlılığıyla tüm tüylerinin diken diken olmasına izin verdi. Dudaklarını yalarken kıkırdamadan edemedi. İçindeki arıların hamaratlığından neredeyse başı dönecekti.
+
+Tüm tatlılığını emdikten sonra balmumu yumrusunu zarifçe avucuna tükürdü. Onu ellerinde yuvarlayarak yumuşak bir topak haline getirdi.
+
+Genç kız içyağı güğümünü de yanına alıp Umbuk’a gitti. Ay orada tüm anaçlığıyla mazgaldan aşağı bakıyordu. Yumuşak ışık eğik bir açıda yere kadar ulaşarak Şeyaltı’nın taş zeminini öpüyordu. Auri gümüş ışık dairesinin yanına oturdu ve güğümü özenle onun ortasına koydu.
+
+
+
+
+Bakır güğümde giderek soğuyan içyağı beyaz renkli ince bir çember haline geliyordu. Auri kendi kendine kafa salladı. Üç daire. Dilek için mükemmel. Uysal ve kibar olmak daha iyiydi, isteklerini dünyaya dayatmak, bencilliklerin en beteriydi.
+
+Auri balmumu topağına bir iplik bağladı ve onu içyağının hâlâ sıcak olan merkezine batırdı. Birkaç saniyenin ardından çabasının işe yaradığını görüp gevşedi. Hiddetin katılaşarak balmumunun etrafında toplandığını, bal arayan bir ayı misali ona yöneldiğini hissetti.
+
+Mehtap dairesi bakır güğümü geride bıraktığında içyağındaki öfke son zerresine kadar arınmıştı. İnsan eliyle yapılan bir ayrıştırma ancak bu kadar iyi sonuç verirdi.
+
+Auri bunun ardından güğümü Ağaç’a götürdü ve soğutma kuyusundaki akan suların içine bıraktı, içyağı cırcırböceği süratiyle soğuyarak iki parmak kalınlığında beyaz bir disk oluşturdu.
+
+Auri, içyağı diskini yüzeyden dikkatle kaldırdı ve alttaki altın sarısı suyu döktü. Öyle yaparken de suyun uykudan ve tüm elmalardan bir iz taşıdığını dalgınca fark etti. Yazık. Fakat bazen işler böyle yürüdüğü için elden bir şey gelmezdi.
+
+Balmumu topağının gözü dönmüştü. Artık öfke orada toplandığı için Auri onun düşündüğünden çok daha azılı olduğunu fark etti. Topak vakitsiz ölümle gürleyen bir hiddet yumağıydı. Bir annenin yalnız kalan yavruları için duyduğu gazaptı.
+
+Auri topağın bir iplikten sarkıyor olmasından memnundu. Ona elleriyle dokunası hiç yoktu.
+
+Genç kız yavaşça ve usulca topağı kalın bir cam kavanoza koyup, kavanozun ağzını çok ama çok sıkı kapattı. Sonra bu kavanozu Hudut’a kadar taşıdı. Taşırken de çok dikkatli davrandı. Yine aynı dikkatle onu yüksek taş bir rafa koydu. Topak orada, camın ardında güvende olurdu.
+
+
+* * *
+
+Genç kız Kabuk’a döndüğünde üçüncü ve son ateş de kül olmuştu. Auri külleri yeniden süpürdü. Bu küller çatlak kil fincanı ağzına kadar doldurdu.
+
+Auri isli ellerini duruladı. Yüzünü ve ayaklarını da.
+
+Her şey hazırdı. Sırıtan genç kız tüm aletleri etrafında dizili olarak, sıcak taş zemine oturdu. Dışarıdan bakıldığında sakin gözükmesine rağmen yeni sabununun düşüncesiyle içten içe resmen dans ediyordu.
+
+Güğümü sacayağın üstüne koydu. Altına da gaz lambasını kaydırdı ki sıcak ve parlak alev güğümün bakır tabanını öpebilsin.
+
+Auri öncelikle kusursuz, bembeyaz, tertemiz içyağı diski eline aldı. Disk güçlü, keskin ve ay kadar hoştu. Genç kızın hınzır, yerinde duramayan bir parçası daha hızlı erisin diye diski parçalamak istiyordu. Böylece sabununa daha çabuk kavuşabilirdi. Yıkanabilir, saçlarını tarayabilir ve onca zaman sonra nihayet kendine bir çekidüzen verebilirdi...
+
+Fakat hayır. Auri gücendirmemeye dikkat ederek içyağını nazikçe güğümün içine bıraktı. Onun saf ve kusursuz dairesini bozmadı. Sabır ve adap. Yapılabilecek tek görgülü şey buydu.
+
+Sonra sıra küllere geldi. Auri çatlak kil fincanı güdük bir cam kavanozun üstüne koydu. Üzerlerine temiz ve berrak su döktü. Su küllerden geçerek fincanın dibindeki çatlaktan aktı, damladı, sızdı. Rengi kanın, çamurun ve balın o bulanık kırmızısıydı.
+
+Son damlalar da düştüğünde Auri cürufsuyu kavanozunu havaya kaldırdı ve onun, o güne dek yarattığı en güzel şeylerden biri olduğunu gördü. Rengi gün batımı kırmızısıydı. Bu şey heybeti ve zarafetiyle birlikte değişiyordu. Fakat temelinde bir tutam amaçsızlık taşıyordu. Tahtanın getirdiği tüm uygun şeylerin yanı sıra pek çok kinci yalan barındırıyordu.
+
+Bu bazı açılardan yeterliydi. İçyağı ve cürufsuyu ile kullanışlı bir sabun yapılabilirdi. Fakat içinde elma olmazdı. Tatlı veya şefkatli bir şey olmazdı. Tebeşir kadar sert ve soğuk olurdu. Kayıtsız bir tuğlayla yıkanmaya benzerdi.
+
+O yüzden evet, bu bazı açılardan bir sabun için yeterliydi. Ama öyle bir şey kim bilir ne korkunç olurdu. Yalınlıkla, keskinlikle, sadece yeterli olan şeylerin boşluğuyla çevrili yaşamak ne kadar feciydi.
+
+Kabuk’un sıcak ve düzgün zemininde oturan Auri öyle neşesiz bir dünyada yaşamanın düşüncesiyle ürperdi: Hiçbir şeyin mükemmel, hiçbir şeyin güzel ve doğru olmadığı bir dünyada. Ah hayır. Auri öyle yaşamayacak kadar akıllıydı. Genç kız etrafına bakındı ve sahip olduğu lüks karşısında gülümsedi. Mükemmel ve sevecen bir ekmeği ile lavantası vardı. En gözde elbisesini giyiyordu. Adı Auri’ydi ve o ad, içinde durmaksızın parıldayan bir parça altındı.
+
+O yüzden buz mavisi şişenin gümüş tıpasını çevirerek çıkardı ve parfümü iyice öğütülmüş muskat tozunun arasına döktü. Oda muskatın geniz yakıcı keskinliğinin yanında daha bir tatlı ve hafif gelen selas çiçeğinin kokusuyla doldu.
+
+Gülümseyen Auri bu ikisini bir çırpı yardımıyla karıştırdı. Ardından yoğun, ıslak, hamurumsu karışımı geniş ağızlı bir kavanozun içine koyduğu keten çuvala döktü. Uçlarına bağladığı iki çubuk yardımıyla çuvalı burktu ve eğreti merdanesiyle kumaşı bir güzel sıkarak kavanoza yoğun, koyu renkli, yağlı bir sıvı akıttı. Akıntı yavaş bir damlamadan ibaretti. Çıkan sıvı altı üstü bir kaşık dolusuydu. İki kaşık. Üç.
+
+Verdiği dikkat sebebiyle ağzı incecik bir çizgi halini alan Auri çubukları döndürmeyi sürdürdü. Keten daha da sıkıştı. Koyu renkli sıvı dışarı sızdı, toplandı, damladı. Tekrar damladı.
+
+
+
+
+Auri ister istemez doğru düzgün bir pres makinesine sahip olmayı diledi. Böylesi çok zahmetliydi. Çubuklara var gücüyle yüklenen genç kız ellerini biraz kaydırdı ve onları yarım tur daha döndürdü. Parmak eklemleri bembeyaz kesilirken dişlerini sıktı. Bir damla daha. Üç damla. On.
+
+Auri’nin kolları titremeye başladı ve kendine hâkim olamayıp Hudut’a açılan demir şeritli kapıya göz attı.
+
+Hemen başını öteye çevirdi. Kendisi hınzırın teki olabilirdi ama o kapı kadar fena değildi. Boş dileklerde bulunmak zaman kaybıydı ama dünyayı kendi arzularına göre şekillendirmek bambaşka bir şeydi.
+
+Titreyen kolları nihayet daha fazla dayanamadı. İç geçirerek gevşeyen genç kız çubukları çuvaldan ayırdı ve keten çuvalı sığ bir tavanın üstünde ters çevirdi. Koyu renkli, hamurumsu bir kütle olmaktan çıkmış muskat posası, solgun ve gevrek görünüyordu.
+
+Auri camı kaldırdı ve kehribar berraklığındaki kıvamlı sıvıyı süzdü. Sıvı pek, pek, pek hoştu. Daha önce gördüğü hiçbir şeye benzemiyordu, içerisinde pek çok sır ve denizköpüğü barındırıyordu. İçi gizemden geçilmiyordu. Miskle, fısıltılarla ve tetradekonoik asitle doluydu.
+
+Eseri öyle güzeldi ki Auri elinde ondan daha da fazla bulunsun isterdi. Kavanozda altı üstü bir avuç dolusu vardı. Genç kız tavaya bakarak birkaç kıymetli damla daha alabilmek için posayı elleriyle sıkmayı düşündü...
+
+Fakat elini uzattığı zaman nedense pütürlü kütleye çıplak teniyle dokunası hiç gelmedi. Durakladı ve solgun, gri, gevrek posaya daha yakından bakmak için başını yana eğdi. Gördüğü şey karşısında karnı düğümlendi.
+
+Posanın içi çığlıklarla doluydu. Günlerce sonu gelmeyen koyu kırmızı çığlıklarla. Bunlar, daha önceden gizemlerce saklanıyordu ama selasın tatlılığı bunları alıp götürmüştü ve Auri artık çığlıkları apaçık görebiliyordu.
+
+Genç kız kavanozu havaya kaldırıp kehribar renkli esansı inceledi. Fakat hayır. Sıvı öncekinden farksızdı. Gizemlerin ve miskin arasında saklanan bir çığlık yoktu. Hâlâ mükemmeldi.
+
+İçi rahatlayan Auri derin ve titrek bir nefes aldı. Ve kavanozu elinden bırakıp keten çuvalı ve her iki döndürme çubuğunu sığ teneke tavanın içindeki iğrenç posanın yanına koydu. Bunu yaparken de hepsi zehirliymiş gibi parmak uçlarından başka hiçbir şey kullanmadan onlarla mümkün olduğunca az temas etti.
+
+Posayı yakınında istemiyordu. Hem de hiç. Gerçeği biliyordu. Kırmızıyı da. Yeterince çığlık dinlemişliği vardı.
+
+Hafifçe terleyen Auri tavayı iki eliyle birden kaldırdı ve kapı aralığına doğru döndü. Fakat tertipli Uğrak’a doğru tek bir adım bile atmadan durdu. Bunu burada tutamazdı. Nasıl bir kargaşa çıkaracağını kim bilebilirdi? Çığlık atmak iyi bir komşunun yapacağı türden bir şey değildi.
+
+Auri bunun üzerine koridora doğru döndü. Bir adım attı, sonra da nereye gideceğini bilemediği için durdu. Rüzgârın çığlıkları Şeyaltı boyunca taşıyacağı Dalgacı’ya mı yoksa saksılarının, tencerelerinin ve kıymetli bezelyelerinin hemen yanı başında bir kömür yığını gibi için için yanacakları Ağaç’a mı?
+
+Fakat hayır. Hayır hayır.
+
+Auri son bir kez daha döndü. Yönü bu sefer Kabuk’tan çıkan üçüncü yola çevriliydi. Demir şeritli kapıya doğru döndü ve keten çuvalı Hudut’a götürdü.
+
+
+* * *
+
+Auri geri geldiğinde yüzünü duruladı. Ardından elini ve ayağını da duruladı.
+
+Sacayağına ve bakır güğüme doğru bir adım attı, sonra durdu. Tekrar leğeninin yanına gitti. Yüzünü duruladı. Ardından elini ve ayağını da duruladı.
+
+Her şeyden daha çok istediği bir şey varsa o da sabundu. Oturup başladığı işi bitirebilmek için. Amacına ulaşmasına çok az kalmıştı. Fakat öncelikle birkaç şeyden emin olmak amacıyla alelacele Uğrak’a geçti. Battaniyeyi iki eliyle birden düzeltti. Yassı gri taşa dokundu. Çobanpüskülü şişesini ait olduğu yere geri koydu. Deri ciltli kitaba dokundu, sonra sayfa kenarlarının hâlâ ayrılmadığından emin olmak için kapağını kaldırdı. Ayrılmamışlardı. Fakat genç kız raftan tarafa göz attığında taşın duruşunun bozulmuş olduğunu gördü. Taşı uygun ve doğru yerine kaydırmaya çalıştıysa bile şeklini göremediği için işlerin gidişatını ve oranın doğru bir yer olup olmadığını kestiremedi. Aynı şey bal için de geçerliydi. Auri onu çok istiyordu ama elini sürmemesi lazımdı...
+
+Genç kız gözlerini ovuşturdu. Sonra kendini durup ellerine bakmaya zorladı. Çabucak Kabuk’a geri döndü. Yüzünü duruladı. Ardından elini ve ayağını da duruladı.
+
+O anda içini panik kapladığını hissetti. Biliyordu. İşlerin ne çabuk raydan çıkabileceğini biliyordu. Yapabildiğin işleri yapardın. Dünyayla sırf dünyanın hatırı için ilgilenirdin. Güvende olacağını umardın. Ama genç kız gerçeği biliyordu. Hayatın bir anda tepetaklak olurdu ve elinden hiçbir şey gelmezdi. Ve evet. Auri kendisinin de doğru olmadığını biliyordu. Her şeyinin çarpık ve hatalı olduğunu biliyordu. Başının ayarının kaçtığını biliyordu. İçten de doğru olmadığını biliyordu. Biliyordu işte.
+
+Artık solukları daha sertti. Kalbi göğsünde gümbürdüyordu. Işık daha parlaktı ve normalde duyamayacağı şeylerin sesini duyuyordu. Raydan çıkmış bir dünyanın feryadı. Doğru yoldan sapmış her şeyin uluması...
+
+Auri kan, ter ve korku içinde odaya bakındı. Eli ayağına dolanmıştı ve bir tel kadar gergindi. Burada bile. İzleri görebiliyordu. Kabuk diken üstündeydi. En mükemmel yeri bile. Yatağı sanki yatağı değildi. Mükemmel yaprağı öyle narindi ki. Taş kutusu çok uzaklardaydı. Lavantasının hiç faydası yoktu ve solup gidiyordu...
+
+Auri başını eğerek titreyen ellerine baktı. Artık içi tepeleme çığlıkla mı doluydu? Yine mi? Hayır. Hayır hayır. Dolu olan kendisi değildi. Daha doğrusu sadece kendisi değildi. Tüm her şeydi. Tüm her şey sökümleniyor, inceliyor, yırtılıyordu. Auri ayakta bile zor duruyordu. Tırtıklı ışık bir bıçak gibi dişlerine sürtünüyordu. Ve altında oyuk bir karanlık yatıyordu. Adsız boş her şey duvarların sökülen kenarlarını pençeliyordu. Foxen bile kendinde değildi. Taşlar bir tuhaftı. Hava da. Auri adını aradığında onu titreşirken bile bulamadı. İçi oyuk kalmıştı. Her şey öyleydi. Her şey her şeydi. Her şey başka şeydi. Burada, en kusursuz yerinde bile. Auri’nin ihtiyacı vardı. Lütfen, ihtiyacı vardı...
+
+Ama olanlar bunlardı. Genç kız duvara baktığında pirinç çarkın hiç değişmemiş olduğunu gördü. Çarkın içi fazlasıyla sevgi doluydu. Hiçbir şey onu kaydıramazdı. Hiçbir şey onu kendine yabancılaştıramazdı. Tüm dünya silinip gittiğinde bile o kusursuz bir palindrom olarak kalırdı. El değmemişti.
+
+Çark odanın diğer ucundaydı. Öylesine uzaktı ki Auri ona erişemeyeceğinden korktu. Özellikle de altındaki taşlar bu denli amansızken, kendi içi bu denli oyukken. Fakat biraz kıpırdadığında hiç zorlanmadığını gördü. Sanki yokuş aşağı iniyordu. Gururlu ve parlak pirinç çark yeterince gerçekti. Parçalanmış dünyaya sertçe bastırıyor ve orayı göçertiyordu.
+
+Sonra Auri kendini ona dokunurken buldu. Çarkın yüzeyi öyle düzgün ve sıcaktı ki. Kan ter içindeki, soluksuz, çaresiz Auri alnını onun serinliğine yasladı. Genç kız çarkı iki eliyle birden tuttu. Kenarlarının avuçlarına batan keskinliği sakinleştirici bir bıçak gibiydi. Auri ilk başta ona gemi kazasından kurtulan birinin sahildeki kayalara yapışması gibi sıkı sıkıya tutundu. Ama etrafındaki tüm dünya halen fırtınalıydı. Tepetaklaktı. Ufalanıp solmuş ve sancılara boğulmuştu. O yüzden Auri titreyen kollarla ona yüklendi. Çarkı dar kaya çıkıntıda döndürmek için asıldı. Onu saatin aksi yönünde çevirdi. Kırılan yönde.
+
+
+
+
+Çark dişten dişe eğildi. Auri pirinç çarkı döndürdü ve ancak o zaman onun ürkütücü ağırlığını anladı. O bir dayanak noktasıydı. O bir pimdi. Bir eksendi. Kayardı, eğilirdi ama gerçekte yalnızca dönermiş gibi gözükürdü. Gerçekte sabit dururdu. Kalakalırdı. Gerçekte dönen tüm dünyaydı.
+
+Son kez kuvvet vermesinin ardından eksik dişin boşluğu dosdoğru aşağı bakmaya başladı. Çarkın kenarları taşa sertçe sürterken Auri tüm dünyanın sarsıldığını hissetti. Tıkladığını. Tıkırdadığını. Yerine oturduğunu. Onarıldığını. Genç kız titreyerek etrafına bakındı ve her şeyin yolunda olduğunu gördü. Yatağı sadece yatağıydı. Kabuk’ta her şey yolundaydı. Hiçbir şey başka bir şey değildi. Hiçbir şey olmaması gereken bir şey değildi.
+
+Auri yere sertçe çöktü. Öylesine rahatlamıştı ki bir anlığına nefesi kesildi. Gülerek çarkı kavradı ve göğsüne bastı. Onu öptü. Gözlerini kapatıp ağladı.
+
+
+
+
+
+Gönlüne Göre
+
+
+Dayanak’ı dar çıkıntısına geri koyan Auri onun güzelim pirinç yüzeyindeki gözyaşı lekelerini sildi. Sonra güğümün yanına gitti ve içyağının tamamen erimiş olduğunu görüp sevindi. Sıcağın, ocağın, toprağın, soluğun kokusu üzerine sinmişti. Genç kız eğildi, üfleyerek sarı alevi söndürdü.
+
+Ardından leğeninin başına gitti. Yüzünü duruladı. Ardından elini ve ayağını da duruladı.
+
+Sıcak taş zemindeki güğümün yanına oturdu. Az kalmıştı. Yakındı. Sırıtan genç kız uzun bir soluk boyunca saçlarının ne denli birbirine dolandığını ve pasaklı hale geldiğini dert etmedi.
+
+Auri ince bir çırpıyla içyağını karıştırdı. Sakinleştirici bir nefes aldı. Cürufsuyu kavanozunu tutup yavaşça içyağına döktü. Derhal bulanan karışımın beyazı azıcık pembeye çaldı. Genç kız en gururlu sırıtışını takındı ve tekrar tekrar karıştırdı.
+
+Auri kehribar renkli esansı bir arının çabukluğu ve bir çiçeğin şefkatiyle topladı. Onu da güğüme dökmesiyle beraber odayı misk, gizem ve haz doldurdu. Sıvıyı karıştırdı ve havaya selas kokusu yayıldı.
+
+Gayretli bir yüz ifadesiyle bir kez daha karıştırdı. Bir kez daha. Karışımın yoğunlaştığını hissediyordu. Durup ince çubuğu bir kenara bıraktı.
+
+Derin bir nefes alıp verdi. Gidip yüzünü, elini ve ayağını duruladı. İkişerli gruplar halinde eşyalarını aldı ve onları ait oldukları yerlere geri taşıdı. Şişeleri, lambaları ve tavaları; Ağaç’a, Uğrak’a ve Çınıltı’ya götürdü.
+
+Tüm bunlar bitince artık soğumuş olan bakır çanağı aldı ve Uğrak’a taşıdı. Güğümü eğip elini içine soktu ve solgun, hoş kokulu sabunun düzgün, kavisli kubbesini havaya kaldırdı.
+
+Taçyaprak biçimli tabağın düz kenarını kullanarak sabunun kubbesini kesti. Onu farklı ebatta ve şekilde kalıplara ayırdı. Kalıpların her biri kendine hastı, hepsi genç kızın gönlüne göreydi. Yaptığı iş ona hınzırca bir zevk verse de bu ufacık hevesten zarar gelmezdi.
+
+Auri arada bir kendini şımartırdı. Öyle yapmak gerçekten özgür olduğunu hatırlamasına yardım ederdi.
+
+Genç kız çalışırken sabunun hakiki beyaz olmadığını gördü. En solgunundan pembeydi; tek bir damla kanın karıştığı taze krema rengindeydi. Auri kalıplardan birini kaldırdı. Büyük bir dikkatle hareket ederek onu yüzüne götürdü ve diliyle hafifçe dokundu.
+
+Sabunun mükemmelliği karşısında sırıttı. Bu öpülesi bir sabundu. Yumuşak fakat sıkıydı. Gizemli fakat hoştu. Temerant’ta eşi benzeri yoktu. Ne yerde ne de gökte onun gibi bir tane daha bulabilirdiniz.
+
+Auri bir saniye daha bekleyemedi. Sekerek leğenine koştu. Yüzünü, elini ve ayağını yıkadı. Güldü. Kahkahaları o kadar tatlı, yüksek ve uzundu ki kulağa bir çan, bir arp, bir şarkı gibi geliyordu.
+
+Genç kız Çınıltı’ya gitti. Bir güzel yıkandı. Saçlarını taradı. Güldü ve sıçradı.
+
+Alelacele eve döndü. Yatağına uzandı. Yapayalnız gülümsedi ve uyudu.
+
+
+
+
+
+Hareket Etmenin Zarif Yolu
+
+
+Altıncı gün Auri uyandığında adı yüreğinde bir çiçek gibi açıyordu.
+
+Foxen da bunu hissediyordu ve genç kız onu ıslattığı zaman patlarcasına ışıldadı. Bu bir açılma günüydü. Bir yapma günü.
+
+Auri daha yatağından bile kalkmadan bu duruma güldü. Gün çok geç gelmişti ama genç kızın dert ettiği yoktu. Sabunu daha önce hiç olmadığı kadar güzeldi. Hem zaten işleri istediğin zaman halletmenin kendince bir saygınlığı vardı.
+
+Fakat bu düşünce coşkusunu bir nebze dizginledi. Onun ziyareti beklemezdi. O yakında burada olacaktı. Yarın. Ve Auri hâlâ paylaşacak kadar iyi bir şey bulamamıştı. Verecek mükemmel bir hediyeden yoksundu.
+
+Kabuk’tan çıkmanın üç yolu vardı... Fakat hayır.
+
+Genç kız yüzünü, elini ve ayağını yıkadı. Saçları altın sarısı bir bulut haline gelene kadar onları taradı. Su içti ve en gözde elbisesini giydi. Oyalanmadı. Bugün yoğun bir gün olacaktı.
+
+Yapılacak ilk iş, mükemmel sabununun düzenlemesiydi. Yedi kalıp hazırlamıştı. Biri Kabuk’taki leğeninin yanında güvendeydi. Biriyle dün Çınıltı’da yıkanmıştı. En iri dördünü kurusunlar diye Fırınlar’a taşıdı. En küçük ve hoş olanını sedir kutusunun dibine yerleştirdi ki bir daha asla sabunsuz kalmasın. Bu iyi öğrendiği bir dersti. Doğrusu buydu.
+
+Auri bir eli sedir kutunun içindeyken durakladı. Acaba o bir kalıp öpülesi sabun ister miydi? Bu hiç fena bir hediye değildi. O daha önce benzerini görmüş olamazdı...
+
+Fakat hayır. Daha düşünmeyi bile bitirmeden Auri’nin yüzü kızardı. Öyle bir şey büsbütün münasebetsizlik olurdu. Hem zaten bu ona uygun değildi. Gizemler uymasına uyardı ama onda fazlasıyla meşelik vardı. Tabii söğütlük de. Üstelik o kesinlikle selas türünden biri sayılmazdı.
+
+Auri güzel sedir kutusunun kapağını kapattı. Fakat ayağa kalktığında etrafındaki odanın aniden parlayıp sallandığını hissetti. Sendeleyerek iki adım attı ve düşmeden önce yatağına oturdu, içinin korkuyla dolduğunu hissetti. Bakışları irkintiyle odada gezindi. Yoksa bu?..
+
+Hayır. Bu daha sıradan bir şeydi. Karnı yine boş bir davuldu. Kendisiyle ilgilenmeyi unutmuştu.
+
+O yüzden başı dönmekten vazgeçtiğinde genç kız Ağaç’a gitti. Fakat bir hevese kapılarak arkadaşlık etsin diye atılgan Dayanak’ı da yanına aldı. Dayanak şimdiye kadar Şeyaltı’nı çok fazla gezip görmemişti. Tüm ağırlığına, yaptığı onca yardıma karşılık Auri bu kadarını ona çok göremezdi.
+
+Tavalar Ağaç’ın ikram edebileceği neredeyse yegâne meyveydi. Ama sadece yaklaşık olarak. Genç kız bir teneke tava alıp temiz suyla doldurdu. Gaz lambasını elinde kalan sondan ikinci kibritiyle yaktı. Sonra tezgâhın üstüne çıktı ve kavanozunu indirmek için iki elini birden uzattı. Kuru bezelyeler kavanozun içinde yuvarlanarak neşeyle cama çarptı.
+
+Auri kavanozun kapağını açtı ve avucu dolana kadar bezelyeleri eline döktü. Eli o kadar büyük değildi. Avucundaki bezelyeler azdı ama sahip olduklarının yarısıydı. Auri onları tavaya boşalttığında ısınan suyun içine şıpır şıpır döküldüler. Genç kız kısa bir tereddüdün ardından omuz silkti ve kalan yarısını da tavaya boşalttı.
+
+Auri boş kavanozu tezgâha bırakıp etrafına bakındı. Ocağın kırpışığı ve Foxen’ın yeşil mavi parıltısı rafların ne kadar boş olduğunu gözler önüne seriyordu. Genç kız iç çekti ve bu düşünceyi kafasından çıkardı. Bugün çorba yapacaktı. Yarın o ziyarete gelecekti. Ve ondan sonra...
+
+Ondan sonra elinden geleni yapacaktı. Tek yol buydu. Her gördüğün şeyi sahiplenmezdin. Öylesi seni küçük kılardı. Seni güvende tutardı. O sayede karşılaştığın her elma arabasını altüst etmeden dünyada sorunsuzca hareket edebilirdin. Ve dikkati elden bırakmazsan, gidişatın uygun bir parçasıysan yardımın dokunurdu. Çatlakları onarırdın. Çarpık bulduğun şeyleri düzeltirdin. Ve dünyanın buna karşılık seni bir paçavra gibi fırlatıp atmayacağına güvenirdin. Yaşamanın tek zarif yolu buydu. Diğer her şey kibir ve gururdu.
+
+Auri bal peteğini yanında götürüp yarın onunla paylaşabilir miydi? Bu olup olabilecek en güzel şeydi. Onun hayatında çok az tatlılık vardı. Bu doğruydu.
+
+Fokurdayan su tavadaki bezelyeleri dans ettirirken Auri bunlara kafa yordu. Bir yandan da dalgın bir edayla küstah Dayanak’ın yüzeyini okşadı ve uzun uzun düşündükten sonra evet, başka bir şey çıkmazsa bal peteğinin işini göreceğine karar verdi.
+
+Genç kız çorbayı biraz karıştırıp, ona tuz ekledi. Tereyağının bıçaklarla dolu olmamasını isterdi. Biraz yağ buna pek güzel tat katardı. Biraz yağ buna kusursuz bir uyum sağlardı.
+
+
+* * *
+
+Auri güzel çorbasının ardından tekrar Kabuk’a döndü. Dayanak ona arkadaşlık ederken Tonozlar’dan veya Veneret’ten geçecek hali yoktu. O yüzden uzun yolu kullanarak Aldıcık’tan gitti.
+
+Karnı tok ve yanında misafiri varken ilerlediği dar taş tünellerde acele etmedi. Kollarında ağır Dayanak’la Kuşkuntu’ya varmak üzereyken ayaklarının altında hafif bir çıtırtı duyup durdu.
+
+Aşağıya baktığı zaman zemine saçılmış yapraklar gördü. Onları burada bulmanın akla yatkın hiçbir tarafı yoktu. Aldıcık’ta ne rüzgâr vardı ne de su. Genç kız etrafına bakındıysa da en ufak bir kuş pisliğiyle bile karşılaşmadı. Havayı kokladı ama burnuna ne misk ne de sidik kokusu geldi.
+
+Fakat tehditkâr bir şeye de rastlamadı. Mekânı bulandıran bir şey yoktu. Burada bir çarpıklık veya hata bulunmuyordu. Fakat hiçbir şey olmadığı da söylenemezdi. Bu yarım bir şeydi. Bir gizem.
+
+Meraklanan genç kız Dayanak’ı nazikçe yere bıraktı ve yaprağı eline aldı. Tanıdık görünüyordu. Auri etrafı biraz araştırdı ve onlardan bir avuç kadarını açık bir kapının yakınına saçılmış halde buldu. Onları da topladı ve yapraklar elinde hışırdadığında gerçeği anladı.
+
+Auri heyecanlanarak Dayanak’ı Kabuk’a geri götürdü. Gitmeden önce onu yüzeyinden öptü ve tabii ki eksik dişi aşağı bakacak şekilde taş çıkıntıya rahatça yerleştirdi. Sonra sekerek Uğrak’a gitti ve gümüş kâseyi aldı. Hışırtılı yaprağı kâsenin kenarlarına işlenmiş, iç içe geçen yaprak motiflerinde gezdirdi. Yapraklar birbirinin aynısıydı.
+
+
+
+
+Bunun ne anlama geldiğinden emin olamayan Auri başını iki yana salladı. Yine de öğrenmenin tek bir yolu vardı. Gümüş kâseyi de yanına alarak Aldıcık’a koştu ve yaprak kümesini bulduğu kapıdan geçti. Bir taş yığınının üstünden atladı. Kopuk bir kirişin etrafından dolandı.
+
+Daha önce Aldıcık’ın bu kısmına gelip gelmediğini bilmiyordu. Yine de yolunu bulması kolay oldu. Zemin oraya buraya tıpkı ekmek kırıntıları gibi yayılan bir iki yaprakla bezeliydi.
+
+Auri en sonunda dümdüz yukarı çıkan dar bir boşluğun dibine geldi. Burası önceki günlerden kalma kadim bir baca mıydı? Bir kaçış tüneli miydi? Bir kuyu muydu?
+
+Boşluk dar ve dikti; fakat Auri ufak tefek biriydi. Elinde gümüş kâse olmasına rağmen bir sincap çabukluğuyla tırmandı. Tepede kısmen eğri duran bir kalasa rastladı. Onu kolayca kenara itti ve bir mahzen odasına çıktı.
+
+Tozlu ve metruk oda, raflarla doluydu. Köşelere fıçılar yığılmıştı. Raflara bohçalar, fıçılar ve kasalar tepeleme istiflenmişti. Toz kokusunun arasında Auri’nin burnuna sokak, ter ve çimen kokuları da geldi. Genç kız etrafına bakındığında duvarın yukarılarında bir pencere ve onun altına saçılmış cam kırıkları gördü.
+
+Unutulmuş bir fırtınanın aşağıya uçurduğu yaprak serpintisi hariç derli toplu bir mekândı. Mısır ve arpa unu çuvalları vardı. Kış elmaları da. Ayrıca incirlerle ve hurmalarla tıka basa doldurulmuş mumlu paketler.
+
+Auri ellerini arkasında kavuşturarak odada gezindi. Bir davulun üzerine çıkmış dansçı misali hafif adımlarla ilerliyordu. Melas fıçıları. Çilek reçeli kavanozları. Birkaç tane kabak, kapının hemen yanındaki bez bohçalarından dışarı dökülmüştü. Auri onları ayağıyla yerlerine iteledi ve bohçanın ağzındaki büzgüyü iyice sıktı.
+
+Sonunda aşağılardaki bir rafa daha yakından bakmak için eğildi. Küçük bir testinin üstüne tek bir yaprak düşmüştü. Auri dikkatle hareket ederek yaprağı kaldırdı, testiyi oradan aldı ve gümüş kâseyi onun yerine bıraktı. Sonra yaprağı kâsenin içine koydu.
+
+Genç kız kendisine odaya sadece özlem dolu bir bakış atma izni verdi. Sonra geldiği yoldan geri gitti. Ancak Aldıcık’ın tanıdık karanlığına döndüğü zaman rahat bir soluk alabildi. Yeni hazinesinin tozunu hevesle sildi. Resim doğruyu söylüyorsa testide zeytin vardı. Hepsi de birbirinden güzeldi.
+
+
+* * *
+
+Zeytinler Ağaç’a gitti. Raflarında biraz yalnız gözüküyorlardı. Fakat yalnızlık bile içi boş bir yankıdan, tuzdan ve bıçaklarla dolu tereyağından iyiydi. Hem de fazlasıyla.
+
+Auri bunun ardından Uğrak’ı kolaçan etti. Buz mavisi şişe kendini tam olarak evinde hissetmiyordu. Doğu duvarındaki en alçak, en sol rafa sığınmıştı. Auri ona nazikçe dokunarak güven vermek için elinden geleni yaptı. O şişelerden hoşlanırdı. Acaba bu uygun bir hediye olabilir miydi?
+
+Auri şişeyi alıp ellerinde çevirdi. Fakat hayır. Bu şişe olmaz. Kara. Karamsar. Başkası için adlandırılmamış.
+
+Peki ya başka bir şişe? İşte bu kulağa neredeyse doğru geliyordu. Tamamen değil ama yaklaşık olarak.
+
+Genç kız Kağnı’daki makyaj masasını düşündü. Masa dün uslanmış ve doğru gözükmüştü. Fakat Auri o esnada epeyce sarsılmış durumdaydı. En iyi halinde değildi. Belki diğerlerinin arasına karışmış bir şişe vardı. Hatalı, kayıp veya yersiz bir şey.
+
+Bu en azından bir başlangıçtı. O yüzden genç kız Dayanak’ın sıcak, tatlı ağırlığını kollarına aldı. Ve Dayanak henüz oraları görmediği için Yüklük’e giderken biraz daha uzun yolu seçerek Gam, Aça ve Lusyen’den geçti.
+
+Genç kız Halkacık’taki yeni ve mükemmel bir daireden farksız oturma odasında durakladı. Dayanak, kadife koltuğa krallar gibi kurulurken Auri de tek kolçaklı kanepeye oturdu ve onu tutmanın hoş ağrısına kapılmış kollarını dinlendirdi.
+
+Fakat uzun uzadıya oturamayacak kadar meşguldü. O nedenle ağır çarkı tekrar kucakladı. Dayanak mekânın tuhaf ve kurnazca nazına hayran kalabilsin diye ağırdan alarak adsız merdivenden yavaşça çıktı. Ve ikisi de yol yordam bilen asil kişiler oldukları için sahanlıktaki mahcup kapıyı görmezden geldiler.
+
+Sırada Kağnı vardı. Auri duvardan atlarken odanın tıpkı hatırladığı gibi olduğunu gördü. Halkacık gibi kusursuz doğrulukta değildi. Fakat göze batan çarpık bir şey yoktu. Yamuk, kayıp ya da göze çarpacak kadar hatalı olan bir şey de. Makyaj masası adam edildikten sonra Kağnı uzun ve sıcak bir kış uykusuna dalmaktan hoşnut gözüküyordu.
+
+Yine de Auri onca yol tepmişti. O nedenle gardırobu açtı ve içine göz attı. Lazımlığa dokundu. Dolabın da içine bakıp başıyla oradaki süpürgeye ve kovaya kibarca selam verdi.
+
+Genç kız makyaj masasını süzdü. Orada birkaç kaliteli şişe vardı. Özellikle biri gözüne takıldı. Şişe küçük ve solgundu. Opal taşı gibi ışıltılıydı. Kurnaz tıpasıyla mükemmeldi. İçinde yaşam olduğunu görmek için Auri’nin onu açmasına gerek yoktu. Kıymetli bir şeydi.
+
+Genç kız Dayanak’ı daha yukarı kaldırdı ve onun merkezlenmişliğinin tam merkezindeki yuvarlak delikten bakmaya çalıştı. Umudu daha önce gözden kaçırdığı bir şey fark etmekti. Gevşek veya çözünük bir şey. Asılarak bir şeyi serbest bırakabileceği bir sökük. Fakat hayır. İster düz ister eğik baksın makyaj masası tamamıyla adam olmuştu.
+
+İçinde saklı yaşam olan ışıltılı bir şişeden harika bir hediye olurdu. Fakat hayır. Onu almak, sırf boncuk haline getirip bir ipliğin ucundan sarkıtabilmek için bir dişi sökmek kadar aptalca ve zalimceydi.
+
+Genç kız iç çekip oradan ayrıldı. Duvardan çıktı ve adsız merdivenden aşağı indi. Belki Linne’ye gidip aradığı şeye orada bakınabilirdi. Ne de olsa orası dingin bir yerdi ve...
+
+Tam o anda olan oldu. Ayağının altında sinsi bir taş dönüverdi. Auri düşüncelere dalmış vaziyette adsız merdivenden inerken bir taş basamak eğilerek yan yattı. Genç kız ileri doğru yalpaladı.
+
+Auri’nin ağzından bir çığlık koptu ve irkilmesi sırasında Dayanak elinden kaçtı. Çark döne döne kollarından ayrıldı ve altın sarısı saç bulutundan uçup gitti. Tüm ağırlığına karşın düşmekten ziyade süzülür gibiydi. Döndü, döndü ve yedinci basamağa öyle sert vurdu ki taşı çatlattı. Oradan sekerek tekrar havalandı ve yine döne döne pirinç yüzeyinin üstüne düştü. Sahanlığa çarptığı gibi de parçalandı.
+
+Çıkardığı ses sanki kırık bir çanın feryadıydı. Sanki yavaşça sesi kesilen bir arptı. Taş zemine çarpmasıyla birlikte parlak parçalar etrafa saçıldı.
+
+Auri her nasılsa ayakta kaldı. Düşmedi ama ah, kalbi göğsünde buz kesti. Kendini basamaklara sertçe bıraktı. Yürüyemeyecek kadar uyuşmuş durumdaydı. Yüreği tebeşir kadar soğuk ve beyazdı.
+
+Onu hâlâ ellerinde hissedebiliyordu. Çarkın keskin kenarlarının cildinde yarattığı çizgileri görebiliyordu. Genç kız doğruldu ve kaskatı bir yürüyüşle merdivenden indi. Adımları zoraki ve dengesizdi. Düşüncesiz taş basamaklar hiç de komik denemeyecek bir espriyi tekrar tekrar yapan bunak bir ihtiyar misali onu hâlâ düşürmeye çalışıyordu.
+
+Auri gerçeğin farkındaydı. Dünyada hareket ederken daha nazik olması gerekirdi. İşlerin gidişatını bilirdi. Adımlarını daima bir kuş kadar hafif atmazsan tüm dünya kalkıp seni ezmeye gelirdi. Oyun kartlarından bir evmişsin gibi. Taşlara çarpan bir şişeymişsin gibi. Sıcak nefesi arzu ve şarap kokan bir elin sertçe zapt ettiği bir bilekmişsin gibi...
+
+Auri kırılgan bir katılıkla en alt basamakta durdu. Gözleri yere çevriliydi ve güneş sarısı saçları başının etrafından gevşekçe sarkıyordu. Bu olanlar olabilecek tersliklerin en korkuncuydu. Genç kız toz lekeli ufacık ayaklarının ötesine bakmaya cesaret edemiyordu.
+
+Fakat yapacak başka bir şey yoktu. Auri başını kaldırıp baktı. Parçaları görünce yüreği göğsünde tepetaklak oldu. Hayır. Parçalanmamıştı. Kırılmıştı. Çark kırılmıştı.
+
+Genç kızın yüzündeki ifade de adeta kırıldı. Yüzünde o kadar geniş bir sırıtış belirdi ki görseniz gökteki ayı yediğini zannederdiniz. İşte bu. Dayanak kırılmıştı ama bunda bir terslik yoktu. Yumurtalar kırılırdı. Cesaret kırılırdı. Dalgalar kırılırdı. Çark elbette kırılmıştı. Bu kadar güvenilir merkezli biri mükemmel cevaplarını dünyaya başka nasıl salabilirdi ki? Bazı şeyler sabit kalamayacak kadar doğruydu.
+
+Dayanak üç parlak parçaya ayrılmıştı. Her birinde üçer diş bulunan üç tırtıklı şekil. Artık şeylerin kalbine sertçe saplanmış bir pim değildi. Üç tane üç olup çıkmıştı.
+
+Auri’nin sırıtışı daha da genişledi. Oh. Oh. Oh. Tabii ya. Olan şey, genç kızın daha önceden aradığı bir şey değildi. Tüm arayışlarının boşa çıkması boşuna değildi. Her şeyde bir eğrilik olması boşuna değildi. Çark üç şeydi. O üç getiriyordu ve dolayısıyla Auri de üç götürmeliydi. Ona üç mükemmel üç hediye edecekti.
+
+Alnı kırışan genç kız dönüp merdivenlerden yukarı baktı. Çark yedinci basamağa çarpmıştı. Dayanak orayı apaçık çatlatmıştı. Öyleyse yedi değildi. Demek ki Auri’nin yanıldığı bir diğer şey de bu olmuştu. O yedinci gün gelmeyecekti. Bugün gelecekti.
+
+Bu bilgi başka bir zamanda Auri’ye feleğini şaşırtabilirdi. Onu kan ter içinde bırakabilir ve ona tüm umudunu yitirtebilirdi. Fakat bugün değil. Gerçekler tüm tatlılığıyla kendini belli etmişken değil. Her şey ansızın bu kadar açıkça gözlerinin önüne serilmişken değil. Yolunu yordamını bilirsen üç şey kolaydı.
+
+Auri öylesine afallamıştı ki nerede durduğunu fark etmesi birkaç dakikasını aldı. Daha doğrusu merdivenin nerede olduğunu nihayet bildiğini fark etti. Ne olduğunu. Nereye ait olduğunu. Merdivenin bir adı vardı. Genç kız Bilge Dokuz’daydı.
+
+
+
+
+
+Şeylerin Gizli Kalbi
+
+
+Auri üçleri toplayıp Kabuk’a doğru yola çıktı. Artık çok daha hafif gibiydiler ve bunda şaşılacak bir şey yoktu. Ne de olsa sırlarını dökmüşlerdi ve Auri tutulan sırların ne kadar ağırlaşabileceğini çok iyi biliyordu.
+
+Kabuk’a vardığında üçleri dikkatle sıraya koydu. Fakat onları duvar boyunca dizme işini bile bitirmeden ona vereceği ilk hediyenin şeklini gördü. Bundan daha açık olamazdı. Burada bu kadar çok boş yer olması boşuna değildi. Duvardaki ikinci rafı hiç kullanmamış olması boşuna değildi.
+
+Dişler harikuladeydi. Hepsi de öyle doğruydu ki. Bir peri masalındaki dilekler gibi ışıldıyorlardı.
+
+Neyin nasıl olması gerektiğini gören Auri ilk parlak üçü hemen Kağnı’ya götürdü. Çırılçıplak adamlarla dolu Yüklük’ten, daire mükemmelliğindeki Halkacık’tan, sonra da yeni adlandırılmışlığına ilgisiz kalan Bilge Dokuz’dan geçti.
+
+Sırıtan genç kız, parlak pirinç üçü dosdoğru gardırop çekmecesine götürdü ve onu büyük bir dikkatle oraya yerleştirdi. Üç, yerine zahmetsizce girdi. Oraya bir sevgili veya bir anahtar kadar iyi uydu. Auri iki eliyle birden uzanarak çarşafın serin beyaz yumuşaklığını parmak uçlarında hissetti. Çarşafı kaldırıp dudaklarına bastırdı.
+
+O artık gitmekte serbestti. Ve onu bağrına basan Auri Kabuk’a kadar nefes nefese koştu.
+
+İkinci üçü dosdoğru Taklar’a taşıdı. Ve soluksuz bir an boyunca Şeyaltı’nı geride bıraktı. Yıkık bir duvardan, gizli bir merdivenden, sonra da bir mahzenden geçip bildiği en güzel hanın kilerine girdi. Üçü oraya bıraktı. Karşılığında da masumiyetle ve aşağısıyla doldurulmuş tombul beyaz bir denizördeği aldı. Güzel ve yumuşak kuş şefkatli fısıltılar ve hatırlanan yollar taşımaktaydı.
+
+Auri tünellerde hızla koşarken onun ağırlığı altında bile bir tüy kadar hafifti.
+
+Kabuk’a döndüğünde dikkatle kendi yatağının karşısındaki duvara dayanacak şekilde bir döşek serdi; eğer o Auri’ye ihtiyaç duyarsa sadece fısıldamanın bile yeterli olacağı kadar yakına. Eğer o isterse geceleyin Auri’ye şarkı söyleyecek kadar yakına.
+
+Genç kız böyle düşününce biraz kızarıp bozardı, sonra mükemmel çarşafı alıp yatağına serdi. Onu elleriyle nazikçe düzeltti. Çarşafın güzelliği, tenine konan bir öpücük gibiydi.
+
+Auri sırıtarak Uğrak’a geçti ve battaniyeyi geri getirdi. Battaniyenin onu terk etmesi de boşuna değildi. Belli ki işin aslını Auri’den çok daha önce anlamıştı. Artık genç kıza göre değildi, hepsi bu. Auri battaniyeyi yatağa sererken onun artık zeminden korkmadığını fark etti. Geri çekilip güvenli, yumuşak ve tatlı battaniyesine baktı.
+
+Uğrak’tan onun güzel çay fincanını getirdi. Sayfaları ayrılmamış, okunmamış ve tamamıyla bilinmeyen deri ciltli kitabı getirdi. Küçük taş heykelciği getirdi. Bunların üçünü de onun yatağının yanındaki rafa koydu ki o da kendince bir güzelliğe kavuşsun.
+
+Ve böylece ona hediyesi tamam oldu: kalabileceği güvenli bir yer.
+
+
+
+
+Auri her ne kadar durup o anın keyfini çıkarmak istese de çalışmaya devam etmeliydi. Bugünün kuralı üçtü. Ona iki hediye daha lazımdı.
+
+
+* * *
+
+Genç kız Uğrak’a geri döndü ve rafları alıcı gözle süzdü. Bu, hem bir yapma günü olduğu, hem de işler yolunda gittiği için onun daha başka neye ihtiyaç duyabileceğine kafa yordu.
+
+Bu farklı bir düşünme biçimiydi. Kendisi için bir isteği yoksa da Auri bu tür bir şeyin tehlikeli olduğunun bilincindeydi.
+
+Genç kız çobanpüskülü şişesini süzdü. Tüm cazibesine rağmen şişenin ona uygun olmadığını biliyordu. Pek değildi. Bu beklenmedik bir ziyaret hediyesiydi. Bal peteği... yani yaklaşık olarak. Auri uzanıp iki parmağıyla defne meyvesi kavanozuna dokundu. Kavanozu havaya kaldırdı ve ışığa tuttu. Onun defnedeki gibi bir huzurdan yoksun olduğu doğruydu.
+
+İşte o zaman taşlar yerine oturdu. Tabii ya. Auri biraz gülümsedi. Hiddeti uzak tutmak için daha iyi ne olabilirdi? Hem zaten bu genç kızın çoktan başladığı bir şeyin üçüncü parçasıydı. Bir mum. Bir mum tam ona göreydi.
+
+Auri elinde kavanozla ansızın durdu. Nefesini tutup zamanın amansız gerçeklerini düşündü. Bir mum, eritmeyi gerektirirdi. Ve karıştırmayı. En önemlisi de bir kalıbı. Bu hiç iyi bir fikir değildi. Onun ufak tefek şeylerle işi olmazdı.
+
+Hayır. Bir kalıp. Ona layık bir mum yapmanın tek yolu buydu.
+
+Ve bu da Hudut anlamına geliyordu.
+
+Auri neredeyse hiç tereddüt etmedi. Kendisi için böyle bir şeye cesaret edemezdi ama işlerin böyle yürümesi gerekliydi. O birkaç güzel şeye layık değil miydi? Tüm yaptıklarından sonra şöyle şık ve şahane bir hediyeyi hak etmiyor muydu?
+
+Tabii ki ediyordu. O yüzden Auri kendinden emin adımlarla Kabuk’a gitti. O yüzden demir şeritli kapıyı ardına kadar açtı. O yüzden Hudut’a girdi.
+
+
+* * *
+
+Burası temiz ve sessiz bir yerdi.
+
+İçeride bir iş tezgâhı vardı. Koyu renkli, düzgün ve taş kadar sertti. Yanlarında takozlar vardı. Bir mengene. Bir dizi askılı halka. Bir hamlaç ayaklığı. Hepsi de çelikten, pirinçten ve demirden olan güzelce düzenlenmiş musluklar ve vanalar vardı.
+
+
+
+
+Burada hepsi tek bir duvara takılı raflar da bulunuyordu. Bunlar çok çeşitli malzemelerle doluydu. Tıpalı şişelerinde asitler ve ayıraçlar. Taş bir kavanoz içinde sülfonyum. Pudra, tuz, toprak ve bitki askılıkları. Yağlar ve merhemler. On dört çeşit su. Çiftekireç. Kâfur. Hepsi de mükemmeldi. Hepsi de doğruydu. Hepsi de toplanmış, etkinleştirilmiş ve en uygun yöntemlerle saklanmıştı.
+
+Aletler de vardı. Süzgeçler ve imbikler. Fitilsiz geniş bir ocak. Bakır tüp kangalları. Potalar, maşalar ve kaynatma leğenleri. Kalburlar, filtreler ve bakır bıçaklar. Kaliteli bir öğütücü ve ışıl ışıl, tertemiz bir burgulu pres.
+
+Taş raflar da vardı. Dikkatli raflar. Buralardaki kalın mı kalın camların arkasına şişeler diziliydi. Bu şişeler diğer raflardaki gibi tertipli değildi. Etiketlenmemişlerdi. Ne yaptıkları belirsizdi. Birine çığlık hapsedilmişti. Bir diğerine hiddet. Bu ikisi oradaki pek çok şişe arasında en korkunçları sayılmazdı.
+
+Auri defne meyvesi kavanozunu iş tezgâhının üstüne koydu. Kendisi ufak tefek bir şeydi. Bir öksüz gibi. Çoğu şey ona büyük gelirdi. Çoğu masa ona göre çok yüksekti. Ama bu değildi.
+
+Bu oda eskiden Auri’ye aitti. Fakat hayır. Bu oda bir zamanlar birine aitti. Şimdi ise değildi. Bu bir hiç yerdi. Kimseye ait olamayacak boş bir sayfaydı. Auri’ye göre değildi.
+
+Genç kız iş tezgâhındaki bir çekmeceyi açtı ve pirinçten yapılma çembergen bir kalıp çıkardı. Mum yapmaya uygun bir tane.
+
+Auri ciddi bir yüz ifadesiyle defne meyvesini süzdü. Meyve bir insanın bekleyebileceği kadar saygılı ve gururluydu. Ve biraz kuzey rüzgârının soğuğunu taşıyordu. İşte buna gem vurmak lazımdı. Ve... evet. İçinden azıcık öfke de geçiyordu. Auri iç çekti. Bu hiç işini görmezdi.
+
+Genç kız ona gözlerini kısarak baktı ve sayıları aklından geçirdi. Bakışları kalıp ile meyve kavanozu arasında gidip gelirken ondan çıkacak balmumunun yeterli olmayacağını fark etti. Bütün bir muma, doğru düzgün bir muma, ona uygun bir muma yetmezdi.
+
+Auri oradan ayrıldı ve bal peteğiyle beraber geri geldi. Azimli bir edayla çalışarak peteği prese koydu ve ballar alttaki şeffaf, temiz kavanozun içine akana kadar kulpu çevirdi. Bu iş yarım dakikasını aldı.
+
+Auri balı damlamaya bırakıp yakındaki fitilsiz ocağı tutuşturdu ve bir potayı uygun yükseklikte tutsun diye halka ayaklığını döndürdü. Presi açtı, yassı balmumu tabakasını kaldırdı ve onu dörde katladıktan sonra potanın içine bıraktı. Pek balmumu olduğu söylenemezdi; belki iki avucunu birden dolduracak kadar vardı. Fakat defne meyvesinin yağını çıkardıktan sonra kalıbı doldurmaya yeterdi.
+
+Genç kız eriyen balmumunu gözden geçirip kafa salladı. Bu balmumu da pek uykucuydu. Güz tatlılığıyla, gayretle ve haklı mükâfatla doluydu. Çanların da istenmediği söylenemezdi. İçinde Auri’nin ona yakıştıramadığı hiçbir şey yoktu.
+
+
+
+
+Bu sıradan bir şair mumu olsaydı bal ve defne yeterdi. Fakat o alelade bir şair değildi. Auri’ye daha fazlası lazımdı.
+
+Bir tutam kâfur ideal olurdu. Sadece bir tutam, bir kıvılcım, azıcık uçucu bir şey. Fakat Auri’nin hiç kâfuru yoktu ve boş dileklerde bulunmak bir anlam taşımıyordu. Bu yüzden genç kız onun yerine Uğrak’tan bir taşımlık mükemmel katran getirdi. Hem bağlamak, hem de yaklaşan kış mevsiminde onun sağlığını sağlıklı tutmak için.
+
+Auri balmumunu ince bir cam çubukla karıştırırken gülümsedi. Doğru düzgün aletlerle çalışmak az bulunur bir zevk, bütünüyle bir lükstü. Reçinenin erimesini bekleyen genç kız ıslık çalarak potayı karıştırdı ve sırıttı. Bu onun sırrı olacaktı. Muma ıslığını da katacaktı.
+
+Auri daha sonra Kabuk’a gitti ve gri cam kavanozdaki mükemmel lavantasını süzdü, içinden bir filiz aldı. Sonra iki. O anda içi utançla doldu. Bu pintilik edilecek bir zaman değildi. O yardımlarında asla pintilik etmezdi. Hoş rüyalar hak etmiyor muydu?
+
+Auri kavanozu bıraktı ve içindeki lavantanın tam yarısını çekip aldı. Bazen nasıl da açgözlü oluyordu.
+
+Genç kız Hudut’a geri döndü. Defne meyvesini öğütücüye döktü. Üç kez nefes alıp verene kadar meyveler bir güzel doğrandı. Auri durup yarısı ezilmiş meyve yığınına baktı.
+
+Defnenin uygun yolunu biliyordu. İşleri halletmenin sabırlı yolunu da. Posalı meyveyi öğüt ve kaynat. Artığı süzgeçten geçir. Tekrar kaynat, arıt ve posayı ayrıştırmak için soğut. Uygun aletlerle bile bu saatlerce sürecek bir işti. Saatlerce ve saatlerce.
+
+Fakat o çok yakında geliyordu. Auri bunun farkındaydı. Vaktinin olmadığının da.
+
+Zaten bütün bir günü olsaydı bile posanın içinde ona uymayan özler mevcuttu. O öfkeyle ve ümitsizlikle tıka basa doluydu. Ve gurur... eh, ona da ziyadesiyle sahipti.
+
+Böyle şeyleri ayırmanın bazı yolları vardı. Auri hepsini bilirdi. Oksitlemenin dönüş dairesini bilirdi. Süblimleştirebilir ve süzdürebilirdi. Bu sanatı icra edenlerin gıptayla bakacağı bir şekilde dışlayıcı olmayan bir özü izole edebilirdi.
+
+Fakat şimdi aydan yardım dilenilecek vakit değildi. Auri ne işini aceleye getirebilir, ne de geciktirebilirdi. Bazı şeyler çok önemliydi, işte o kadar.
+
+Durum tıpkı Mandrag’ın dediği gibiydi: Simyanın onda dokuzu kimyaydı. Ve kimyanın onda dokuzu beklemekti.
+
+
+
+
+Peki ya diğer parça? Onluğun o incecik biri? Simyanın esası, Auri’nin uzun zaman önce öğrendiği bir şeydi. Genç kız onu dünyanın gerçek şeklini anlamadan önce çalışmıştı. Küçük olmanın anahtarını bilmeden önce.
+
+Bu doğruydu. Sanatını öğrenmişti. Onun gizli yollarını ve sırlarını biliyordu. İnsanı bu sanat dahilinde hünerli kılan tüm incelikli, tatlı ve ikna edici yöntemleri... O yöntemler öyle çoktu ki. Bazıları yazıp çizerdi. Semboller vardı. İşaretler. Bağlar ve bağlamlar. Formüller. Matematiksel işleyişler...
+
+Ama artık ondan çok daha fazlasını biliyordu. Daha önceden doğru olduğunu sandığı şeylerin çoğu birer hileden ibaretti. Dünyayla konuşmanın akıllıca yollarından daha fazlası değillerdi. Onlar altı üstü birer pazarlıktı. Bir yakarış. Bir çağrı. Bir feryat.
+
+Fakat altta, şeylerin gizli kalbinin derinliklerinde bir sır yatıyordu. Mandrag genç kıza bunu hiç anlatmamıştı. Auri adamın da bildiğini sanmıyordu. O bu sırrı kendi kendine keşfetmişti.
+
+Auri dünyanın gerçek şeklini biliyordu. Diğer her şey gölge ve uzak davulların sesiydi.
+
+Genç kız kendi kendine başını salladı. Ufacık yüzünde ciddi bir ifade vardı. Balmumu kıvamındaki öğütülmüş meyveyi bir kalbura aktardı ve kalburu bir toplama kavanozunun üstüne koydu.
+
+Auri gözlerini yumdu. Omuzlarını geriye attı. Yavaş ve güçlü bir nefes aldı.
+
+Havada bir gerginlik vardı. Bir ağırlık. Bir bekleyiş. Rüzgâr hiç yoktu. Auri konuşmadı. Dünya gerilip esnedi.
+
+Auri bir nefes daha aldı ve gözlerini açtı.
+
+Auri bir yetim kadar ufaktı. Taşların üstündeki minik ayakları çıplaktı.
+
+Auri doğruldu ve altın sarısı saç halkasının içinde sırıtarak arzusunun tüm ağırlığını dünyanın sırtına vurdu.
+
+Ve her şey sarsıldı. Ve her şey onun niyetini anladı. Ve her şey onu hoşnut etmek için harekete geçti.
+
+
+* * *
+
+Fazla geçmeden Auri lavantayla preslenmiş bir kızıl kahverengi mumla Kabuk’a geri döndü. Mumu sahil ve arı kokuyordu. Mükemmel bir şeydi.
+
+Genç kız yüzünü yıkadı. Ardından elini ve ayağını da yıkadı.
+
+Az kalmıştı. Auri biliyordu. O kısa süre sonra ziyarete gelecekti. Tüm pembemsiliği, tatlılığı, kederi ve kırılmışlığıyla. Bu açılardan tıpkı Auri gibiydi. Ziyarete gelecekti ve beyefendiliğine yakışır şekilde yanında üç şey getirecekti.
+
+Sırıtan Auri yerinde duramıyordu. Kendisi de ona üç şey verecekti.
+
+İlki Taborlin’e layık şiirlerle ve hayallerle dolu sıcacık, akıllı bir mumdu.
+
+İkincisi doğru düzgün bir yerdi. Yüreğini koyabileceği bir raf. Uyuyacağı bir yatak. Oradayken hiçbir şey ona zarar veremeyecekti.
+
+Peki ya üçüncü şey? Eh... Auri boynunu büktü ve yanaklarının yavaşça kızardığını hissetti...
+
+Genç kız sırf oyalanmış olmak için yatak rafında duran küçük taş askere uzandı. Askerin kalkanındaki simgeyi o zamana kadar fark etmemesi garipti. Çok silikti. Fakat evet. Simgede alevden bir dille sarılı kule vardı. Bu sıradan bir asker değil, küçük bir taş Amyr’di.
+
+Auri daha yakından baktığında heykelciğin kollarında da belli belirsiz çizgiler gördü. Bunları daha önce nasıl gözden kaçırdığını bilemiyordu. Bu ufacık bir Ciridae’ydi. Elbette. Elbette öyleydi. Yoksa ona uygun bir hediye olmazdı ki. Genç kız minik heykeli öptü ve tekrar rafa koydu.
+
+Yine de hâlâ üçüncü bir şey vermesi gerekiyordu. Bu sefer genç kızın yüzü kızarmadı. Auri gülümsedi. Yüzünü, elini ve ayağını yıkadı. Sonra seke seke çabucak Uğrak’a gitti ve çobanpüskülü şişesini açtı. İki parmağıyla şişeden tek bir dut çıkardı. Foxen’ın yeşil ışığına rağmen ufacık meyve tanesi kan kadar parlaktı.
+
+Genç kız kendini Gam’a atıp aynaya baktı. Dudaklarını yaladı ve dutu onlara bastırarak soldan sağa gezdirdi. Sonra da onları duta bastırarak ileri geri kaydırdı.
+
+Auri aynadaki yansımasını süzdü. Eskisinden farklı gözükmüyordu. Dudakları en solgunundan pembeydi. Gülümsedi.
+
+Genç kız Kabuk’a geri döndü. Yüzünü, elini ve ayağını yıkadı.
+
+İçi heyecanla fokurdayan Auri onun yatağına baktı. Onun battaniyesine. Onun yatak rafına ve orada onu korumak için bekleyen minik Amyr’e.
+
+Mükemmeldi. Doğruydu. Bir başlangıçtı. O bir gün kalabileceği bir yere ihtiyaç duyacaktı ve o yer hazırdı. O bir gün çıkagelecekti ve Auri onunla ilgilenecekti. Karanlıkta oyuk bir yumurta kabuğu olma sırası bir gün ona gelecekti.
+
+Ve o zaman... Auri gülümsedi. Kendisi için değil. Hayır. Kendisi için asla gülümsemezdi. Kendisi kuytu bir köşeye sığınarak küçük kalmalı, dünyadan saklanmalıydı.
+
+Fakat onun için durum bambaşkaydı. Auri onun için tüm arzularını gün ışığına çıkarırdı. Tüm kurnazlığını ve maharetini konuştururdu. Sonra da ona bir ad koyardı.
+
+Genç kız kendi ekseninde üç kez döndü. Havayı kokladı. Sırıttı. Etrafındaki her şey doğru düzgündü. Nerede olduğunu tamı tamına biliyordu. Tam da olması gereken yerdeydi.
+
+
+
+
+
+Son
+
+
+Şeyaltı’nın derinlerinde ayakları sıcak taşlara basan Auri, hafif fakat hoş bir melodi işitti.
+
+
+
+
+
+Yazarın Sonsözü
+
+
+Durun size bir öykü hakkında bir öykü anlatayım. Çünkü benim işim bu.
+
+
+* * *
+
+2013’ün Ocak ayında bir matemüzisyen, videotriks ve her açıdan harikulade bir insan olan Vi Hart’la beraber San Francisco’daki bir bardaydım. İkimiz de yıllardır farkına bile varmaksızın birbirimizin hayranı olagelmiştik ve kısa süre önce ortak bir dostumuz tarafından tanıştırılmıştık.
+
+Bu yüz yüze ilk görüşmemizdi. Şu an elinizde tuttuğunuz öykünün ön taslağını daha yeni bitirmiştim ve Vi ona bir göz atıp bana fikrini vermeyi kabul etmişti.
+
+Öykü hakkında bir iki saat sohbet ettik. İyi sohbetlerde yaygın olduğu üzere konuşmamız sık sık tuhaf yönlere kaydı.
+
+Vi’nin geribildirimi gerçekten iyiydi. Yalnızca akıllıca olmakla kalmayıp şaşırtıcı derecede derinlikliydi. Ona bundan bahsettiğimde biraz keyifli bir ifade takındı ve işinin çoğunlukla yazmak olduğunu açıkladı. Videolarını senaryolaştırıyor, sonra da kaydediyordu. İşin en zor kısmı senaryolaştırmaktı.
+
+Vi öyküde elden geçirilmesi gereken bazı şeyleri, bazı pürüzleri, bazı mantıksal uygunsuzlukları belirtti. Hoşuna giden kısımları da belirtti ve öyküden bir bütün olarak bahsetti.
+
+Bu arada gecenin o noktasında hafiften çakırkeyif olduğumu belirtmeliyim. Bu benim için az rastlanan bir durumdur. Fakat bir barda takıldığımıza göre içki ısmarlamamak kabalık olurdu. Sonra Vi bir tane daha içtiği için benim de içmem gerekti çünkü dostça davranmak istiyordum. Sonra Vi’yle ilk kez görüşmenin yarattığı tedirginlikle bir tane daha içtim. Sonra öykümün yarattığı tedirginlikle bir tane daha.
+
+Dürüst olmak gerekirse öykü hakkında biraz değil epeyce tedirgindim. Yeni yazılmış öykümün bir enkaz olduğunu yüreğimde hissediyordum. Devasa, dumanı tüten bir enkaz.
+
+“Bir öykünün yapması gereken şeyleri yapmıyor,” dedim ona. “Bir öyküde konuşma, aksiyon, çatışma olur. Bir öyküde birden fazla karakter bulunmalıdır. Ben otuz bin kelimelik bir vinyet yazdım!”
+
+Vi öykümün hoşuna gittiğini söyledi.
+
+“Eh, evet,” dedim. “Benim de hoşuma gidiyor. Ama bunun bir önemi yok. Bak, insanlar bir öyküden belli başlı şeyler beklerler,” diye açıkladım. “Adımını dikkatli atarsan bunlardan bir veya ikisini es geçebilirsin ama hepsini başından savamazsın. Öykümde bir aksiyon sahnesine en yakın şey birinin sabun üretmesi. Birinin sabun üretmesini tarif etmeye sekiz sayfa harcadım. Bunu ancak bir deli yapar.”
+
+Dediğim gibi öykü hakkında derin endişelerim vardı. Ve belki hafif değil epey çakırkeyiftim. Ve nihayet daha önce hiç kimseyle paylaşmadığım bir şeyi dile getiriyordum.
+
+“İnsanlar bunu okuduklarında kızacaklar,” dedim.
+
+Vi bana ciddi gözlerle baktı. “Bu öyküdeki cansız nesnelere karşı hissettiğim duygusal bağ, genellikle diğer kitaplardaki tüm karakterlere karşı hissettiğimden daha güçlüydü,” diye açıkladı. “Bu iyi bir öykü.”
+
+Fakat benim ikna olmaya niyetim yoktu. Başımı iki yana sallarken ona bakmıyordum bile. “Okuyucular belli başlı şeyler beklerler. İnsanlar bunu okuduklarında hüsrana uğrayacaklar. Normal bir öykünün yapması gerekeni yapmıyor.”
+
+Sonra Vi daima hatırlayacağım bir şey söyledi. “Siktir et o insanları,” dedi. “O insanlara göre öyküler sürekli yazılır. Peki ya ben? Benim gibi insanlara göre öyküler nerede?”
+
+Sesi tutkulu, sert ve biraz öfkeliydi. Bu noktada elini masaya vurmuş olabilir. Elini masaya vurduğuna inanmak istiyorum. Gelin vurdu diyelim.
+
+“Bırak o diğer insanlar kendi normal öykülerini okusunlar,” dedi Vi. “Bu öykü onlara göre değil. Bu benim öyküm. Bu öykü benim gibiler için.”
+
+Bu o zamana dek birinin bana söylediği en güzel şeylerden biriydi.
+
+
+* * *
+
+Bu öyküyü yazmak gibi bir niyetim yoktu. Daha doğrusu Auri hakkındaki bu öyküyü, Auri hakkında yazmak gibi bir niyetim yoktu.
+
+Onu yazmaya 2012’nin ortalarında başladım. Niyetim onun George Martin ve Gardner Dozois tarafından düzenlenen Rogues antolojisinde bir kısa hikâye olarak yer almasıydı. Onun oyunbaz bir öykü olacağını ve Auri’nin o kitapta hiç şüphesiz yer alacak daha geleneksel kötü adam türü karakterlere iyi bir tamamlayıcı rolü oynayacağını tahmin ediyordum.
+
+Fakat ortaya beklediğim gibi bir öykü çıkmadı. Basit bir oyunbazlık öyküsünden daha garipti ve de Auri tahmin ettiğimden daha çok sırla ve gizemle doluydu.
+
+Zamanla Auri öyküsü 14.000 kelimeye ulaşınca, öyküden vazgeçtim. Çok uzundu. Çok tuhaftı. Hepsinden de öte antolojiye uygun olmadığı açıklık kazanmıştı. Auri oyunbaz bir karakter değildi. Daha da önemlisi bu bir kısa hikâye değildi.
+
+Teslim tarihini çoktan geçirmiş olmama rağmen Martin ile Gardner çok nazik davrandılar ve bana ilave süre tanıdılar. Bu yüzden onun yerine Bast’ı içeren “The Lightning Tree” adlı öykümü yazdım. İşte o, antolojiye çok daha uygundu.
+
+Fakat Auri’nin öyküsü hâlâ kafamda dört dönüyordu ve ondan kurtulmanın tek yolunun onu bitirmek olduğunu anladım. Zaten Subterranean Press’ten Bili Schafer’a çok öncesinden bir kısa roman borçluydum. Bili pek de çocuklara göre olmayan iki resimli kitabımı, The Adventures of the Princess and Mr. Whiffle: The Thing Beneath the Bed ile onun devamı The Dark of Deep Below’u, basmıştı. O yüzden biraz tuhaf bir öyküden korktuğu yoktu.
+
+Ben de yazmaya devam ettim ve öyküm uzadıkça daha da tuhaflaştı. Bu noktada normalle uzaktan yakından bir ilgisi kalmadığını görebiliyordum. Doğru düzgün bir öykünün yapması gereken hiçbir şeyi yapmıyordu. Geleneksel tüm ölçütlere kıyasla darmadağınıktı.
+
+Fakat şöyle bir durum söz konusuydu. Ben öyküyü sevmiştim. Garipti, hatalıydı, karmakarışıktı ve güya bir öykünün ihtiyacı olan çoğu şeyden yoksundu. Ama tüm bunlara rağmen görevini yerine getiriyordu. Yalnızca Auri ve Şeyaltı hakkında pek çok şey öğrenmekle kalmıyordum, aynı zamanda öykü kendince bir hoşluğa sahip olduğunu da görüyordum.
+
+Sebep her ne olursa olsun öykünün kendi arzularına göre gelişmesine izin verdim. Farklı bir şekle girmesi için onu zorlamadım veya sırf öyle gerekiyor diye içine bir şey sokmadım. Onu kendi haline bırakmaya karar verdim. En azından o an için. En azından sonuna varana dek. Vardığımda muhtemelen elime editör neşterini alıp onu normal bir şeye dönüştürmek için acımasızca bir ameliyat düzenleyeceğimi biliyordum. Ama henüz değil.
+
+Görüyorsunuz ya, bu yoldan daha önce de geçmiştim. Rüzgârın Adı da yapması gereken pek çok şeyi yapmıyor. Kitabın giriş kısmı bir yazar olarak asla yapmamanız gereken şeylerin adeta bir listesi. Ama buna rağmen iş görüyor. Bazen bir öykü iş görür, çünkü farklıdır. Belki bu da o tür bir öyküydü...
+
+Fakat Auri’nin sabun yaptığı sekiz sayfalık sahneyi yazdığımda durumun öyle olmadığını fark ettim. Ben bir sandık öyküsü yazıyordum. Bu tabiri bilmeyenleriniz için açıklayayım; bir sandık öyküsünü yazarsınız, bittiğinde de müsveddeyi bir sandığa kaldırıp aklınızdan çıkarırsınız. Onlar bir yayıncıya satabileceğiniz, insanların okumak isteyecekleri türden öyküler değildir. Onları yazarsınız, sonra ölüm döşeğinizde hatırlar ve yakın bir dostunuzdan basılmamış tüm kâğıtlarınızı yakmasını istersiniz. Tabii internet tarayıcısındaki geçmiş bilgilerinizi sildikten sonra.
+
+Sub Press’ten Bill’in tuhaf projelere açık olduğunu biliyordum ama buna? Hayır. Hayır, bu sırf aklımdan çıkarmak için yazmam gereken bir öyküydü. Auri’yi ve dünyayı daha iyi tanımak için onu yazmalıydım. (Bu arada dünyaya Temerant adını verdim, bilmem çaktınız mı?)
+
+Özetle bu öykünün kendim için olduğunu biliyordum. Başkaları için değildi. Bazen olur böyle şeyler.
+
+Yine de onu seviyordum. Garip ve hoştu. Nihayet Auri’nin sesini bulmuştum. Onu fazlasıyla severim. Üstelik üçüncü şahısla yazmak hakkında bir sürü şey öğrendim. O yüzden tümüyle bir zaman kaybı değildi.
+
+Öykü bittiğinde onu menajerim Matt’e yolladım, çünkü bir yazar olduğunuzda öyle yapmanız gerekir. Ona öyküyü Bill’e teklif edeceğimi, fakat Bill’in onu isteyeceğini düşünmediğimi, çünkü deyim yerindeyse bir enkaz olduğunu söyledim.
+
+Fakat Matt öyküyü okuduğunda ondan hoşlandı.
+
+Beni aradı ve onu Betsy’ye, yani DAW’daki editörüme göndermemiz gerektiğini söyledi.
+
+“Bunu isteyecek hali yok,” dedim. “Bu bir enkaz. Bu ancak bir delinin yazabileceği bir öykü.”
+
+Matt kontratlarıma göre yazdığım tüm kitaplarda ilk ret hakkının Betsy’de olduğunu hatırlattı. “Zaten,” dedi, “nezaket icabı onu da meseleye dahil etmeliyiz. O senin başlıca yayıncın.”
+
+Omuz silktim ve Matt’e çok istiyorsa öyküyü göndermesini söyledim. Betsy’nin onu okuyacağını düşününce biraz utanmadım desem yalan olur.
+
+Fakat okuduğu zaman Betsy de öykümden hoşlandı. Hem de çok. Onu basmak istedi.
+
+İşte o zaman ecel terleri dökmeye başladım.
+
+
+* * *
+
+Vi Hart’la yaptığım sohbetten sonraki aylar içinde bu öyküyü kabaca seksen defa revize ettim. (Bu benim için sıradışı bir durum değil. Hatta bu seferkinin biraz hafif kaldığını bile söyleyebilirim.)
+
+Sürecin bir parçası olarak bu öyküyü üç düzine beta okuyucuya verip bitmek bilmez, saplantılı revizyonlarımda yardımı olsun diye geribildirim topladım. Ve insanların pek çok farklı şekilde tekrar tekrar dile getirdikleri yorum şuydu:
+
+“Başkalarının ne düşüneceğini bilemem. Muhtemelen hoşlanmayacaklar. Ama benim çok hoşuma gitti.”
+
+Bu kadar çok insanın ağzından bunun varyasyonlarını duymak bana garip geldi. Yahu bu yazarın önsözünde bir iki sayfa önce benzer bir şeyi benim de söylediğimi daha yeni fark ediyorum.
+
+İşin aslı şu ki Auri’ye düşkünüm. Bu garip, tatlı, çatlak kızın kalbimde özel bir yeri var. Ona olan sevgim hiç de azımsanacak gibi değil.
+
+Sanırım bunun sebebi ikimizin de kendimizce çatlak olmamız. Daha da önemlisi ikimiz de bunun farkındayız. Auri kendi içinde doğru düzgün olmadığını biliyor ve bu da ona kendini çok yalnız hissettiriyor.
+
+Onun nasıl hissettiğini iyi biliyorum.
+
+Fakat bu başlı başına sıradışı bir durum değil. Ne de olsa ben bir yazarım. Karakterin nasıl hissettiğini bilmek benim işim. Fakat ancak geribildirim toplamaya başladıktan sonra bunun ne kadar yaygın bir duygu olduğunu anladım. Birbiri ardına pek çok kişi bana Auri’ye empati duyduğunu, onun neler hissettiğini anladığını söyledi.
+
+İşte bunu beklemiyordum. Kaçımızın günbegün biraz çatlak ve yalnız hissederek, tıpatıp aynı hislere sahip başkalarıyla çevrili olarak yaşayıp gittiğini merak etmemek elimde değil.
+
+Kısacası, eğer bu kitabı okuduysanız ve hoşunuza gitmediyse üzgünüm. Hepsi benim suçum. Bu garip bir öykü. İkinci kez okursanız belki daha çok hoşlanırsınız. (Öykülerimin çoğu ikinci okuyuşta daha güzeldir.) Ama belki de hoşlanmazsınız.
+
+Bu öyküyü huzur kaçırıcı, itici veya kafa karıştırıcı bulan o insanlardan biriyseniz özür dilerim. Doğrusu bu öykü muhtemelen size uygun değil. İyi haberse dünyada tam size göre yazılmış başka pek çok öykü var. Çok daha fazla hoşlanacağınız öyküler.
+
+Bu öykü hafiften çatlak olan herkes için.
+
+Ben de sizden biriyim. Yalnız değilsiniz. Hepiniz de benim gözümde çok güzelsiniz.
+
+
+Pat Rothfuss
+
+Haziran 2014
+
+
+Not: Çizimlerden hiç bahsetmediğimi daha yeni fark ediyorum ve bu çok büyük bir ayıp. Üstelik yalnızca güzel oldukları için değil. Yalnızca Nathan Taylor benim saplantılı deliliğime katlanacak kadar sabırlı olduğu için de değil. Bu öyküye nasıl dahil oldukları başlı başına ilginç bir öykü olduğu için...
+
+Maalesef daha fazla vaktim ve boş yerim kalmadı. Bu yüzden o öykü, blogumda yer alana kadar beklemek zorunda. Eğer ilgiliyseniz, onu bu adreste aratabilirsiniz: http://www.patrickrothfuss.com
+
+
+
+
+
+Dipnotlar
+
+
+[1] Sekiz yapraklık tabakalar halinde basılan kitap. (ç.n.)
+
+
+
+
+
