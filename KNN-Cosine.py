@@ -40,7 +40,7 @@ X[-1]
 from sklearn.model_selection import train_test_split
 X_train, X_test, Y_train, Y_test = train_test_split(X,Y, test_size = 0.3, random_state = 2)
 knn_cos = KNeighborsClassifier(n_neighbors=3,metric='cosine')
-knn_cos = knn_cos.fit(X,Y)
+knn_cos = knn_cos.fit(X_test,Y_test)
 y_pred=knn_cos.predict(X_test)
 
 #tahmin fonksiyonu
